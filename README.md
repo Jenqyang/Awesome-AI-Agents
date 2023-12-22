@@ -8,13 +8,19 @@ A collection of autonomous agents 🤖️ powered by LLM.
 
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of the power of AI accessible to everyone, to use and to build on. ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)
 - [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. ![GitHub Repo stars](https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer?style=social)
-- [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 - [babyagi](https://github.com/yoheinakajima/babyagi) - An example of an AI-powered task management system. ![GitHub Repo stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social)
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 - [XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)
 - [KwaiAgents](https://github.com/KwaiKEG/KwaiAgents) - A generalized information-seeking agent system with Large Language Models (LLMs). ![GitHub Repo stars](https://img.shields.io/github/stars/KwaiKEG/KwaiAgents?style=social)
 
-### Multi-Agent Simulation Projects
+### Multi-Agent Projects
+
+- [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
+- [generative_agents](https://github.com/joonspk-research/generative_agents) - Interactive Simulacra of Human Behavior ![GitHub Repo stars](https://img.shields.io/github/stars/joonspk-research/generative_agents?style=social)
+- [ai-town](https://github.com/a16z-infra/ai-town) - deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize. ![GitHub Repo stars](https://img.shields.io/github/stars/a16z-infra/ai-town?style=social)
+- [AgentVerse](https://github.com/OpenBMB/AgentVerse) - AgentVerse is designed to facilitate the deployment of multiple LLM-based agents in various applications. AgentVerse primarily provides two frameworks: task-solving and simulation. ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=social)
+- [GPTTeam](https://github.com/101dotxyz/GPTeam) - The main objective of this project is to explore the potential of GPT models in enhancing multi-agent productivity and effective communication. ![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)
+- [ChatArena](https://github.com/Farama-Foundation/chatarena) - ChatArena is a library that provides multi-agent language game environments and facilitates research about autonomous LLM agents and their social interactions. ![GitHub Repo stars](https://img.shields.io/github/stars/Farama-Foundation/chatarena?style=social)
 
 ## Frameworks
 
@@ -33,6 +39,8 @@ A collection of autonomous agents 🤖️ powered by LLM.
 - 
 
 ## Platforms
+
+## Related paper
 
 ## Related blog
 
