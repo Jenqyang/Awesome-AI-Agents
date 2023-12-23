@@ -1,12 +1,14 @@
 # Awesome-AI-Agents 🤖️
 
-A collection of autonomous agents 🤖️ powered by LLM.
+[toc]
 
 ## Applications
 
 ### Autonomous Task Solver Projects
 
-<img src="./images/LLM-based-Agents.png" alt="https://arxiv.org/abs/2309.07864" style="zoom: 67%;" />
+Open-source Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks.
+
+![https://arxiv.org/abs/2309.07864](./images/LLM-based-Agents.png)
 
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of the power of AI accessible to everyone, to use and to build on. ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)
 - [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. ![GitHub Repo stars](https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer?style=social)
@@ -19,6 +21,8 @@ A collection of autonomous agents 🤖️ powered by LLM.
 - [KwaiAgents](https://github.com/KwaiKEG/KwaiAgents) - A generalized information-seeking agent system with Large Language Models (LLMs). ![GitHub Repo stars](https://img.shields.io/github/stars/KwaiKEG/KwaiAgents?style=social)
 
 ### Multi-Agent Projects
+
+![https://arxiv.org/abs/2309.07864](./images/agent-society.png)
 
 - [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
@@ -33,11 +37,13 @@ A collection of autonomous agents 🤖️ powered by LLM.
 
 ### Agents with human
 
-<img src="images/illustration.png" alt="https://arxiv.org/abs/2304.04370" style="zoom:67%;" />
+![https://arxiv.org/abs/2304.04370](images/illustration.png)
 
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - "May the Force be with LLM and Domain Experts." ![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social)
 
 ## Frameworks
+
+![https://arxiv.org/abs/2308.08155](images/autogen_agentchat.png)
 
 - [langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
 - [agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents ![GitHub Repo stars](https://img.shields.io/github/stars/aiwaves-cn/agents?style=social)
@@ -57,10 +63,16 @@ A collection of autonomous agents 🤖️ powered by LLM.
 
 ## Platforms
 
+![](./images/system_design.png)
+
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
 - [RestGPT](https://github.com/Yifan-Song793/RestGPT) - An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
 
-## Related paper
+## Related paper repo
+
+### Suvery
+
+### Paper
 
 ## Related blog
 
