@@ -31,7 +31,7 @@ A collection of autonomous agents 🤖️ powered by LLM.
 
 ### Agents with human
 
-![](https://github.com/agiresearch/OpenAGI/blob/main/images/illustration.png)
+![](images/illustration.png)
 
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - "May the Force be with LLM and Domain Experts." ![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social)
 
