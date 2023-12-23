@@ -9,9 +9,10 @@
   - [Frameworks](#frameworks)
   - [Benchmark](#benchmark)
   - [Platforms](#platforms)
-  - [Related Survey](#related-survey)
-  - [Related Paper-List Repo](#related-paper-list-repo)
-  - [Related Blog](#related-blog)
+  - [Related](#related)
+    - [Survey](#survey)
+    - [Paper-List Repo](#paper-list-repo)
+    - [Blog](#blog)
   - [Reference Repo](#reference-repo)
 
 ## Applications
@@ -91,12 +92,14 @@ Able to connect LLM with the real world.
 - [RestGPT](https://github.com/Yifan-Song793/RestGPT) - An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
 - [AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. ![GitHub Repo stars](https://img.shields.io/github/stars/Josh-XT/AGiXT?style=social)
 
-## Related Survey
+## Related
+
+### Survey
 
 - [A Survey on Large Language Model based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey) <a href='https://arxiv.org/abs/2308.11432'><img src='https://img.shields.io/badge/Paper-PDF-red'></a> 
 - [The Rise and Potential of Large Language Model Based Agents: A Survey](https://github.com/WooooDyy/LLM-Agent-Paper-List) <a href='https://arxiv.org/abs/2309.07864'><img src='https://img.shields.io/badge/Paper-PDF-red'></a> 
 
-## Related Paper-List Repo
+### Paper-List Repo
 
 - [Awesome-Papers-Autonomous-Agent](https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent) - A collection of recent papers on building autonomous agent. Two topics included: RL-based / LLM-based agents.
 - [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) - A repo lists papers related to LLM based agent
@@ -104,7 +107,7 @@ Able to connect LLM with the real world.
 - [awesome-language-agents](https://github.com/ysymyth/awesome-language-agents) - List of language agents based on paper "Cognitive Architectures for Language Agents"
 - [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) - Must-read Papers on LLM Agents.
 
-## Related Blog
+### Blog
 
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) - Amazing blog by Lilian Weng (OpenAI), Jun 23, 2023.
 - [从第一性原理看大模型Agent技术](https://mp.weixin.qq.com/s/PL-QjlvVugUfmRD4g0P-qQ)
