@@ -6,7 +6,7 @@ A collection of autonomous agents 🤖️ powered by LLM.
 
 ### Autonomous Task Solver Projects
 
-![https://arxiv.org/abs/2309.07864](./images/LLM-based-Agents.png)
+<img src="./images/LLM-based-Agents.png" alt="https://arxiv.org/abs/2309.07864" style="zoom: 67%;" />
 
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of the power of AI accessible to everyone, to use and to build on. ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)
 - [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. ![GitHub Repo stars](https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer?style=social)
@@ -33,7 +33,7 @@ A collection of autonomous agents 🤖️ powered by LLM.
 
 ### Agents with human
 
-![https://arxiv.org/abs/2304.04370](images/illustration.png)
+<img src="images/illustration.png" alt="https://arxiv.org/abs/2304.04370" style="zoom:67%;" />
 
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - "May the Force be with LLM and Domain Experts." ![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social)
 
