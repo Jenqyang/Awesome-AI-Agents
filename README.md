@@ -14,6 +14,7 @@
     - [Paper-List Repo](#paper-list-repo)
     - [Blog](#blog)
   - [Reference Repo](#reference-repo)
+  - [交流群](#交流群)
 
 ## Applications
 
@@ -119,3 +120,13 @@ Able to connect LLM with the real world.
 - [awesome-agents](https://github.com/kyrolabs/awesome-agents) - 🤖 Awesome list of AI Agents
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [Inspired projects by babyagi](https://github.com/yoheinakajima/babyagi/blob/main/docs/inspired-projects.md)
+
+
+## 交流群
+
+欢迎加入AI-Agents赛道交流群，与领域专家和行业从业者交流技术理论与行业信息！
+
+|        AI-Agents交流群         | 拉你进群（备注agents-github） |             公众号             |
+| :----------------------------: | :---------------------------: | :----------------------------: |
+| ![](./images/weixin_group.jpg) |   ![](./images/weixin.jpg)    | ![](./images/gongzhonghao.jpg) |
+
