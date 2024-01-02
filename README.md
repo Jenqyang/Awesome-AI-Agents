@@ -8,7 +8,7 @@
     - [Agent Society Simulation](#agent-society-simulation)
   - [Frameworks](#frameworks)
   - [Benchmark](#benchmark)
-  - [Platforms](#platforms)
+  - [Platforms/API](#platformsapi)
   - [Related](#related)
     - [Survey](#survey)
     - [Paper-List Repo](#paper-list-repo)
@@ -33,6 +33,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)
 - [ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬Experimental AI framework for automated short/video content creation. ![GitHub Repo stars](https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social)
 - [KwaiAgents](https://github.com/KwaiKEG/KwaiAgents) - A generalized information-seeking agent system with Large Language Models (LLMs). ![GitHub Repo stars](https://img.shields.io/github/stars/KwaiKEG/KwaiAgents?style=social)
+- [ProAgent](https://github.com/OpenBMB/ProAgent) - An LLM-based Agent for the New Automation Paradigm - Agentic Process Automation ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ProAgent?style=social)
 
 ### Multi-Agent Task Solver Projects
 
@@ -64,6 +65,7 @@ Quickly build and customize agents.
 ![https://arxiv.org/abs/2308.08155](images/autogen_agentchat.png)
 
 - [langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
+- [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
 - [agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents ![GitHub Repo stars](https://img.shields.io/github/stars/aiwaves-cn/agents?style=social)
 - [AutoGen](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)
 - [TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskWeaver?style=social)
@@ -82,7 +84,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [agbenchmark](https://pypi.org/project/agbenchmark/) - by AutoGPT
 
 
-## Platforms
+## Platforms/API
 
 Able to connect LLM with the real world.
 
@@ -92,6 +94,7 @@ Able to connect LLM with the real world.
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - "May the Force be with LLM and Domain Experts." ![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social)
 - [RestGPT](https://github.com/Yifan-Song793/RestGPT) - An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
 - [AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. ![GitHub Repo stars](https://img.shields.io/github/stars/Josh-XT/AGiXT?style=social)
+- [agentlego](https://github.com/InternLM/agentlego) - Enhance LLM agents with versatile tool APIs ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/agentlego?style=social)
 
 ## Related
 
