@@ -34,6 +34,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬Experimental AI framework for automated short/video content creation. ![GitHub Repo stars](https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social)
 - [KwaiAgents](https://github.com/KwaiKEG/KwaiAgents) - A generalized information-seeking agent system with Large Language Models (LLMs). ![GitHub Repo stars](https://img.shields.io/github/stars/KwaiKEG/KwaiAgents?style=social)
 - [ProAgent](https://github.com/OpenBMB/ProAgent) - An LLM-based Agent for the New Automation Paradigm - Agentic Process Automation ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ProAgent?style=social)
+- [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
 
 ### Multi-Agent Task Solver Projects
 
