@@ -66,6 +66,7 @@ Quickly build and customize agents.
 ![https://arxiv.org/abs/2308.08155](images/autogen_agentchat.png)
 
 - [langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
+    - [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social)
 - [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
 - [crewaAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewAI?style=social)
 - [agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents ![GitHub Repo stars](https://img.shields.io/github/stars/aiwaves-cn/agents?style=social)
