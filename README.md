@@ -6,6 +6,7 @@
     - [Autonomous Agent Task Solver Projects](#autonomous-agent-task-solver-projects)
     - [Multi-Agent Task Solver Projects](#multi-agent-task-solver-projects)
     - [Agent Society Simulation](#agent-society-simulation)
+    - [Advanced Components](#advanced-components)
   - [Frameworks](#frameworks)
   - [Benchmark/Evaluator](#benchmarkevaluator)
   - [Platforms/API](#platformsapi)
@@ -58,6 +59,9 @@ Exploring endless possibilities with open-source agent social simulation.
 - [GPTTeam](https://github.com/101dotxyz/GPTeam) - The main objective of this project is to explore the potential of GPT models in enhancing multi-agent productivity and effective communication. ![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)
 - [ChatArena](https://github.com/Farama-Foundation/chatarena) - ChatArena is a library that provides multi-agent language game environments and facilitates research about autonomous LLM agents and their social interactions. ![GitHub Repo stars](https://img.shields.io/github/stars/Farama-Foundation/chatarena?style=social)
 - [Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT) - Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities in #ConversationalAI, 🎮 gaming, 📚 education, and more! 🔥 ![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/Camel-AutoGPT?style=social)
+
+### Advanced Components
+- [mem0](https://github.com/mem0ai/mem0) - Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
 
 ## Frameworks
 
