@@ -150,5 +150,5 @@ Able to connect LLM with the real world.
 
 |        AI-Agents交流群         | 拉你进群（备注agents-github） |             公众号             |
 | :----------------------------: | :---------------------------: | :----------------------------: |
-| ![](./images/weixin_group.jpg) |   ![](./images/weixin.jpg)    | ![](./images/gongzhonghao.jpg) |
+| ![](./images/weixin_group.jpg) |   ![](./images/wechat.jpg)    | ![](./images/gongzhonghao.jpg) |
 
