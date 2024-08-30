@@ -64,6 +64,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 ### Advanced Components
 - [mem0](https://github.com/mem0ai/mem0) - Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
+- [composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks ![GitHub Repo stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=social)
 
 ## Frameworks
 
