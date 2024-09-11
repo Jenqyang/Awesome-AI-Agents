@@ -96,7 +96,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen ![GitHub Repo stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social)
 - [langtrace](https://github.com/Scale3-Labs/langtrace) - Langtrace 🔍 is an open-source, Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. ![GitHub Repo stars](https://img.shields.io/github/stars/Scale3-Labs/langtrace?style=social)
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning. ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social)
-- [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) - A banchmark list for evaluation of large language models.
+- [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) - A benchmark list for evaluation of large language models.
 - [agbenchmark](https://pypi.org/project/agbenchmark/) - by AutoGPT
 
 
