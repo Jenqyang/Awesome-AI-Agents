@@ -149,4 +149,6 @@ Able to connect LLM with the real world.
 
 ## 公众号
 
+公众号：「ChaosstuffAI」
+
 <img src="./images/gongzhonghao.png" width="35%">
