@@ -15,7 +15,7 @@
     - [Paper-List Repo](#paper-list-repo)
     - [Blog](#blog)
   - [Reference Repo](#reference-repo)
-  - [交流群](#交流群)
+  - [公众号](#公众号)
 
 ## Applications
 
@@ -147,11 +147,6 @@ Able to connect LLM with the real world.
 - [Inspired projects by babyagi](https://github.com/yoheinakajima/babyagi/blob/main/docs/inspired-projects.md)
 
 
-## 交流群
+## 公众号
 
-欢迎加入AI-Agents赛道交流群，与领域专家和行业从业者交流技术理论与行业信息！
-
-|        AI-Agents交流群         | 拉你进群（备注agents-github） |             公众号             |
-| :----------------------------: | :---------------------------: | :----------------------------: |
-| ![](./images/weixin_group.jpg) |   ![](./images/wechat.jpg)    | ![](./images/gongzhonghao.jpg) |
-
+<img src="./images/gongzhonghao.png" width="35%">
