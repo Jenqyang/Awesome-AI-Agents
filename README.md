@@ -87,6 +87,7 @@ Quickly build and customize agents.
 - [modelscope-agent](https://github.com/modelscope/modelscope-agent) - An agent framework connecting models in ModelScope with the world ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/modelscope-agent?style=social)
 - [AppAgent](https://github.com/mnotgod96/AppAgent) - A novel LLM-based multimodal agent framework designed to operate smartphone applications. ![GitHub Repo stars](https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social)
 - [superagent](https://github.com/homanp/superagent) - 🥷 The open framework for building AI Assistants ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)
+- [Voice Lab](https://github.com/saharmor/voice-lab) - A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 
 ## Benchmark/Evaluator
 
