@@ -89,6 +89,7 @@ Quickly build and customize agents.
 - [superagent](https://github.com/homanp/superagent) - 🥷 The open framework for building AI Assistants ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)
 - [Voice Lab](https://github.com/saharmor/voice-lab) - A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [AgentSquare](https://github.com/tsinghua-fib-lab/AgentSquare) - Automatic LLM Agent Search In Modular Design Space ![GitHub Repo stars](https://img.shields.io/github/stars/tsinghua-fib-lab/AgentSquare?style=social)
+- [MixedVoices](https://github.com/MixedVoices/mixedvoices) - An Open source tool for analyzing and evaluating AI Voice agents. Track and visualize performance through call analysis and flow charts. Run complex simulations before pushing to production. ![GitHub Repo stars](https://img.shields.io/github/stars/mixedvoices/mixedvoices?style=social)
 
 ## Benchmark/Evaluator
 
