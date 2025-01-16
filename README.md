@@ -90,6 +90,7 @@ Quickly build and customize agents.
 - [Voice Lab](https://github.com/saharmor/voice-lab) - A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [AgentSquare](https://github.com/tsinghua-fib-lab/AgentSquare) - Automatic LLM Agent Search In Modular Design Space ![GitHub Repo stars](https://img.shields.io/github/stars/tsinghua-fib-lab/AgentSquare?style=social)
 - [MixedVoices](https://github.com/MixedVoices/mixedvoices) - An Open source tool for analyzing and evaluating AI Voice agents. Track and visualize performance through call analysis and flow charts. Run complex simulations before pushing to production. ![GitHub Repo stars](https://img.shields.io/github/stars/mixedvoices/mixedvoices?style=social)
+- [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems with a Kanban-inspired approach. ![GitHub Repo stars](https://img.shields.io/github/stars/kaiban-ai/KaibanJS?style=social)
 
 ## Benchmark/Evaluator
 
