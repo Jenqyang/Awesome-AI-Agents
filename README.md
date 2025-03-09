@@ -1,5 +1,6 @@
 # Awesome-AI-Agents 🤖️
 
+[![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jenqyanghou) [![WeChat Badge](https://img.shields.io/badge/WeChat-07C160.svg?style=for-the-badge&logo=WeChat&logoColor=white)](https://www.zhengyang.me/wechat)  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)](https://buymeacoffee.com/zhengyanghou)
 
 - [Awesome-AI-Agents 🤖️](#awesome-ai-agents-️)
   - [Applications](#applications)
@@ -148,6 +149,3 @@ Able to connect LLM with the real world.
 - [Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - A list of top AI agents
 - [ai-agent-roadmap](https://github.com/Yuan-ManX/ai-agent-roadmap) - Explore the latest AI Agent Framework!
 - [Inspired projects by babyagi](https://github.com/yoheinakajima/babyagi/blob/main/docs/inspired-projects.md)
-
-
-[![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jenqyanghou) [![WeChat Badge](https://img.shields.io/badge/WeChat-07C160.svg?style=for-the-badge&logo=WeChat&logoColor=white)](https://www.zhengyang.me/wechat)  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)](https://buymeacoffee.com/zhengyanghou)
