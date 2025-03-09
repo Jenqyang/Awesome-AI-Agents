@@ -15,7 +15,6 @@
     - [Paper-List Repo](#paper-list-repo)
     - [Blog](#blog)
   - [Reference Repo](#reference-repo)
-  - [公众号](#公众号)
 
 ## Applications
 
