@@ -91,6 +91,8 @@ Quickly build and customize agents.
 - [AgentSquare](https://github.com/tsinghua-fib-lab/AgentSquare) - Automatic LLM Agent Search In Modular Design Space ![GitHub Repo stars](https://img.shields.io/github/stars/tsinghua-fib-lab/AgentSquare?style=social)
 - [MixedVoices](https://github.com/MixedVoices/mixedvoices) - An Open source tool for analyzing and evaluating AI Voice agents. Track and visualize performance through call analysis and flow charts. Run complex simulations before pushing to production. ![GitHub Repo stars](https://img.shields.io/github/stars/mixedvoices/mixedvoices?style=social)
 - [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems with a Kanban-inspired approach. ![GitHub Repo stars](https://img.shields.io/github/stars/kaiban-ai/KaibanJS?style=social)
+- [Upsonic](https://github.com/upsonic/upsonic) - Upsonic is a reliable agent framework supporting MCP, offering trusted agent workflows with verification layers. ![GitHub Repo stars](https://img.shields.io/github/stars/upsonic/upsonic?style=social)
+
 
 ## Benchmark/Evaluator
 
