@@ -40,6 +40,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
 - [GenAgent](https://github.com/xxyQwQ/GenAgent) - Build Collaborative AI Systems with Automated Workflow Generation - Case Studies on ComfyUI ![GitHub Repo stars](https://img.shields.io/github/stars/xxyQwQ/GenAgent?style=social)
 - [MLE-agent](https://github.com/MLSysOps/MLE-agent) - Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. 🎆 Code RAG ![GitHub Repo stars](https://img.shields.io/github/stars/MLSysOps/MLE-agent?style=social)
+- [Notte](https://github.com/nottelabs/notte) - Notte is the fastest, most reliable framework for Browser Using Agents.
 
 ### Multi-Agent Task Solver Projects
 
@@ -105,6 +106,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning. ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social)
 - [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) - A benchmark list for evaluation of large language models.
 - [agbenchmark](https://pypi.org/project/agbenchmark/) - by AutoGPT
+- [open-operator-evals](https://github.com/nottelabs/open-operator-evals) — An opensource and reproducible set of evals on web browser using agents
 
 
 ## Platforms/API
