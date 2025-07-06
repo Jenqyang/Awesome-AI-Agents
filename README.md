@@ -100,7 +100,7 @@ Quickly build and customize agents.
 - [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems with a Kanban-inspired approach. ![GitHub Repo stars](https://img.shields.io/github/stars/kaiban-ai/KaibanJS?style=social)
 - [Upsonic](https://github.com/upsonic/upsonic) - Upsonic is a reliable agent framework supporting MCP, offering trusted agent workflows with verification layers. ![GitHub Repo stars](https://img.shields.io/github/stars/upsonic/upsonic?style=social)
 - [Mastra](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)
-
+- [KaizenAgent](https://github.com/Kaizen-agent/kaizen-agent) - Kaizen Agent is the AI agent that improves your LLM app. It runs tests using expected input-output pairs, detects failures, suggests better prompts or code, and opens pull requests. ![GitHub Repo stars](https://img.shields.io/github/stars/Kaizen-agent/kaizen-agent?style=social)
 
 ## Benchmark/Evaluator
 
