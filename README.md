@@ -103,6 +103,7 @@ Quickly build and customize agents.
 - [Upsonic](https://github.com/upsonic/upsonic) - Upsonic is a reliable agent framework supporting MCP, offering trusted agent workflows with verification layers. ![GitHub Repo stars](https://img.shields.io/github/stars/upsonic/upsonic?style=social)
 - [Mastra](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)
 - [LLMling-Agent](https://github.com/phil65/llmling-agent) - Multi-agent workflows and complex Agent interactions, both via YAML manifest and programmatic usage. Pydantic-AI and LiteLLM backends with human-in-the-loop integration ![GitHub Repo stars](https://img.shields.io/github/stars/phil65/llmling-agent?style=social)
+- [Hector](https://github.com/kadirpekel/hector) - Pure A2A-Native Declarative AI Agent Platform ![GitHub Repo stars](https://img.shields.io/github/stars/kadirpekel/hector?style=social)
 
 
 ## Benchmark/Evaluator
