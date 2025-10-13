@@ -51,6 +51,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. ![GitHub Repo stars](https://img.shields.io/github/stars/kuafuai/DevOpsGPT?style=social)
+- [GenoMAS](https://github.com/Liu-Hy/GenoMAS) - A multi-agent framework for robust automation of scientific analysis workflows, such as gene expression analysis. <a href='https://arxiv.org/abs/2507.21035'><img src='https://img.shields.io/badge/Paper-PDF-red'></a> ![GitHub Repo stars](https://img.shields.io/github/stars/Liu-Hy/GenoMAS?style=social)
 
 
 - [Giselle](https://github.com/giselles-ai/giselle) - Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![GitHub Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
@@ -113,9 +114,10 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen ![GitHub Repo stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social)
 - [langtrace](https://github.com/Scale3-Labs/langtrace) - Langtrace 🔍 is an open-source, Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. ![GitHub Repo stars](https://img.shields.io/github/stars/Scale3-Labs/langtrace?style=social)
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning. ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social)
+- [GenoTEX](https://github.com/Liu-Hy/GenoTEX) - A benchmark for evaluating LLM agents on automated gene expression data analysis, featuring comprehensive gene-trait association analysis with expert-curated annotations. (MLCB 2025 Oral) <a href='https://arxiv.org/abs/2406.15341'><img src='https://img.shields.io/badge/Paper-PDF-red'></a> ![GitHub Repo stars](https://img.shields.io/github/stars/Liu-Hy/GenoTEX?style=social)
 - [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) - A benchmark list for evaluation of large language models.
 - [agbenchmark](https://pypi.org/project/agbenchmark/) - by AutoGPT
-- [open-operator-evals](https://github.com/nottelabs/open-operator-evals) — An opensource and reproducible set of evals on web browser using agents
+- [open-operator-evals](https://github.com/nottelabs/open-operator-evals) — An opensource and reproducible set of evals on web browser using agents
 
 
 ## Platforms/API
@@ -130,6 +132,7 @@ Able to connect LLM with the real world.
 - [AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. ![GitHub Repo stars](https://img.shields.io/github/stars/Josh-XT/AGiXT?style=social)
 - [agentlego](https://github.com/InternLM/agentlego) - Enhance LLM agents with versatile tool APIs ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/agentlego?style=social)
 - [UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/UFO?style=social)
+- [aiXiv](https://github.com/aixiv-org) - A next-generation open access ecosystem for AI-generated scientific discovery, featuring AI or human peer review for research authored by AI Scientists and Robot Scientists. <a href='https://arxiv.org/abs/2508.15126'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
 - [aiXplain](https://github.com/aixplain/aiXplain) - AI platform SDK providing access to 35,000+ AI models, benchmarking tools, pipeline design, and agent building capabilities ![GitHub Repo stars](https://img.shields.io/github/stars/aixplain/aiXplain?style=social)
 
 ## Related
@@ -143,6 +146,7 @@ Able to connect LLM with the real world.
 ### Paper-List Repo
 
 - [Awesome-Papers-Autonomous-Agent](https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent) - A collection of recent papers on building autonomous agent. Two topics included: RL-based / LLM-based agents.
+- [Awesome-AgenticLLM-RL-Papers](https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers) - A comprehensive survey and paper collection on agentic reinforcement learning for LLMs, covering planning, tool use, memory, reasoning, and self-improvement. <a href='https://arxiv.org/abs/2509.02547'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
 - [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) - A repo lists papers related to LLM based agent
 - [LLM-Agent-Paper-Digest](https://github.com/XueyangFeng/LLM-Agent-Paper-Digest) - papers related to LLM-agent that published on top conferences
 - [awesome-language-agents](https://github.com/ysymyth/awesome-language-agents) - List of language agents based on paper "Cognitive Architectures for Language Agents"
