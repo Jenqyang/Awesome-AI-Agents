@@ -49,6 +49,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 
 ![](./images/multi-agent.png)
 
+- [Cache-to-Cache](https://github.com/thu-nics/C2C) - Novel paradigm for direct semantic communication between LLMs via KV-Cache, enabling multi-agent systems to communicate without text intermediation ![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/C2C?style=social)
 - [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. ![GitHub Repo stars](https://img.shields.io/github/stars/kuafuai/DevOpsGPT?style=social)
