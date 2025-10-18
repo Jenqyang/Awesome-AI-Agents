@@ -107,6 +107,7 @@ Quickly build and customize agents.
 - [Mastra](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)
 - [LLMling-Agent](https://github.com/phil65/llmling-agent) - Multi-agent workflows and complex Agent interactions, both via YAML manifest and programmatic usage. Pydantic-AI and LiteLLM backends with human-in-the-loop integration ![GitHub Repo stars](https://img.shields.io/github/stars/phil65/llmling-agent?style=social)
 - [Hector](https://github.com/kadirpekel/hector) - Pure A2A-Native Declarative AI Agent Platform ![GitHub Repo stars](https://img.shields.io/github/stars/kadirpekel/hector?style=social)
+- [Neurolink](https://github.com/juspay/neurolink) - Universal AI development platform that unifies 12+ AI providers with MCP support, multi-agent workflows, and production-ready enterprise features. TypeScript-native framework. ![GitHub Repo stars](https://img.shields.io/github/stars/juspay/neurolink?style=social)
 
 
 ## Benchmark/Evaluator
