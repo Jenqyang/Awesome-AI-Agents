@@ -42,6 +42,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [MLE-agent](https://github.com/MLSysOps/MLE-agent) - Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. 🎆 Code RAG ![GitHub Repo stars](https://img.shields.io/github/stars/MLSysOps/MLE-agent?style=social)
 - [Notte](https://github.com/nottelabs/notte) - Notte is the fastest, most reliable framework for Browser Using Agents.
 - [OpenLens AI](https://github.com/jarrycyx/openlens-ai) - Fully Autonomous Research Agent for Health / Medicine ![GitHub Repo stars](https://img.shields.io/github/stars/jarrycyx/openlens-ai?style=social)
+- [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) - First agentic LLM for autonomous data science (data tasks, data research) [![GitHub Repo stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze)
 
 ### Multi-Agent Task Solver Projects
 
