@@ -44,6 +44,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Notte](https://github.com/nottelabs/notte) - Notte is the fastest, most reliable framework for Browser Using Agents.
 - [OpenLens AI](https://github.com/jarrycyx/openlens-ai) - Fully Autonomous Research Agent for Health / Medicine ![GitHub Repo stars](https://img.shields.io/github/stars/jarrycyx/openlens-ai?style=social)
 - [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) - Agentic LLM that autonomously completes the full data science pipeline from preparation to analyst-grade reports. ![GitHub Repo stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social)
+- [KodeAgent](https://github.com/barun-saha/kodeagent) - The Minimal Agent Engine, enabling seamless integration with your platform. KodeAgent offers tool-calling (ReAct) and sanboxed code-executing (CodeAct) agents, supported by planning and observation. ![GitHub Repo stars](https://img.shields.io/github/stars/barun-saha/kodeagent?style=social)
 
 ### Multi-Agent Task Solver Projects
 
