@@ -148,6 +148,7 @@ Able to connect LLM with the real world.
 - [UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/UFO?style=social)
 - [aiXiv](https://github.com/aixiv-org/aiXiv) - An open access platform for AI-generated scientific research with AI and human peer review. ![GitHub Repo stars](https://img.shields.io/github/stars/aixiv-org/aiXiv?style=social)
 - [aiXplain](https://github.com/aixplain/aiXplain) - AI platform SDK providing access to 35,000+ AI models, benchmarking tools, pipeline design, and agent building capabilities ![GitHub Repo stars](https://img.shields.io/github/stars/aixplain/aiXplain?style=social)
+- [Registry Broker](https://github.com/hashgraph-online/registry-broker) - Universal AI agent index aggregating agents from NANDA, MCP, Virtuals, A2A, and ERC-8004 registries with search and discovery APIs. ![GitHub Repo stars](https://img.shields.io/github/stars/hashgraph-online/registry-broker?style=social)
 
 ## Related
 
