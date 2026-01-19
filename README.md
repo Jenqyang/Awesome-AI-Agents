@@ -117,6 +117,7 @@ Quickly build and customize agents.
 - [LLMling-Agent](https://github.com/phil65/llmling-agent) - Multi-agent workflows and complex Agent interactions, both via YAML manifest and programmatic usage. Pydantic-AI and LiteLLM backends with human-in-the-loop integration ![GitHub Repo stars](https://img.shields.io/github/stars/phil65/llmling-agent?style=social)
 - [Hector](https://github.com/kadirpekel/hector) - Pure A2A-Native Declarative AI Agent Platform ![GitHub Repo stars](https://img.shields.io/github/stars/kadirpekel/hector?style=social)
 - [VoltAgent](https://github.com/VoltAgent/voltagent) - An open source TypeScript Framework for building AI agents with built-in LLM observability. ![GitHub Repo stars](https://img.shields.io/github/stars/voltagent/voltagent?style=social)
+- [pydantic-collab](https://github.com/boazkatzir/pydantic-collab) - A multi-agent framework powered by Pydantic-AI, enabling collaboration via handoffs and consultations. Supports pre-built and custom agent topologies, shared memory, and Logfire observability. ![GitHub Repo stars](https://img.shields.io/github/stars/boazkatzir/pydantic-collab?style=social)
 
 
 ## Benchmark/Evaluator
