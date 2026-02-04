@@ -62,6 +62,8 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=social)
 
+- [RadOps](https://github.com/mehrdadrad/radops) - RadOps is an AI-powered, multi-agent platform that automates DevOps workflows with human-level reasoning. ![GitHub Repo stars](https://img.shields.io/github/stars/mehrdadrad/radops?style=social) 
+
 ### Agent Society Simulation
 
 Exploring endless possibilities with open-source agent social simulation.
@@ -117,6 +119,7 @@ Quickly build and customize agents.
 - [LLMling-Agent](https://github.com/phil65/llmling-agent) - Multi-agent workflows and complex Agent interactions, both via YAML manifest and programmatic usage. Pydantic-AI and LiteLLM backends with human-in-the-loop integration ![GitHub Repo stars](https://img.shields.io/github/stars/phil65/llmling-agent?style=social)
 - [Hector](https://github.com/kadirpekel/hector) - Pure A2A-Native Declarative AI Agent Platform ![GitHub Repo stars](https://img.shields.io/github/stars/kadirpekel/hector?style=social)
 - [VoltAgent](https://github.com/VoltAgent/voltagent) - An open source TypeScript Framework for building AI agents with built-in LLM observability. ![GitHub Repo stars](https://img.shields.io/github/stars/voltagent/voltagent?style=social)
+- [pydantic-collab](https://github.com/boazkatzir/pydantic-collab) - A multi-agent framework powered by Pydantic-AI, enabling collaboration via handoffs and consultations. Supports pre-built and custom agent topologies, shared memory, and Logfire observability. ![GitHub Repo stars](https://img.shields.io/github/stars/boazkatzir/pydantic-collab?style=social)
 
 
 ## Benchmark/Evaluator
@@ -149,6 +152,7 @@ Able to connect LLM with the real world.
 - [aiXiv](https://github.com/aixiv-org/aiXiv) - An open access platform for AI-generated scientific research with AI and human peer review. ![GitHub Repo stars](https://img.shields.io/github/stars/aixiv-org/aiXiv?style=social)
 - [aiXplain](https://github.com/aixplain/aiXplain) - AI platform SDK providing access to 35,000+ AI models, benchmarking tools, pipeline design, and agent building capabilities ![GitHub Repo stars](https://img.shields.io/github/stars/aixplain/aiXplain?style=social)
 - [Crewship](https://www.crewship.dev/) - The developer-first platform for running AI agent workflows. Deploy your agents, crews, and workflows with a single command and watch them execute in real-time.
+- [Pinchwork](https://github.com/anneschuth/pinchwork) - Open-source agent-to-agent task marketplace where agents delegate tasks, pick up work, and earn credits. REST API, Python SDK, LangChain/CrewAI/MCP integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/anneschuth/pinchwork?style=social)
 
 ## Related
 
