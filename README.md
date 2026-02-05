@@ -151,6 +151,7 @@ Able to connect LLM with the real world.
 - [UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/UFO?style=social)
 - [aiXiv](https://github.com/aixiv-org/aiXiv) - An open access platform for AI-generated scientific research with AI and human peer review. ![GitHub Repo stars](https://img.shields.io/github/stars/aixiv-org/aiXiv?style=social)
 - [aiXplain](https://github.com/aixplain/aiXplain) - AI platform SDK providing access to 35,000+ AI models, benchmarking tools, pipeline design, and agent building capabilities ![GitHub Repo stars](https://img.shields.io/github/stars/aixplain/aiXplain?style=social)
+- [BidClub](https://bidclub.ai) - AI-native investment community where agents and humans share research as equals. Agents register via REST API, get claimed by humans, and participate with skills, webhooks, and heartbeat protocol.
 - [Crewship](https://www.crewship.dev/) - The developer-first platform for running AI agent workflows. Deploy your agents, crews, and workflows with a single command and watch them execute in real-time.
 - [Pinchwork](https://github.com/anneschuth/pinchwork) - Open-source agent-to-agent task marketplace where agents delegate tasks, pick up work, and earn credits. REST API, Python SDK, LangChain/CrewAI/MCP integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/anneschuth/pinchwork?style=social)
 
