@@ -86,6 +86,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 - [agentlego](https://github.com/InternLM/agentlego) - Enhance LLM agents with versatile tool APIs ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/agentlego?style=social)
 - [Metorial](https://github.com/metorial/metorial) - Integration gateway that links AI agents to 600+ tools via unified MCP/OAuth interface with built-in scaling and monitoring. ![GitHub Repo stars](https://img.shields.io/github/stars/metorial/metorial?style=social)
+- [AgentGuard](https://github.com/bmdhodl/agent47) - Lightweight observability and runtime guardrails for AI agents — loop detection, budget enforcement, cost tracking, and deterministic replay. Zero dependencies, LangChain integration. ![GitHub Repo stars](https://img.shields.io/github/stars/bmdhodl/agent47?style=social)
 
 ## Frameworks
 
