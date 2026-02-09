@@ -23,6 +23,7 @@
 ### Autonomous Agent Task Solver Projects
 
 Open-source Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks.
+  Holy Grail - Autonomous AI development agent that generates, evolves, and deploys complete web applications with long-term memory. [GitHub Repo stars](https://github.com/dakotalock/holygrailopensource)
 
 ![https://arxiv.org/abs/2309.07864](./images/LLM-based-Agents.png)
 
