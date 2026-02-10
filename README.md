@@ -89,6 +89,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 ## Frameworks
 
+- [GolemCore Bot](https://github.com/alexk-dev/golemcore-bot) - AI agent framework for Java ? skill-based architecture with MCP support, tool calling, RAG, and Telegram integration. ![GitHub Repo stars](https://img.shields.io/github/stars/alexk-dev/golemcore-bot?style=social)
 Quickly build and customize agents.
 
 ![https://arxiv.org/abs/2308.08155](images/autogen_agentchat.png)
