@@ -82,6 +82,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 ### Tools
 - [mem0](https://github.com/mem0ai/mem0) - Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
+- [musecl-memory](https://github.com/musecl/musecl-memory) - Zero-dependency file-based memory sync for AI agents using bash, git, and markdown. Lightweight alternative to vector DBs for agent persistence. ![GitHub Repo stars](https://img.shields.io/github/stars/musecl/musecl-memory?style=social)
 - [composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks ![GitHub Repo stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 - [agentlego](https://github.com/InternLM/agentlego) - Enhance LLM agents with versatile tool APIs ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/agentlego?style=social)
