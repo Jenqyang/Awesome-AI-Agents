@@ -92,6 +92,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails) - Pre-action authorization for OpenClaw and agent frameworks. `before_tool_call` plugin, 40+ blocked patterns, local or API. Setup: `npx @aporthq/agent-guardrails` ![GitHub Repo stars](https://img.shields.io/github/stars/aporthq/aport-agent-guardrails?style=social)
 - [Agent OS](https://github.com/imran-siddique/agent-os) - A kernel architecture for governing autonomous AI agents. Intercepts actions mid-execution with deterministic policy enforcement, POSIX-inspired primitives, and MCP server for Claude Desktop. ![GitHub Repo stars](https://img.shields.io/github/stars/imran-siddique/agent-os?style=social)
 - [AgentGuard](https://github.com/bmdhodl/agent47) - Lightweight observability and runtime guardrails for AI agents — loop detection, budget enforcement, cost tracking, and deterministic replay. Zero dependencies, LangChain integration. ![GitHub Repo stars](https://img.shields.io/github/stars/bmdhodl/agent47?style=social)
+- [clawr.ing](https://clawr.ing) - Phone calling service for autonomous AI agents. Gives agents the ability to make real outbound phone calls for alerts, briefings, and reminders. 100+ countries, 70+ voices. Compatible with any LLM.
 
 ## Frameworks
 
