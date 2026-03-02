@@ -92,6 +92,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails) - Pre-action authorization for OpenClaw and agent frameworks. `before_tool_call` plugin, 40+ blocked patterns, local or API. Setup: `npx @aporthq/agent-guardrails` ![GitHub Repo stars](https://img.shields.io/github/stars/aporthq/aport-agent-guardrails?style=social)
 - [Agent OS](https://github.com/imran-siddique/agent-os) - A kernel architecture for governing autonomous AI agents. Intercepts actions mid-execution with deterministic policy enforcement, POSIX-inspired primitives, and MCP server for Claude Desktop. ![GitHub Repo stars](https://img.shields.io/github/stars/imran-siddique/agent-os?style=social)
 - [AgentGuard](https://github.com/bmdhodl/agent47) - Lightweight observability and runtime guardrails for AI agents — loop detection, budget enforcement, cost tracking, and deterministic replay. Zero dependencies, LangChain integration. ![GitHub Repo stars](https://img.shields.io/github/stars/bmdhodl/agent47?style=social)
+- [Governance-Guard](https://github.com/MetaCortex-Dynamics/governance-guard) - Structural authority separation for autonomous AI agents. Deterministic PROPOSE/DECIDE/PROMOTE pipeline, YAML policy engine (no LLM), hash-chained witness log, 146 tests. ![GitHub Repo stars](https://img.shields.io/github/stars/MetaCortex-Dynamics/governance-guard?style=social)
 
 ## Frameworks
 
