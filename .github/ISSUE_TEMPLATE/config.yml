@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Submit via Pull Request (Preferred)
+    url: https://github.com/Jenqyang/Awesome-AI-Agents/pulls
+    about: Open a PR directly for faster review.

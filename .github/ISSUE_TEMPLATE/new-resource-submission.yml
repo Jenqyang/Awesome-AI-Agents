@@ -1,0 +1,104 @@
+name: New Resource Submission
+description: Propose a new resource for this list (project, benchmark, paper-list, or blog).
+title: "Submission: <name>"
+labels:
+  - submission
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your submission.
+        Please provide concise, evidence-based information. Marketing-heavy submissions may be closed.
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Target section
+      description: Choose the section where this resource should be added.
+      options:
+        - Applications / Autonomous Agent Task Solver Projects
+        - Applications / Multi-Agent Task Solver Projects
+        - Applications / Agent Society Simulation
+        - Applications / Advanced Components
+        - Applications / Tools
+        - Frameworks
+        - Benchmark/Evaluator
+        - Platforms/API
+        - Related / Survey
+        - Related / Paper-List Repo
+        - Related / Blog
+        - Reference Repo
+    validations:
+      required: true
+
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+      placeholder: e.g. OpenPaw
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Primary URL
+      description: Repository URL or canonical page.
+      placeholder: https://github.com/org/repo
+    validations:
+      required: true
+
+  - type: input
+    id: license
+    attributes:
+      label: License (if open source)
+      placeholder: MIT / Apache-2.0 / GPL-3.0 / N/A
+    validations:
+      required: false
+
+  - type: textarea
+    id: value
+    attributes:
+      label: Why this is valuable for the agent ecosystem
+      description: Share concrete value, integration/use cases, and who benefits.
+      placeholder: |
+        - What practical problem does it solve?
+        - How does it help agent builders/users?
+        - Any adoption or usage evidence?
+    validations:
+      required: true
+
+  - type: textarea
+    id: readme
+    attributes:
+      label: README/documentation quality check
+      description: Confirm docs are complete enough for users to evaluate and use.
+      placeholder: |
+        Include links or notes for:
+        - Install/Setup
+        - Usage examples
+        - Architecture/features
+        - Limitations or constraints (if any)
+    validations:
+      required: true
+
+  - type: textarea
+    id: line
+    attributes:
+      label: Suggested one-line entry (neutral tone)
+      description: Use concise, factual language.
+      placeholder: "- [Project](https://github.com/org/repo) - One-line neutral description."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I searched README and confirmed this is not a duplicate.
+          required: true
+        - label: This submission is not an advertisement.
+          required: true
+        - label: The description avoids unverifiable claims (e.g., "best", "first") unless clearly cited.
+          required: true

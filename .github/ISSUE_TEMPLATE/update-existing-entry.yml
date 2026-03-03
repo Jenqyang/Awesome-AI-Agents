@@ -1,0 +1,61 @@
+name: Update Existing Entry
+description: Request a correction, removal, or significant update for an existing entry.
+title: "Update: <existing entry name>"
+labels:
+  - curation
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Existing entry name
+      placeholder: e.g. AgentGuard
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Section in README
+      placeholder: e.g. Tools / Frameworks / Benchmark/Evaluator
+    validations:
+      required: true
+
+  - type: dropdown
+    id: change_type
+    attributes:
+      label: Change type
+      options:
+        - Fix typo/format
+        - Update URL/repo move
+        - Update description
+        - Remove outdated or inactive entry
+        - Reclassify to a different section
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason and evidence
+      description: Include links, screenshots, archived URLs, or concrete evidence.
+      placeholder: Explain what changed and why this update is necessary.
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested
+    attributes:
+      label: Suggested replacement line (if applicable)
+      placeholder: "- [Project](https://github.com/org/repo) - Updated one-line description."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I verified this request against the current README.
+          required: true
+        - label: I included concrete evidence for this change.
+          required: true
