@@ -91,7 +91,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 ![https://arxiv.org/abs/2308.08155](images/autogen_agentchat.png)
 
-- [GolemCore Bot](https://github.com/alexk-dev/golemcore-bot) - Open-source Java framework for building autonomous AI agents with multi-LLM support, skill-based architecture, MCP tools, RAG, Web UI, and Telegram integration. ![GitHub Repo stars](https://img.shields.io/github/stars/alexk-dev/golemcore-bot?style=social)
+- [GolemCore Bot](https://github.com/alexk-dev/golemcore-bot) - Open-source Java framework for building autonomous AI agents with multi-LLM support, skill-based architecture, MCP tools, RAG, Web UI, and Telegram integration. ![GitHub Repo stars](https://img.shields.io/github/stars/alexk-dev/golemcore-bot?style=social&cacheSeconds=10)
 - [langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
     - [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social)
 - [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
