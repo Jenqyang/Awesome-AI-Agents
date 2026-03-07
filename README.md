@@ -49,6 +49,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [OpenClaw](https://github.com/openclaw/openclaw) - Open-source personal AI assistant that runs locally across platforms and can take actions through chat channels and tools. ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - Language agents for software engineering that can resolve GitHub issues in real repositories. ![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social)
 - [Cline](https://github.com/cline/cline) - Open-source autonomous coding agent in VS Code for planning, coding, and tool use across real projects. ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=social)
+- [Autohand Code CLI](https://github.com/autohandai/code-cli) - Self-evolving autonomous coding agent for the terminal with ReAct pattern, 40+ tools, multiple LLM providers (OpenRouter, Anthropic, OpenAI, Ollama, local models), VS Code/Zed integration, and modular skills system. ![GitHub Repo stars](https://img.shields.io/github/stars/autohandai/code-cli?style=social)
 
 ### Multi-Agent Task Solver Projects
 
