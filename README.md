@@ -162,6 +162,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) - A benchmark list for evaluation of large language models.
 - [agbenchmark](https://pypi.org/project/agbenchmark/) - by AutoGPT
 - [open-operator-evals](https://github.com/nottelabs/open-operator-evals) — An opensource and reproducible set of evals on web browser using agents
+- [Potato](https://github.com/davidjurgens/potato) - Annotation platform for human evaluation of AI agent traces with step-by-step review, quality control, and multi-annotator support. ![GitHub Repo stars](https://img.shields.io/github/stars/davidjurgens/potato?style=social)
 
 
 ## Platforms/API
