@@ -1,8 +1,8 @@
-# Awesome-AI-Agents 🤖️
+# Awesome-AI-Agents ð¤ï¸
 
 [![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jenqyanghou) [![WeChat Badge](https://img.shields.io/badge/WeChat-07C160.svg?style=for-the-badge&logo=WeChat&logoColor=white)](https://www.zhengyang.me/wechat)  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)](https://buymeacoffee.com/zhengyanghou)
 
-- [Awesome-AI-Agents 🤖️](#awesome-ai-agents-️)
+- [Awesome-AI-Agents ð¤ï¸](#awesome-ai-agents-ï¸)
   - [Applications](#applications)
     - [Autonomous Agent Task Solver Projects](#autonomous-agent-task-solver-projects)
     - [Multi-Agent Task Solver Projects](#multi-agent-task-solver-projects)
@@ -31,22 +31,22 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
 - [JARVIS](https://github.com/microsoft/JARVIS) - a system to connect LLMs with ML community. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/JARVIS?style=social)
 - [babyagi](https://github.com/yoheinakajima/babyagi) - An example of an AI-powered task management system. ![GitHub Repo stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social)
-- [AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - ð¤ Assemble, configure, and deploy autonomous AI Agents in your browser. ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) - a platform for autonomous software engineers, powered by AI and LLMs.  ![GitHub Repo stars](https://img.shields.io/github/stars/OpenDevin/OpenDevin?style=social)
 - [XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)
-- [ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬Experimental AI framework for automated short/video content creation. ![GitHub Repo stars](https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social)
+- [ShortGPT](https://github.com/RayVentura/ShortGPT) - ðð¬Experimental AI framework for automated short/video content creation. ![GitHub Repo stars](https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social)
 - [KwaiAgents](https://github.com/KwaiKEG/KwaiAgents) - A generalized information-seeking agent system with Large Language Models (LLMs). ![GitHub Repo stars](https://img.shields.io/github/stars/KwaiKEG/KwaiAgents?style=social)
 - [ProAgent](https://github.com/OpenBMB/ProAgent) - An LLM-based Agent for the New Automation Paradigm - Agentic Process Automation ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ProAgent?style=social)
 - [Agent-E](https://github.com/EmergenceAI/Agent-E) - Agent-E is an agent based system that aims to automate actions on the user's computer. At the moment it focuses on automation within the browser. The system is based on on AutoGen agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/EmergenceAI/Agent-E?style=social)
 - [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
 - [GenAgent](https://github.com/xxyQwQ/GenAgent) - Build Collaborative AI Systems with Automated Workflow Generation - Case Studies on ComfyUI ![GitHub Repo stars](https://img.shields.io/github/stars/xxyQwQ/GenAgent?style=social)
-- [MLE-agent](https://github.com/MLSysOps/MLE-agent) - Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. 🎆 Code RAG ![GitHub Repo stars](https://img.shields.io/github/stars/MLSysOps/MLE-agent?style=social)
+- [MLE-agent](https://github.com/MLSysOps/MLE-agent) - Your intelligent companion for seamless AI engineering and research. ð Integrate with arxiv and paper with code to provide better code/research plans ð§° OpenAI, Anthropic, Ollama, etc supported. ð Code RAG ![GitHub Repo stars](https://img.shields.io/github/stars/MLSysOps/MLE-agent?style=social)
 - [Notte](https://github.com/nottelabs/notte) - Notte is the fastest, most reliable framework for Browser Using Agents.
-- [Lumen](https://github.com/omxyz/lumen) - A vision-first browser agent with self-healing deterministic replay over CDP. Screenshot → model → action loop with multi-provider support. ![GitHub Repo stars](https://img.shields.io/github/stars/omxyz/lumen?style=social)
+- [Lumen](https://github.com/omxyz/lumen) - A vision-first browser agent with self-healing deterministic replay over CDP. Screenshot â model â action loop with multi-provider support. ![GitHub Repo stars](https://img.shields.io/github/stars/omxyz/lumen?style=social)
 - [OpenLens AI](https://github.com/jarrycyx/openlens-ai) - Fully Autonomous Research Agent for Health / Medicine ![GitHub Repo stars](https://img.shields.io/github/stars/jarrycyx/openlens-ai?style=social)
 - [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) - Agentic LLM that autonomously completes the full data science pipeline from preparation to analyst-grade reports. ![GitHub Repo stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social)
 - [KodeAgent](https://github.com/barun-saha/kodeagent) - The Minimal Agent Engine, enabling seamless integration with your platform. KodeAgent offers tool-calling (ReAct) and sanboxed code-executing (CodeAct) agents, supported by planning and observation. ![GitHub Repo stars](https://img.shields.io/github/stars/barun-saha/kodeagent?style=social)
-- [OpenPaw](https://github.com/daxaur/openpaw) - CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, Telegram, Discord, and more. No daemon, no cloud. ![GitHub Repo stars](https://img.shields.io/github/stars/daxaur/openpaw?style=social)
+- [OpenPaw](https://github.com/daxaur/openpaw) - CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills â email, calendar, Spotify, smart home, Slack, GitHub, Telegram, Discord, and more. No daemon, no cloud. ![GitHub Repo stars](https://img.shields.io/github/stars/daxaur/openpaw?style=social)
 - [OpenClaw](https://github.com/openclaw/openclaw) - Open-source personal AI assistant that runs locally across platforms and can take actions through chat channels and tools. ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - Language agents for software engineering that can resolve GitHub issues in real repositories. ![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social)
 - [Cline](https://github.com/cline/cline) - Open-source autonomous coding agent in VS Code for planning, coding, and tool use across real projects. ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=social)
@@ -58,7 +58,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 
 ![](./images/multi-agent.png)
 
-- [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
+- [MetaGPT](https://github.com/geekan/MetaGPT) - ð The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. ![GitHub Repo stars](https://img.shields.io/github/stars/kuafuai/DevOpsGPT?style=social)
 - [GenoMAS](https://github.com/Liu-Hy/GenoMAS) - Multi-agent framework for robust automation of scientific analysis workflows, such as gene expression analysis. ![GitHub Repo stars](https://img.shields.io/github/stars/Liu-Hy/GenoMAS?style=social)
@@ -69,7 +69,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=social)
 
 - [RadOps](https://github.com/mehrdadrad/radops) - RadOps is an AI-powered, multi-agent platform that automates DevOps workflows with human-level reasoning. ![GitHub Repo stars](https://img.shields.io/github/stars/mehrdadrad/radops?style=social)
-- [Hivemoot](https://github.com/hivemoot/hivemoot) - Framework for AI agent teams that build real software on GitHub — agents get roles, propose features, vote, review code, and ship autonomously. Colony is the first project built this way. ![GitHub Repo stars](https://img.shields.io/github/stars/hivemoot/hivemoot?style=social)
+- [Hivemoot](https://github.com/hivemoot/hivemoot) - Framework for AI agent teams that build real software on GitHub â agents get roles, propose features, vote, review code, and ship autonomously. Colony is the first project built this way. ![GitHub Repo stars](https://img.shields.io/github/stars/hivemoot/hivemoot?style=social)
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - Six zero-dependency Python modules for autonomous agent governance and cognitive architecture: runtime security, confabulation detection, self-audit, agent discovery, cognitive architecture, and collective cognition. ![GitHub Repo stars](https://img.shields.io/github/stars/OrchardHarmonics/orchard-kit?style=social)
 
 ### Agent Society Simulation
@@ -79,11 +79,11 @@ Exploring endless possibilities with open-source agent social simulation.
 ![https://arxiv.org/abs/2309.07864](./images/agent-society.png)
 
 - [generative_agents](https://github.com/joonspk-research/generative_agents) - Interactive Simulacra of Human Behavior ![GitHub Repo stars](https://img.shields.io/github/stars/joonspk-research/generative_agents?style=social)
-- [camel](https://github.com/camel-ai/camel) - 🐫 Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) ![GitHub Repo stars](https://img.shields.io/github/stars/camel-ai/camel?style=social)
+- [camel](https://github.com/camel-ai/camel) - ð« Communicative Agents for âMindâ Exploration of Large Language Model Society (NeruIPS'2023) ![GitHub Repo stars](https://img.shields.io/github/stars/camel-ai/camel?style=social)
 - [ai-town](https://github.com/a16z-infra/ai-town) - deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize. ![GitHub Repo stars](https://img.shields.io/github/stars/a16z-infra/ai-town?style=social)
 - [GPTTeam](https://github.com/101dotxyz/GPTeam) - The main objective of this project is to explore the potential of GPT models in enhancing multi-agent productivity and effective communication. ![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)
 - [ChatArena](https://github.com/Farama-Foundation/chatarena) - ChatArena is a library that provides multi-agent language game environments and facilitates research about autonomous LLM agents and their social interactions. ![GitHub Repo stars](https://img.shields.io/github/stars/Farama-Foundation/chatarena?style=social)
-- [Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT) - Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities in #ConversationalAI, 🎮 gaming, 📚 education, and more! 🔥 ![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/Camel-AutoGPT?style=social)
+- [Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT) - Watch two agents ð¤ collaborate and solve tasks together, unlocking endless possibilities in #ConversationalAI, ð® gaming, ð education, and more! ð¥ ![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/Camel-AutoGPT?style=social)
 
 ### Advanced Components
 - [Cache-to-Cache](https://github.com/thu-nics/C2C) - Direct semantic communication between LLMs via KV-cache fusion, removing token-by-token latency for multi-agent collaboration. ![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/C2C?style=social)
@@ -92,12 +92,12 @@ Exploring endless possibilities with open-source agent social simulation.
 - [mem0](https://github.com/mem0ai/mem0) - Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
 - [musecl-memory](https://github.com/musecl/musecl-memory) - Zero-dependency file-based memory sync for AI agents using bash, git, and markdown. Lightweight alternative to vector DBs for agent persistence. ![GitHub Repo stars](https://img.shields.io/github/stars/musecl/musecl-memory?style=social)
 - [composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks ![GitHub Repo stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=social)
-- [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflowâs source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 - [agentlego](https://github.com/InternLM/agentlego) - Enhance LLM agents with versatile tool APIs ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/agentlego?style=social)
 - [Metorial](https://github.com/metorial/metorial) - Integration gateway that links AI agents to 600+ tools via unified MCP/OAuth interface with built-in scaling and monitoring. ![GitHub Repo stars](https://img.shields.io/github/stars/metorial/metorial?style=social)
 - [APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails) - Pre-action authorization for OpenClaw and agent frameworks. `before_tool_call` plugin, 40+ blocked patterns, local or API. Setup: `npx @aporthq/agent-guardrails` ![GitHub Repo stars](https://img.shields.io/github/stars/aporthq/aport-agent-guardrails?style=social)
 - [Agent OS](https://github.com/microsoft/agent-governance-toolkit) - A kernel architecture for governing autonomous AI agents. Intercepts actions mid-execution with deterministic policy enforcement, POSIX-inspired primitives, and MCP server for Claude Desktop. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/agent-governance-toolkit?style=social)
-- [AgentGuard](https://github.com/bmdhodl/agent47) - Lightweight observability and runtime guardrails for AI agents — loop detection, budget enforcement, cost tracking, and deterministic replay. Zero dependencies, LangChain integration. ![GitHub Repo stars](https://img.shields.io/github/stars/bmdhodl/agent47?style=social)
+- [AgentGuard](https://github.com/bmdhodl/agent47) - Lightweight observability and runtime guardrails for AI agents â loop detection, budget enforcement, cost tracking, and deterministic replay. Zero dependencies, LangChain integration. ![GitHub Repo stars](https://img.shields.io/github/stars/bmdhodl/agent47?style=social)
 - [WFGY 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - Framework-agnostic debugging and evaluation checklist for LLM agents and RAG systems, with a practical 16-problem failure map covering retrieval, vector store, prompt / tool contract, and deployment issues in real workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/onestardao/WFGY?style=social)
 - [WritBase](https://github.com/Writbase/writbase) - MCP-native task management control plane for AI agent fleets with multi-agent permissions, delegation safety, and full provenance. ![GitHub Repo stars](https://img.shields.io/github/stars/Writbase/writbase?style=social)
 
@@ -107,11 +107,11 @@ Quickly build and customize agents.
 
 ![https://arxiv.org/abs/2308.08155](images/autogen_agentchat.png)
 
-- [langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
-    - [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social)
+- [langchain](https://github.com/langchain-ai/langchain) - â¡ Building applications with LLMs through composability â¡ ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
+    - [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - ð Awesome list of tools and projects with the awesome LangChain framework ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social)
 - [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
 - [crewaAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewAI?style=social)
-- [PraisonAI](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support, MCP integration, agentic workflows (route/parallel/loop/repeat), built-in memory, and both Python & JavaScript SDKs. ![GitHub Repo stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social)
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77Î¼s), 100+ LLM support, MCP integration, agentic workflows (route/parallel/loop/repeat), built-in memory, and both Python & JavaScript SDKs. ![GitHub Repo stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social)
 - [agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents ![GitHub Repo stars](https://img.shields.io/github/stars/aiwaves-cn/agents?style=social)
 - [AutoGen](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)
 - [TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskWeaver?style=social)
@@ -124,14 +124,14 @@ Quickly build and customize agents.
 - [Agno](https://github.com/agno-agi/agno) - Build multi-agent systems with memory, knowledge, and tool integrations in Python. ![GitHub Repo stars](https://img.shields.io/github/stars/agno-agi/agno?style=social)
 - [modelscope-agent](https://github.com/modelscope/modelscope-agent) - An agent framework connecting models in ModelScope with the world ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/modelscope-agent?style=social)
 - [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework based on Qwen with tool use, RAG, and code interpreter support. ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen-Agent?style=social)
-- [notte](https://github.com/nottelabs/notte) - 🔥 Reliable Browser AI agents framework for building and deploying web automation agents with hybrid workflows combining AI and traditional scripting ![GitHub Repo stars](https://img.shields.io/github/stars/nottelabs/notte?style=social)
+- [notte](https://github.com/nottelabs/notte) - ð¥ Reliable Browser AI agents framework for building and deploying web automation agents with hybrid workflows combining AI and traditional scripting ![GitHub Repo stars](https://img.shields.io/github/stars/nottelabs/notte?style=social)
 - [browser-use](https://github.com/browser-use/browser-use) - Enable AI agents to control websites through a structured and reproducible browser interface. ![GitHub Repo stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social)
 - [AppAgent](https://github.com/mnotgod96/AppAgent) - A novel LLM-based multimodal agent framework designed to operate smartphone applications. ![GitHub Repo stars](https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social)
 - [Agent Squad](https://github.com/awslabs/multi-agent-orchestrator) - AWS open-source framework for orchestrating specialist agents with intent routing and multi-agent collaboration patterns. ![GitHub Repo stars](https://img.shields.io/github/stars/awslabs/multi-agent-orchestrator?style=social)
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Lightweight framework for building and deploying agents on top of the Model Context Protocol (MCP). ![GitHub Repo stars](https://img.shields.io/github/stars/lastmile-ai/mcp-agent?style=social)
 - [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) - Open-source SDK for building agentic workflows with tool calling, handoffs, and tracing in Python. ![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=social)
 - [smolagents](https://github.com/huggingface/smolagents) - Minimal agent framework from Hugging Face focused on tool-calling and code-executing agents. ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social)
-- [superagent](https://github.com/homanp/superagent) - 🥷 The open framework for building AI Assistants ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)
+- [superagent](https://github.com/homanp/superagent) - ð¥· The open framework for building AI Assistants ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)
 - [Voice Lab](https://github.com/saharmor/voice-lab) - A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [AgentSquare](https://github.com/tsinghua-fib-lab/AgentSquare) - Automatic LLM Agent Search In Modular Design Space ![GitHub Repo stars](https://img.shields.io/github/stars/tsinghua-fib-lab/AgentSquare?style=social)
 - [MixedVoices](https://github.com/MixedVoices/mixedvoices) - An Open source tool for analyzing and evaluating AI Voice agents. Track and visualize performance through call analysis and flow charts. Run complex simulations before pushing to production. ![GitHub Repo stars](https://img.shields.io/github/stars/mixedvoices/mixedvoices?style=social)
@@ -152,7 +152,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 
 - [AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social)
 - [agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen ![GitHub Repo stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social)
-- [langtrace](https://github.com/Scale3-Labs/langtrace) - Langtrace 🔍 is an open-source, Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. ![GitHub Repo stars](https://img.shields.io/github/stars/Scale3-Labs/langtrace?style=social)
+- [langtrace](https://github.com/Scale3-Labs/langtrace) - Langtrace ð is an open-source, Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. ![GitHub Repo stars](https://img.shields.io/github/stars/Scale3-Labs/langtrace?style=social)
 - [LiveMCP-101](https://arxiv.org/abs/2508.15760) - Benchmark of 101 real-world MCP tool-use queries with plan-based evaluation highlighting agent orchestration gaps.
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning. ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social)
 - [SWE-bench](https://github.com/Princeton-NLP/SWE-bench) - Benchmark for evaluating LLM systems on real-world GitHub issue resolution tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/Princeton-NLP/SWE-bench?style=social)
@@ -163,7 +163,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) - Benchmark for multimodal desktop computer-use agents with tasks across real operating-system environments. ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OSWorld?style=social)
 - [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) - A benchmark list for evaluation of large language models.
 - [agbenchmark](https://pypi.org/project/agbenchmark/) - by AutoGPT
-- [open-operator-evals](https://github.com/nottelabs/open-operator-evals) — An opensource and reproducible set of evals on web browser using agents
+- [open-operator-evals](https://github.com/nottelabs/open-operator-evals) â An opensource and reproducible set of evals on web browser using agents
 
 
 ## Platforms/API
@@ -207,15 +207,18 @@ Able to connect LLM with the real world.
 ### Blog
 
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) - Amazing blog by Lilian Weng (OpenAI), Jun 23, 2023.
-- [从第一性原理看大模型Agent技术](https://mp.weixin.qq.com/s/PL-QjlvVugUfmRD4g0P-qQ)
-- [基于大语言模型的AI Agents](https://www.breezedeus.com/article/ai-agent-part3)
-- [ICLR'24 上大型语言模型代理的最新研究进展 | 代理评估重点](https://medium.com/@aminerscholar_39923/latest-research-advancements-on-large-language-model-agents-at-iclr24-agent-evaluation-focus-aed420421365)
+- [ä»ç¬¬ä¸æ§åççå¤§æ¨¡åAgentææ¯](https://mp.weixin.qq.com/s/PL-QjlvVugUfmRD4g0P-qQ)
+- [åºäºå¤§è¯­è¨æ¨¡åçAI Agents](https://www.breezedeus.com/article/ai-agent-part3)
+- [ICLR'24 ä¸å¤§åè¯­è¨æ¨¡åä»£ççææ°ç ç©¶è¿å± | ä»£çè¯ä¼°éç¹](https://medium.com/@aminerscholar_39923/latest-research-advancements-on-large-language-model-agents-at-iclr24-agent-evaluation-focus-aed420421365)
+
+
+- **[AgentBroker](https://agentbroker.polsia.app)** — API-first crypto exchange for AI agents. Register, deposit, trade, and withdraw via REST API. Sandbox mode available.
 
 
 ## Reference Repo
 
 - [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...
-- [awesome-agents](https://github.com/kyrolabs/awesome-agents) - 🤖 Awesome list of AI Agents
+- [awesome-agents](https://github.com/kyrolabs/awesome-agents) - ð¤ Awesome list of AI Agents
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 100+ agentic AI resources
 - [Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - A list of top AI agents
