@@ -100,6 +100,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [AgentGuard](https://github.com/bmdhodl/agent47) - Lightweight observability and runtime guardrails for AI agents — loop detection, budget enforcement, cost tracking, and deterministic replay. Zero dependencies, LangChain integration. ![GitHub Repo stars](https://img.shields.io/github/stars/bmdhodl/agent47?style=social)
 - [WFGY 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - Framework-agnostic debugging and evaluation checklist for LLM agents and RAG systems, with a practical 16-problem failure map covering retrieval, vector store, prompt / tool contract, and deployment issues in real workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/onestardao/WFGY?style=social)
 - [WritBase](https://github.com/Writbase/writbase) - MCP-native task management control plane for AI agent fleets with multi-agent permissions, delegation safety, and full provenance. ![GitHub Repo stars](https://img.shields.io/github/stars/Writbase/writbase?style=social)
+- [product-manager-skills](https://github.com/Digidai/product-manager-skills) - Senior PM agent skill for Claude Code with 6 knowledge domains, 30+ frameworks, and 32 SaaS metrics. Pure Markdown, no dependencies. ![GitHub Repo stars](https://img.shields.io/github/stars/Digidai/product-manager-skills?style=social)
 
 ## Frameworks
 
