@@ -9,6 +9,7 @@ body:
       value: |
         Thanks for your submission.
         Please provide concise, evidence-based information. Marketing-heavy submissions may be closed.
+        If this is mainly a gateway to a paid hosted service, explain the standalone OSS value clearly or it may be rejected.
 
   - type: dropdown
     id: section
@@ -83,6 +84,19 @@ body:
       required: true
 
   - type: textarea
+    id: commercialization
+    attributes:
+      label: Commercial dependency check
+      description: Required if this project depends on a paid API, SaaS, credits, or a closed hosted backend.
+      placeholder: |
+        Explain briefly:
+        - What part is open source and usable on its own?
+        - What part depends on the paid/closed service?
+        - Why this is still not mainly an advertisement for the hosted product?
+    validations:
+      required: false
+
+  - type: textarea
     id: line
     attributes:
       label: Suggested one-line entry (neutral tone)
@@ -101,4 +115,6 @@ body:
         - label: This submission is not an advertisement.
           required: true
         - label: The description avoids unverifiable claims (e.g., "best", "first") unless clearly cited.
+          required: true
+        - label: If this depends on a paid or closed hosted service, the open-source part still has meaningful standalone value.
           required: true

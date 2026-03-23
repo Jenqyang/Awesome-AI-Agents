@@ -34,6 +34,7 @@ Specify where this change belongs in `README.md`:
 - [ ] I removed unverifiable claims (e.g., "best", "first") or provided clear evidence.
 - [ ] If this is open source, license information is clear.
 - [ ] The linked project/resource has usable documentation (README/docs).
+- [ ] If this project depends on a paid or closed hosted service, the OSS artifact still has clear standalone value and this PR does not function mainly as service promotion.
 
 ## Proposed entry line
 
@@ -46,3 +47,5 @@ Paste the exact line added/updated:
 ## Evidence (optional but recommended)
 
 Add links proving relevance/quality (docs, examples, benchmark pages, usage references, etc.).
+
+If the project integrates with a paid or closed backend, include 1-3 lines explaining what remains materially useful from the open-source part alone.
