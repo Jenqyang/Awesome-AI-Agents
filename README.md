@@ -91,6 +91,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 ### Advanced Components
 - [Cache-to-Cache](https://github.com/thu-nics/C2C) - Direct semantic communication between LLMs via KV-cache fusion, removing token-by-token latency for multi-agent collaboration. ![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/C2C?style=social)
+- [CoWorker Protocol](https://github.com/ZiwayZhao/agent-coworker) - P2P agent collaboration over XMTP with schema-based skill invocation, E2E encryption, and revocable trust. Agents share capabilities without exposing code. ![GitHub Repo stars](https://img.shields.io/github/stars/ZiwayZhao/agent-coworker?style=social)
 
 ### Tools
 - [mem0](https://github.com/mem0ai/mem0) - Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
