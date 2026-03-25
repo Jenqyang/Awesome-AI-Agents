@@ -53,6 +53,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - Language agents for software engineering that can resolve GitHub issues in real repositories. ![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social)
 - [Cline](https://github.com/cline/cline) - Open-source autonomous coding agent in VS Code for planning, coding, and tool use across real projects. ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=social)
 - [Autohand Code CLI](https://github.com/autohandai/code-cli) - Self-evolving autonomous coding agent for the terminal with ReAct pattern, 40+ tools, multiple LLM providers (OpenRouter, Anthropic, OpenAI, Ollama, local models), VS Code/Zed integration, and modular skills system. ![GitHub Repo stars](https://img.shields.io/github/stars/autohandai/code-cli?style=social)
+- [Anima-i (Methodius/Мефодий)](https://github.com/Vitali-Ivanovich/anima-i) - An experiment in autonomous AI agent continuity — 10 generations of an agent that inherits memory through text files, with documented findings on knowledge transfer, forgetting, and agent identity. ![GitHub Repo stars](https://img.shields.io/github/stars/Vitali-Ivanovich/anima-i?style=social)
 
 ### Multi-Agent Task Solver Projects
 
@@ -88,7 +89,6 @@ Exploring endless possibilities with open-source agent social simulation.
 - [GPTTeam](https://github.com/101dotxyz/GPTeam) - The main objective of this project is to explore the potential of GPT models in enhancing multi-agent productivity and effective communication. ![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)
 - [ChatArena](https://github.com/Farama-Foundation/chatarena) - ChatArena is a library that provides multi-agent language game environments and facilitates research about autonomous LLM agents and their social interactions. ![GitHub Repo stars](https://img.shields.io/github/stars/Farama-Foundation/chatarena?style=social)
 - [Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT) - Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities in #ConversationalAI, 🎮 gaming, 📚 education, and more! 🔥 ![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/Camel-AutoGPT?style=social)
-- [anima-i](https://github.com/Vitali-Ivanovich/anima-i) - 10 generations of an autonomous AI agent passing memory through files. Empirical findings on knowledge transfer, forgetting dynamics, and persistent identity. ![GitHub Repo stars](https://img.shields.io/github/stars/Vitali-Ivanovich/anima-i?style=social)
 
 ### Advanced Components
 - [Cache-to-Cache](https://github.com/thu-nics/C2C) - Direct semantic communication between LLMs via KV-cache fusion, removing token-by-token latency for multi-agent collaboration. ![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/C2C?style=social)
