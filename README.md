@@ -154,6 +154,7 @@ Quickly build and customize agents.
 - [pydantic-collab](https://github.com/boazkatzir/pydantic-collab) - A multi-agent framework powered by Pydantic-AI, enabling collaboration via handoffs and consultations. Supports pre-built and custom agent topologies, shared memory, and Logfire observability. ![GitHub Repo stars](https://img.shields.io/github/stars/boazkatzir/pydantic-collab?style=social)
 - [alive](https://github.com/TheAuroraAI/alive) - Minimal autonomous AI agent framework in a single Python file. Production-hardened through 80+ sessions of real autonomous operation with persistent memory, adaptive wake intervals, circuit breakers, and graceful degradation. ![GitHub Repo stars](https://img.shields.io/github/stars/TheAuroraAI/alive?style=social)
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A) and multi-agent orchestration. ![GitHub Repo stars](https://img.shields.io/github/stars/openagents-org/openagents?style=social)
+- [ORCA Agent Skills](https://github.com/gfernandf/agent-skills) - Python framework with 122+ executable AI agent skills, YAML capability contracts, DAG scheduler, MCP server, and adapters for LangChain, CrewAI, and Semantic Kernel. ![GitHub Repo stars](https://img.shields.io/github/stars/gfernandf/agent-skills?style=social)
 
 
 ## Benchmark/Evaluator
