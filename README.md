@@ -27,6 +27,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 ![https://arxiv.org/abs/2309.07864](./images/LLM-based-Agents.png)
 
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of the power of AI accessible to everyone, to use and to build on. ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)
+- [AXME](https://github.com/AxmeAI/axme) - Durable execution where agents, services, and humans coordinate as equals. Built-in crash recovery, human approval gates, retries, timeouts, and agent control plane with kill switch. Open protocol (AXP) + managed cloud. SDKs: Python, TypeScript, Go, Java, .NET. ![GitHub Repo stars](https://img.shields.io/github/stars/AxmeAI/axme?style=social)
 - [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. ![GitHub Repo stars](https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer?style=social)
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
 - [JARVIS](https://github.com/microsoft/JARVIS) - a system to connect LLMs with ML community. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/JARVIS?style=social)
