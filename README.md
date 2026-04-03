@@ -174,6 +174,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) - A benchmark list for evaluation of large language models.
 - [agbenchmark](https://pypi.org/project/agbenchmark/) - by AutoGPT
 - [open-operator-evals](https://github.com/nottelabs/open-operator-evals) — An opensource and reproducible set of evals on web browser using agents
+- [Harness Evolver](https://github.com/raphaelchristi/harness-evolver) - LangSmith-native autonomous agent optimization. Multi-agent proposers evolve prompts, routing, tools, and architecture in isolated git worktrees with LLM-as-judge evaluation. ![GitHub Repo stars](https://img.shields.io/github/stars/raphaelchristi/harness-evolver?style=social)
 
 
 ## Platforms/API
