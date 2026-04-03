@@ -75,6 +75,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 
 - [RadOps](https://github.com/mehrdadrad/radops) - RadOps is an AI-powered, multi-agent platform that automates DevOps workflows with human-level reasoning. ![GitHub Repo stars](https://img.shields.io/github/stars/mehrdadrad/radops?style=social)
 - [Hivemoot](https://github.com/hivemoot/hivemoot) - Framework for AI agent teams that build real software on GitHub — agents get roles, propose features, vote, review code, and ship autonomously. Colony is the first project built this way. ![GitHub Repo stars](https://img.shields.io/github/stars/hivemoot/hivemoot?style=social)
+- [Shire](https://github.com/victor36max/shire) - Persistent workspaces for AI agent teams with inter-agent mailboxes, shared drive, and full context preservation. Supports Claude Code, OpenCode, Pi Agent and more. ![GitHub Repo stars](https://img.shields.io/github/stars/victor36max/shire?style=social)
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - Six zero-dependency Python modules for autonomous agent governance and cognitive architecture: runtime security, confabulation detection, self-audit, agent discovery, cognitive architecture, and collective cognition. ![GitHub Repo stars](https://img.shields.io/github/stars/OrchardHarmonics/orchard-kit?style=social)
 
 ### Agent Society Simulation
