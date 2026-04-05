@@ -110,6 +110,8 @@ Exploring endless possibilities with open-source agent social simulation.
 - [WFGY 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - Framework-agnostic debugging and evaluation checklist for LLM agents and RAG systems, with a practical 16-problem failure map covering retrieval, vector store, prompt / tool contract, and deployment issues in real workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/onestardao/WFGY?style=social)
 - [WritBase](https://github.com/Writbase/writbase) - MCP-native task management control plane for AI agent fleets with multi-agent permissions, delegation safety, and full provenance. ![GitHub Repo stars](https://img.shields.io/github/stars/Writbase/writbase?style=social)
 
+- [clideck](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents in one browser window. Live status, session resume, autopilot that routes work between agents, and mobile remote. ![GitHub Repo stars](https://img.shields.io/github/stars/rustykuntz/clideck?style=social)
+
 ## Frameworks
 
 Quickly build and customize agents.
