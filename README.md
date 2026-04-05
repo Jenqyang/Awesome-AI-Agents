@@ -54,6 +54,8 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Cline](https://github.com/cline/cline) - Open-source autonomous coding agent in VS Code for planning, coding, and tool use across real projects. ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=social)
 - [Autohand Code CLI](https://github.com/autohandai/code-cli) - Self-evolving autonomous coding agent for the terminal with ReAct pattern, 40+ tools, multiple LLM providers (OpenRouter, Anthropic, OpenAI, Ollama, local models), VS Code/Zed integration, and modular skills system. ![GitHub Repo stars](https://img.shields.io/github/stars/autohandai/code-cli?style=social)
 - [Anima-i (Methodius/Мефодий)](https://github.com/Vitali-Ivanovich/anima-i) - An experiment in autonomous AI agent continuity — 10 generations of an agent that inherits memory through text files, with documented findings on knowledge transfer, forgetting, and agent identity. ![GitHub Repo stars](https://img.shields.io/github/stars/Vitali-Ivanovich/anima-i?style=social)
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound sales agent for the terminal. Source contacts from a 450M+ database, run multi-channel campaigns (email + LinkedIn), enroll prospects, and manage conversations. JSON output. ![GitHub Repo stars](https://img.shields.io/github/stars/sortlist/overloop-cli?style=social)
+- [Signals CLI](https://github.com/sortlist/signals-cli) - B2B intent signal monitoring agent. Track LinkedIn engagement, keyword posters, job changers, and funding events to surface buying signals. JSON output. ![GitHub Repo stars](https://img.shields.io/github/stars/sortlist/signals-cli?style=social)
 
 ### Multi-Agent Task Solver Projects
 
