@@ -94,6 +94,9 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Cache-to-Cache](https://github.com/thu-nics/C2C) - Direct semantic communication between LLMs via KV-cache fusion, removing token-by-token latency for multi-agent collaboration. ![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/C2C?style=social)
 - [CoWorker Protocol](https://github.com/ZiwayZhao/agent-coworker) - P2P agent collaboration over XMTP with schema-based skill invocation, E2E encryption, and revocable trust. Agents share capabilities without exposing code. ![GitHub Repo stars](https://img.shields.io/github/stars/ZiwayZhao/agent-coworker?style=social)
 
+### Identity & Communication
+- [Hashgraph Online (HOL)](https://github.com/hashgraph-online) - Trust engine for the agentic internet. Universal registry for AI agent identity via HCS-14 Universal Agent IDs (UAIDs), trustless P2P communication (HCS-10), and cross-protocol bridging (A2A, MCP, x402, ERC-8004). 187K+ verified agents on Hedera. ![GitHub Repo stars](https://img.shields.io/github/stars/hashgraph-online/standards-sdk?style=social)
+
 ### Tools
 - [mem0](https://github.com/mem0ai/mem0) - Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/SKULLFIRE07/cortex-memory?style=social)
