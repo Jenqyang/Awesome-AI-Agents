@@ -156,6 +156,8 @@ Quickly build and customize agents.
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A) and multi-agent orchestration. ![GitHub Repo stars](https://img.shields.io/github/stars/openagents-org/openagents?style=social)
 
 
+- [Guardian Agent Prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested system prompts (AGENT.md) for multi-agent AI systems. Orchestrator, security auditor, code architect, OSINT researcher, trading analyst, and 44 more specialized agents with anti-hallucination rules and quality gates. ![GitHub Repo stars](https://img.shields.io/github/stars/milkomida77/guardian-agent-prompts?style=social)
+
 ## Benchmark/Evaluator
 
 Benchmarks to evaluate LLM-as-Agent across a variety of environments.
