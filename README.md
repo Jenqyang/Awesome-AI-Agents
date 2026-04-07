@@ -231,4 +231,5 @@ Able to connect LLM with the real world.
 - [awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 100+ agentic AI resources
 - [Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - A list of top AI agents
 - [ai-agent-roadmap](https://github.com/Yuan-ManX/ai-agent-roadmap) - Explore the latest AI Agent Framework!
+- [awesome-ai-tools](https://github.com/formatho/awesome-ai-tools) - Auto-updating curated list of 200+ AI tools with freshness tracking. Updates every 6 hours. ![GitHub Repo stars](https://img.shields.io/github/stars/formatho/awesome-ai-tools?style=social)
 - [Inspired projects by babyagi](https://github.com/yoheinakajima/babyagi/blob/main/docs/inspired-projects.md)
