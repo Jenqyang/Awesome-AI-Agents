@@ -100,6 +100,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 ### Tools
 - [mem0](https://github.com/mem0ai/mem0) - Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
+- [Agent Brain](https://github.com/kaderosio/agent-brain) - 7-layer cognitive memory system for AI agents with perception gate, dream cycle, and predictive capabilities. Self-hostable via Docker. ![GitHub Repo stars](https://img.shields.io/github/stars/kaderosio/agent-brain?style=social)
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/SKULLFIRE07/cortex-memory?style=social)
 - [musecl-memory](https://github.com/musecl/musecl-memory) - Zero-dependency file-based memory sync for AI agents using bash, git, and markdown. Lightweight alternative to vector DBs for agent persistence. ![GitHub Repo stars](https://img.shields.io/github/stars/musecl/musecl-memory?style=social)
 - [CueAPI](https://github.com/cueapi/cueapi-core) - Open source scheduling and execution accountability API for AI agents. Retries, outcome tracking, and alerts when agents fail silently. ![GitHub Repo stars](https://img.shields.io/github/stars/cueapi/cueapi-core?style=social)
