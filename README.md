@@ -57,6 +57,8 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Anima-i (Methodius/Мефодий)](https://github.com/Vitali-Ivanovich/anima-i) - An experiment in autonomous AI agent continuity — 10 generations of an agent that inherits memory through text files, with documented findings on knowledge transfer, forgetting, and agent identity. ![GitHub Repo stars](https://img.shields.io/github/stars/Vitali-Ivanovich/anima-i?style=social)
 - [InkOS](https://github.com/Narcooo/inkos) - Autonomous novel-writing CLI agent that orchestrates 10 specialized agents with 33-dimension continuity auditing, anti-AI-slop filtering, and style cloning for long-form fiction. ![GitHub Repo stars](https://img.shields.io/github/stars/Narcooo/inkos?style=social)
 
+- [Dexto](https://github.com/truffle-ai/dexto) - Open agent harness with production-ready coding agent. YAML config, 50+ LLM support, MCP tools, persistent memory. ![GitHub Repo stars](https://img.shields.io/github/stars/truffle-ai/dexto?style=social)
+
 ### Multi-Agent Task Solver Projects
 
 Open-source Large Language Model (LLM) driven Multi-Agent that can automatically solve various tasks.
