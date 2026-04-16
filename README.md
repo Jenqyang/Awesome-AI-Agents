@@ -83,6 +83,9 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 
 ### Agent Society Simulation
 
+- [FutureAGI simulate-sdk](https://github.com/future-agi/simulate-sdk)
+- [FutureAGI traceAI](https://github.com/future-agi/traceAI)
+
 Exploring endless possibilities with open-source agent social simulation.
 
 ![https://arxiv.org/abs/2309.07864](./images/agent-society.png)
