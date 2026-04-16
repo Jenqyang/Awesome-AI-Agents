@@ -118,6 +118,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - Universal CLI for AI agents — 756 commands across 167 sites (web, desktop, Electron apps). Self-repairing 20-line YAML adapters, auto-JSON output, ~80 tokens per call. TypeScript, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/olo-dot-io/Uni-CLI?style=social)
 
 - [clideck](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents in one browser window. Live status, session resume, autopilot that routes work between agents, and mobile remote. ![GitHub Repo stars](https://img.shields.io/github/stars/rustykuntz/clideck?style=social)
+- [Not Human Search](https://nothumansearch.ai) - Agent-first search engine with MCP server for discovering AI-accessible tools and APIs across 1,400+ indexed sites.
 
 ## Frameworks
 
