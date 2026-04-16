@@ -129,6 +129,7 @@ Quickly build and customize agents.
 
 ![https://arxiv.org/abs/2308.08155](images/autogen_agentchat.png)
 
+- [agent-express](https://github.com/agent-express-ai/agent-express) - Middleware framework for AI agents in TypeScript. Express.js-style (ctx, next) composable hooks for retry, budget caps, memory compaction, tool approval, and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/agent-express-ai/agent-express?style=social)
 - [langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
     - [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social)
 - [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
