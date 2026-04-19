@@ -51,8 +51,10 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [OpenPaw](https://github.com/daxaur/openpaw) - CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, Telegram, Discord, and more. No daemon, no cloud. ![GitHub Repo stars](https://img.shields.io/github/stars/daxaur/openpaw?style=social)
 - [Plot Ark](https://github.com/Schlaflied/Plot-Ark) - Self-hosted agentic curriculum engine for higher education — generates pedagogically grounded course content using Bloom's Taxonomy alignment, LightRAG knowledge graph, and xAPI learning analytics pipeline. ![GitHub Repo stars](https://img.shields.io/github/stars/Schlaflied/Plot-Ark?style=social)
 - [OpenClaw](https://github.com/openclaw/openclaw) - Open-source personal AI assistant that runs locally across platforms and can take actions through chat channels and tools. ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
+- [Octopal](https://github.com/pmbstyle/Octopal) - Secure local multi-agent runtime that plans tasks, delegates execution to isolated workers, and exposes tools, MCP, scheduling, and a private dashboard for autonomous operations. ![GitHub Repo stars](https://img.shields.io/github/stars/pmbstyle/Octopal?style=social)
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - Language agents for software engineering that can resolve GitHub issues in real repositories. ![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social)
 - [Cline](https://github.com/cline/cline) - Open-source autonomous coding agent in VS Code for planning, coding, and tool use across real projects. ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=social)
+- [Toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code workflow for SEO, SEM, and Google Ads that inspects repositories, applies code changes, and automates search-growth diagnostics. ![GitHub Repo stars](https://img.shields.io/github/stars/nowork-studio/toprank?style=social)
 - [Autohand Code CLI](https://github.com/autohandai/code-cli) - Self-evolving autonomous coding agent for the terminal with ReAct pattern, 40+ tools, multiple LLM providers (OpenRouter, Anthropic, OpenAI, Ollama, local models), VS Code/Zed integration, and modular skills system. ![GitHub Repo stars](https://img.shields.io/github/stars/autohandai/code-cli?style=social)
 - [Anima-i (Methodius/Мефодий)](https://github.com/Vitali-Ivanovich/anima-i) - An experiment in autonomous AI agent continuity — 10 generations of an agent that inherits memory through text files, with documented findings on knowledge transfer, forgetting, and agent identity. ![GitHub Repo stars](https://img.shields.io/github/stars/Vitali-Ivanovich/anima-i?style=social)
 - [InkOS](https://github.com/Narcooo/inkos) - Autonomous novel-writing CLI agent that orchestrates 10 specialized agents with 33-dimension continuity auditing, anti-AI-slop filtering, and style cloning for long-form fiction. ![GitHub Repo stars](https://img.shields.io/github/stars/Narcooo/inkos?style=social)
@@ -79,6 +81,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [Hivemoot](https://github.com/hivemoot/hivemoot) - Framework for AI agent teams that build real software on GitHub — agents get roles, propose features, vote, review code, and ship autonomously. Colony is the first project built this way. ![GitHub Repo stars](https://img.shields.io/github/stars/hivemoot/hivemoot?style=social)
 - [Shire](https://github.com/victor36max/shire) - Persistent workspaces for AI agent teams with inter-agent mailboxes, shared drive, and full context preservation. Supports Claude Code, OpenCode, Pi Agent and more. ![GitHub Repo stars](https://img.shields.io/github/stars/victor36max/shire?style=social)
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - Six zero-dependency Python modules for autonomous agent governance and cognitive architecture: runtime security, confabulation detection, self-audit, agent discovery, cognitive architecture, and collective cognition. ![GitHub Repo stars](https://img.shields.io/github/stars/OrchardHarmonics/orchard-kit?style=social)
+- [Maestro Orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent development orchestration platform coordinating 22 specialized AI agents through 4-phase workflows with native parallel execution, persistent sessions, and least-privilege security tiers across Gemini CLI, Claude Code, and Codex. ![GitHub Repo stars](https://img.shields.io/github/stars/josstei/maestro-orchestrate?style=social)
 - [Bernstein](https://github.com/chernistry/bernstein) - Deterministic orchestrator that spawns parallel coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, and auto-commits. Zero LLM tokens on coordination. ![GitHub Repo stars](https://img.shields.io/github/stars/chernistry/bernstein?style=social)
 
 ### Agent Society Simulation
@@ -116,9 +119,9 @@ Exploring endless possibilities with open-source agent social simulation.
 - [WFGY 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - Framework-agnostic debugging and evaluation checklist for LLM agents and RAG systems, with a practical 16-problem failure map covering retrieval, vector store, prompt / tool contract, and deployment issues in real workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/onestardao/WFGY?style=social)
 - [WritBase](https://github.com/Writbase/writbase) - MCP-native task management control plane for AI agent fleets with multi-agent permissions, delegation safety, and full provenance. ![GitHub Repo stars](https://img.shields.io/github/stars/Writbase/writbase?style=social)
 - [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - Universal CLI for AI agents — 756 commands across 167 sites (web, desktop, Electron apps). Self-repairing 20-line YAML adapters, auto-JSON output, ~80 tokens per call. TypeScript, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/olo-dot-io/Uni-CLI?style=social)
-
 - [clideck](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents in one browser window. Live status, session resume, autopilot that routes work between agents, and mobile remote. ![GitHub Repo stars](https://img.shields.io/github/stars/rustykuntz/clideck?style=social)
-- [Desktop Control](https://github.com/yaroshevych/desktopctl) - Local CLI for AI agents to control any macOS app via screen, mouse, and keyboard. GPU-accelerated text recognition and vision, token efficient CLI interface. Works with any model, even without vision.
+- [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) - Open-source MCP server for querying decentralized exchange data across 34 blockchains. Exposes pool details, token metadata, OHLCV charts, trade history, and real-time swap streams via SSE. ![GitHub Repo stars](https://img.shields.io/github/stars/coinpaprika/dexpaprika-mcp?style=social)
+- [Desktop Control](https://github.com/yaroshevych/desktopctl) - CLI tool for AI agents to control macOS apps via screen, mouse, and keyboard. GPU-accelerated, local OCR and vision, works with any AI model. ![GitHub Repo stars](https://img.shields.io/github/stars/yaroshevych/desktopctl?style=social)
 
 ## Frameworks
 
@@ -126,6 +129,7 @@ Quickly build and customize agents.
 
 ![https://arxiv.org/abs/2308.08155](images/autogen_agentchat.png)
 
+- [agent-express](https://github.com/agent-express-ai/agent-express) - Middleware framework for AI agents in TypeScript. Express.js-style (ctx, next) composable hooks for retry, budget caps, memory compaction, tool approval, and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/agent-express-ai/agent-express?style=social)
 - [langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
     - [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social)
 - [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
@@ -166,6 +170,7 @@ Quickly build and customize agents.
 - [alive](https://github.com/TheAuroraAI/alive) - Minimal autonomous AI agent framework in a single Python file. Production-hardened through 80+ sessions of real autonomous operation with persistent memory, adaptive wake intervals, circuit breakers, and graceful degradation. ![GitHub Repo stars](https://img.shields.io/github/stars/TheAuroraAI/alive?style=social)
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A) and multi-agent orchestration. ![GitHub Repo stars](https://img.shields.io/github/stars/openagents-org/openagents?style=social)
 - [ORCA Agent Skills](https://github.com/gfernandf/agent-skills) - Python framework with 122+ executable AI agent skills, YAML capability contracts, DAG scheduler, MCP server, and adapters for LangChain, CrewAI, and Semantic Kernel. ![GitHub Repo stars](https://img.shields.io/github/stars/gfernandf/agent-skills?style=social)
+- [Corellis](https://github.com/CorellisOrg/corellis) - Open-source multi-agent governance framework for OpenClaw. Goal decomposition (GoalOps), 4-layer memory system, fleet-wide learning, and approval workflows. Production-tested with 28 agents. ![GitHub Repo stars](https://img.shields.io/github/stars/CorellisOrg/corellis)
 
 
 ## Benchmark/Evaluator
@@ -186,6 +191,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) - A benchmark list for evaluation of large language models.
 - [agbenchmark](https://pypi.org/project/agbenchmark/) - by AutoGPT
 - [open-operator-evals](https://github.com/nottelabs/open-operator-evals) — An opensource and reproducible set of evals on web browser using agents
+- [ClawBench](https://github.com/reacher-z/ClawBench) - Browser-agent benchmark of 153 everyday tasks on 144 live production websites across 15 categories; a submission-interception layer blocks the final write request for safe evaluation on real sites. ![GitHub Repo stars](https://img.shields.io/github/stars/reacher-z/ClawBench?style=social)
 
 
 ## Platforms/API
@@ -235,6 +241,7 @@ Able to connect LLM with the real world.
 - [从第一性原理看大模型Agent技术](https://mp.weixin.qq.com/s/PL-QjlvVugUfmRD4g0P-qQ)
 - [基于大语言模型的AI Agents](https://www.breezedeus.com/article/ai-agent-part3)
 - [ICLR'24 上大型语言模型代理的最新研究进展 | 代理评估重点](https://medium.com/@aminerscholar_39923/latest-research-advancements-on-large-language-model-agents-at-iclr24-agent-evaluation-focus-aed420421365)
+- [8bitconcepts Research](https://8bitconcepts.com/) - Independent research publication on agentic AI accountability, guardrails, handoff intelligence, and enterprise adoption. Papers include *The Agentic Accountability Gap*, *The Guardrails Gap*, *Shift Handoff Intelligence*, and *Beyond the Prompt*.
 
 
 ## Reference Repo
