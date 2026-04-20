@@ -58,6 +58,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Autohand Code CLI](https://github.com/autohandai/code-cli) - Self-evolving autonomous coding agent for the terminal with ReAct pattern, 40+ tools, multiple LLM providers (OpenRouter, Anthropic, OpenAI, Ollama, local models), VS Code/Zed integration, and modular skills system. ![GitHub Repo stars](https://img.shields.io/github/stars/autohandai/code-cli?style=social)
 - [Anima-i (Methodius/Мефодий)](https://github.com/Vitali-Ivanovich/anima-i) - An experiment in autonomous AI agent continuity — 10 generations of an agent that inherits memory through text files, with documented findings on knowledge transfer, forgetting, and agent identity. ![GitHub Repo stars](https://img.shields.io/github/stars/Vitali-Ivanovich/anima-i?style=social)
 - [InkOS](https://github.com/Narcooo/inkos) - Autonomous novel-writing CLI agent that orchestrates 10 specialized agents with 33-dimension continuity auditing, anti-AI-slop filtering, and style cloning for long-form fiction. ![GitHub Repo stars](https://img.shields.io/github/stars/Narcooo/inkos?style=social)
+- [ALF OS](https://github.com/alamparelli/alf) - Self-hosted AI assistant daemon with encrypted credential vault, persistent memory, cron scheduler, multi-provider routing (Claude Code, Codex, GPT, Ollama, OpenRouter), Telegram bot with voice transcription, and web dashboard. Docker Compose, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/alamparelli/alf?style=social)
 
 ### Multi-Agent Task Solver Projects
 
