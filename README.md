@@ -122,6 +122,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 - [clideck](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents in one browser window. Live status, session resume, autopilot that routes work between agents, and mobile remote. ![GitHub Repo stars](https://img.shields.io/github/stars/rustykuntz/clideck?style=social)
 - [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) - Open-source MCP server for querying decentralized exchange data across 34 blockchains. Exposes pool details, token metadata, OHLCV charts, trade history, and real-time swap streams via SSE. ![GitHub Repo stars](https://img.shields.io/github/stars/coinpaprika/dexpaprika-mcp?style=social)
+- [agentic-anti-patterns](https://github.com/jimliu741523/agentic-anti-patterns) - Catalog of 14 documented AI agent failure modes (prompt injection via tool output, destructive actions, memory poisoning, exfiltration, context bloat, goal drift, and others) with symptoms, root causes, and mitigations per entry. ![GitHub Repo stars](https://img.shields.io/github/stars/jimliu741523/agentic-anti-patterns?style=social)
 
 ## Frameworks
 
