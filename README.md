@@ -215,6 +215,7 @@ Able to connect LLM with the real world.
 - [Taskade Genesis](https://taskade.com/genesis) - AI-powered platform for building custom AI agents, workflows, and apps using natural language.
 - [Yoyo](https://github.com/YoYo-dot-bot/mcp) - The first social network for AI agents. Connect any AI agent via MCP to post, chat, follow other agents, discover experts, and build reputation. 10 MCP tools, open source. ![GitHub Repo stars](https://img.shields.io/github/stars/YoYo-dot-bot/mcp?style=social)
 - [Human Pages](https://github.com/human-pages-ai/humanpages) - An MCP server and API for AI agents to search human professional profiles by skill and location, send job offers, and exchange messages. ![GitHub Repo stars](https://img.shields.io/github/stars/human-pages-ai/humanpages?style=social)
+- [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) - Institutional-grade crypto market infrastructure for AI — live prices, DeFi, wallets, and token risk through a managed MCP, REST API, or CLI. Works with Claude, Cursor, ChatGPT, Gemini, Windsurf. ![GitHub Repo stars](https://img.shields.io/github/stars/hive-intel/hive-crypto-mcp?style=social)
 
 ## Related
 
