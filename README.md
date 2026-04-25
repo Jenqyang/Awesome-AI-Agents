@@ -122,6 +122,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 - [clideck](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents in one browser window. Live status, session resume, autopilot that routes work between agents, and mobile remote. ![GitHub Repo stars](https://img.shields.io/github/stars/rustykuntz/clideck?style=social)
 - [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) - Open-source MCP server for querying decentralized exchange data across 34 blockchains. Exposes pool details, token metadata, OHLCV charts, trade history, and real-time swap streams via SSE. ![GitHub Repo stars](https://img.shields.io/github/stars/coinpaprika/dexpaprika-mcp?style=social)
+- [EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) - Local AES-256-GCM + Argon2id encrypted secret vault for AI agents. Resolves `{{PLACEHOLDER}}` tokens transparently so API keys never enter the LLM context. Ships as native integrations for major frameworks: [langchain-enigmagent](https://github.com/Agnuxo1/langchain-enigmagent) (LangChain callback), [crewai-tools-enigmagent](https://github.com/Agnuxo1/crewai-tools-enigmagent) (CrewAI tool), [llama-index-tools-enigmagent](https://github.com/Agnuxo1/llama-index-tools-enigmagent) (LlamaIndex ToolSpec), and [n8n-nodes-enigmagent](https://github.com/Agnuxo1/n8n-nodes-enigmagent) (n8n community node). Zero cloud, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/Agnuxo1/EnigmAgent?style=social)
 
 ## Frameworks
 
