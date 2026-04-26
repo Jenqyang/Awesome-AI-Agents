@@ -122,6 +122,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 - [clideck](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents in one browser window. Live status, session resume, autopilot that routes work between agents, and mobile remote. ![GitHub Repo stars](https://img.shields.io/github/stars/rustykuntz/clideck?style=social)
 - [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) - Open-source MCP server for querying decentralized exchange data across 34 blockchains. Exposes pool details, token metadata, OHLCV charts, trade history, and real-time swap streams via SSE. ![GitHub Repo stars](https://img.shields.io/github/stars/coinpaprika/dexpaprika-mcp?style=social)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI operations agent (kc-agent) that bridges LLMs to live clusters via MCP for AI-assisted troubleshooting, observability, and management across edge and cloud. CNCF Sandbox project. ![GitHub Repo stars](https://img.shields.io/github/stars/kubestellar/console?style=social)
 
 ## Frameworks
 
