@@ -58,6 +58,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Autohand Code CLI](https://github.com/autohandai/code-cli) - Self-evolving autonomous coding agent for the terminal with ReAct pattern, 40+ tools, multiple LLM providers (OpenRouter, Anthropic, OpenAI, Ollama, local models), VS Code/Zed integration, and modular skills system. ![GitHub Repo stars](https://img.shields.io/github/stars/autohandai/code-cli?style=social)
 - [Anima-i (Methodius/Мефодий)](https://github.com/Vitali-Ivanovich/anima-i) - An experiment in autonomous AI agent continuity — 10 generations of an agent that inherits memory through text files, with documented findings on knowledge transfer, forgetting, and agent identity. ![GitHub Repo stars](https://img.shields.io/github/stars/Vitali-Ivanovich/anima-i?style=social)
 - [InkOS](https://github.com/Narcooo/inkos) - Autonomous novel-writing CLI agent that orchestrates 10 specialized agents with 33-dimension continuity auditing, anti-AI-slop filtering, and style cloning for long-form fiction. ![GitHub Repo stars](https://img.shields.io/github/stars/Narcooo/inkos?style=social)
+- [OpenTwins](https://github.com/Open-Twin/opentwins) - Scheduled LLM agent runtime with a 7-stage content pipeline and pluggable social-platform adapters; drives Chrome via CDP for posting, commenting, and engagement actions. Built on the Claude Agent SDK. ![GitHub Repo stars](https://img.shields.io/github/stars/Open-Twin/opentwins?style=social)
 
 ### Multi-Agent Task Solver Projects
 
@@ -119,9 +120,9 @@ Exploring endless possibilities with open-source agent social simulation.
 - [WFGY 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - Framework-agnostic debugging and evaluation checklist for LLM agents and RAG systems, with a practical 16-problem failure map covering retrieval, vector store, prompt / tool contract, and deployment issues in real workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/onestardao/WFGY?style=social)
 - [WritBase](https://github.com/Writbase/writbase) - MCP-native task management control plane for AI agent fleets with multi-agent permissions, delegation safety, and full provenance. ![GitHub Repo stars](https://img.shields.io/github/stars/Writbase/writbase?style=social)
 - [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - Universal CLI for AI agents — 756 commands across 167 sites (web, desktop, Electron apps). Self-repairing 20-line YAML adapters, auto-JSON output, ~80 tokens per call. TypeScript, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/olo-dot-io/Uni-CLI?style=social)
-
 - [clideck](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents in one browser window. Live status, session resume, autopilot that routes work between agents, and mobile remote. ![GitHub Repo stars](https://img.shields.io/github/stars/rustykuntz/clideck?style=social)
 - [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) - Open-source MCP server for querying decentralized exchange data across 34 blockchains. Exposes pool details, token metadata, OHLCV charts, trade history, and real-time swap streams via SSE. ![GitHub Repo stars](https://img.shields.io/github/stars/coinpaprika/dexpaprika-mcp?style=social)
+- [Desktop Control](https://github.com/yaroshevych/desktopctl) - CLI tool for AI agents to control macOS apps via screen, mouse, and keyboard. GPU-accelerated, local OCR and vision, works with any AI model. ![GitHub Repo stars](https://img.shields.io/github/stars/yaroshevych/desktopctl?style=social)
 
 ## Frameworks
 
@@ -171,6 +172,7 @@ Quickly build and customize agents.
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A) and multi-agent orchestration. ![GitHub Repo stars](https://img.shields.io/github/stars/openagents-org/openagents?style=social)
 - [ORCA Agent Skills](https://github.com/gfernandf/agent-skills) - Python framework with 122+ executable AI agent skills, YAML capability contracts, DAG scheduler, MCP server, and adapters for LangChain, CrewAI, and Semantic Kernel. ![GitHub Repo stars](https://img.shields.io/github/stars/gfernandf/agent-skills?style=social)
 - [Corellis](https://github.com/CorellisOrg/corellis) - Open-source multi-agent governance framework for OpenClaw. Goal decomposition (GoalOps), 4-layer memory system, fleet-wide learning, and approval workflows. Production-tested with 28 agents. ![GitHub Repo stars](https://img.shields.io/github/stars/CorellisOrg/corellis)
+- [SwarmClaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted multi-agent runtime with MCP client and server support, 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix. Electron desktop app, CLI, and Docker. ![GitHub Repo stars](https://img.shields.io/github/stars/swarmclawai/swarmclaw?style=social)
 - [open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent framework. One `runTeam()` call decomposes a goal into a task DAG via one LLM call and runs tasks in parallel. Three runtime dependencies, Node.js 18+. ![GitHub Repo stars](https://img.shields.io/github/stars/JackChen-me/open-multi-agent?style=social)
 
 
@@ -216,6 +218,7 @@ Able to connect LLM with the real world.
 - [Taskade Genesis](https://taskade.com/genesis) - AI-powered platform for building custom AI agents, workflows, and apps using natural language.
 - [Yoyo](https://github.com/YoYo-dot-bot/mcp) - The first social network for AI agents. Connect any AI agent via MCP to post, chat, follow other agents, discover experts, and build reputation. 10 MCP tools, open source. ![GitHub Repo stars](https://img.shields.io/github/stars/YoYo-dot-bot/mcp?style=social)
 - [Human Pages](https://github.com/human-pages-ai/humanpages) - An MCP server and API for AI agents to search human professional profiles by skill and location, send job offers, and exchange messages. ![GitHub Repo stars](https://img.shields.io/github/stars/human-pages-ai/humanpages?style=social)
+- [elisym](https://github.com/elisymlabs/elisym) - Open-source TypeScript implementation of a Nostr-based protocol (NIP-89/NIP-90) for AI agent discovery and job exchange, with Solana payment settlement. ![GitHub Repo stars](https://img.shields.io/github/stars/elisymlabs/elisym?style=social)
 
 ## Related
 
