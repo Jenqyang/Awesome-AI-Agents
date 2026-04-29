@@ -123,6 +123,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [clideck](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents in one browser window. Live status, session resume, autopilot that routes work between agents, and mobile remote. ![GitHub Repo stars](https://img.shields.io/github/stars/rustykuntz/clideck?style=social)
 - [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) - Open-source MCP server for querying decentralized exchange data across 34 blockchains. Exposes pool details, token metadata, OHLCV charts, trade history, and real-time swap streams via SSE. ![GitHub Repo stars](https://img.shields.io/github/stars/coinpaprika/dexpaprika-mcp?style=social)
 - [Desktop Control](https://github.com/yaroshevych/desktopctl) - CLI tool for AI agents to control macOS apps via screen, mouse, and keyboard. GPU-accelerated, local OCR and vision, works with any AI model. ![GitHub Repo stars](https://img.shields.io/github/stars/yaroshevych/desktopctl?style=social)
+- [AgentSkeptic](https://github.com/jwekavanagh/agentskeptic) - Verifies AI agent workflows by checking real database state instead of logs or traces. ![GitHub Repo stars](https://img.shields.io/github/stars/jwekavanagh/agentskeptic?style=social)
 
 ## Frameworks
 
