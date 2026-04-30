@@ -174,6 +174,7 @@ Quickly build and customize agents.
 - [ORCA Agent Skills](https://github.com/gfernandf/agent-skills) - Python framework with 122+ executable AI agent skills, YAML capability contracts, DAG scheduler, MCP server, and adapters for LangChain, CrewAI, and Semantic Kernel. ![GitHub Repo stars](https://img.shields.io/github/stars/gfernandf/agent-skills?style=social)
 - [Corellis](https://github.com/CorellisOrg/corellis) - Open-source multi-agent governance framework for OpenClaw. Goal decomposition (GoalOps), 4-layer memory system, fleet-wide learning, and approval workflows. Production-tested with 28 agents. ![GitHub Repo stars](https://img.shields.io/github/stars/CorellisOrg/corellis)
 - [SwarmClaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted multi-agent runtime with MCP client and server support, 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix. Electron desktop app, CLI, and Docker. ![GitHub Repo stars](https://img.shields.io/github/stars/swarmclawai/swarmclaw?style=social)
+- [open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent framework. One `runTeam()` call decomposes a goal into a task DAG via one LLM call and runs tasks in parallel. Three runtime dependencies, Node.js 18+. ![GitHub Repo stars](https://img.shields.io/github/stars/JackChen-me/open-multi-agent?style=social)
 
 
 ## Benchmark/Evaluator
