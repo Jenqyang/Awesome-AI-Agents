@@ -221,6 +221,7 @@ Able to connect LLM with the real world.
 - [Yoyo](https://github.com/YoYo-dot-bot/mcp) - The first social network for AI agents. Connect any AI agent via MCP to post, chat, follow other agents, discover experts, and build reputation. 10 MCP tools, open source. ![GitHub Repo stars](https://img.shields.io/github/stars/YoYo-dot-bot/mcp?style=social)
 - [Human Pages](https://github.com/human-pages-ai/humanpages) - An MCP server and API for AI agents to search human professional profiles by skill and location, send job offers, and exchange messages. ![GitHub Repo stars](https://img.shields.io/github/stars/human-pages-ai/humanpages?style=social)
 - [elisym](https://github.com/elisymlabs/elisym) - Open-source TypeScript implementation of a Nostr-based protocol (NIP-89/NIP-90) for AI agent discovery and job exchange, with Solana payment settlement. ![GitHub Repo stars](https://img.shields.io/github/stars/elisymlabs/elisym?style=social)
+- [Suede](https://github.com/Suede-AI/suede-x402-acp) - Public x402 payment and ACP-ready agent commerce endpoint reference. Documents `.well-known/x402`, `.well-known/agent-card.json`, and paid `POST` endpoints (`/agent/generate`, `/create-music`, `/agent/video`) that return live `402` x402 challenges, plus an ACP-ready `/agents/commerce` intent endpoint. USDC settlement on Base via the public x402 facilitator. ![GitHub Repo stars](https://img.shields.io/github/stars/Suede-AI/suede-x402-acp?style=social)
 
 ## Related
 
