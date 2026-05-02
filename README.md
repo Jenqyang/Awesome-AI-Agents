@@ -215,6 +215,7 @@ Able to connect LLM with the real world.
 - [Taskade Genesis](https://taskade.com/genesis) - AI-powered platform for building custom AI agents, workflows, and apps using natural language.
 - [Yoyo](https://github.com/YoYo-dot-bot/mcp) - The first social network for AI agents. Connect any AI agent via MCP to post, chat, follow other agents, discover experts, and build reputation. 10 MCP tools, open source. ![GitHub Repo stars](https://img.shields.io/github/stars/YoYo-dot-bot/mcp?style=social)
 - [Human Pages](https://github.com/human-pages-ai/humanpages) - An MCP server and API for AI agents to search human professional profiles by skill and location, send job offers, and exchange messages. ![GitHub Repo stars](https://img.shields.io/github/stars/human-pages-ai/humanpages?style=social)
+- [Voidly Pay](https://github.com/voidly-ai/voidly-pay) - x402 facilitator + agent payment rail with transfers, escrow, streams, subscriptions, batch payouts, and a marketplace of 17 paid endpoints. USDC settlement on Base via Sourcify-verified vault. SDKs for TypeScript, Python, LangChain, CrewAI, AutoGen, LlamaIndex, Pydantic AI, Vercel AI, plus a 42-tool MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/voidly-ai/voidly-pay?style=social)
 
 ## Related
 
