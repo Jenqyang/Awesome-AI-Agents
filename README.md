@@ -19,6 +19,7 @@
   - [Reference Repo](#reference-repo)
 
 ## Applications
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 ### Autonomous Agent Task Solver Projects
 
