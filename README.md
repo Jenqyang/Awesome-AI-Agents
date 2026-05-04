@@ -240,6 +240,7 @@ Able to connect LLM with the real world.
 - [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) - Must-read Papers on LLM Agents.
 
 - [Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) - A curated list of 500+ papers on safety in embodied AI, covering risks, attacks, and defenses across perception, cognition, planning, action, and agentic capabilities.
+- [agentic-anti-patterns](https://github.com/jimliu741523/agentic-anti-patterns) - Curated catalog of 16 documented LLM-agent failure modes (prompt injection via tool output, runaway tool loops, MCP server trust boundary collapse, memory poisoning, exfiltration, goal drift, and others) with symptoms, root causes, mitigations, and detection methods per entry.
 
 ### Blog
 
