@@ -125,6 +125,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) - Open-source MCP server for querying decentralized exchange data across 34 blockchains. Exposes pool details, token metadata, OHLCV charts, trade history, and real-time swap streams via SSE. ![GitHub Repo stars](https://img.shields.io/github/stars/coinpaprika/dexpaprika-mcp?style=social)
 - [Desktop Control](https://github.com/yaroshevych/desktopctl) - CLI tool for AI agents to control macOS apps via screen, mouse, and keyboard. GPU-accelerated, local OCR and vision, works with any AI model. ![GitHub Repo stars](https://img.shields.io/github/stars/yaroshevych/desktopctl?style=social)
 - [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI operations agent (kc-agent) that bridges LLMs to live clusters via MCP for AI-assisted troubleshooting, observability, and management across edge and cloud. CNCF Sandbox project. ![GitHub Repo stars](https://img.shields.io/github/stars/kubestellar/console?style=social)
+- [Nylas CLI](https://github.com/nylas/cli) - Gives AI agents a real email account and working calendar. 16 MCP tools across Gmail, Outlook, Exchange, Yahoo, iCloud, and IMAP behind one auth flow. Install with `nylas mcp install`. Docs at https://cli.nylas.com. ![GitHub Repo stars](https://img.shields.io/github/stars/nylas/cli?style=social)
 
 ## Frameworks
 
