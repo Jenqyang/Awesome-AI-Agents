@@ -86,6 +86,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - Six zero-dependency Python modules for autonomous agent governance and cognitive architecture: runtime security, confabulation detection, self-audit, agent discovery, cognitive architecture, and collective cognition. ![GitHub Repo stars](https://img.shields.io/github/stars/OrchardHarmonics/orchard-kit?style=social)
 - [Maestro Orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent development orchestration platform coordinating 22 specialized AI agents through 4-phase workflows with native parallel execution, persistent sessions, and least-privilege security tiers across Gemini CLI, Claude Code, and Codex. ![GitHub Repo stars](https://img.shields.io/github/stars/josstei/maestro-orchestrate?style=social)
 - [Bernstein](https://github.com/chernistry/bernstein) - Deterministic orchestrator that spawns parallel coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, and auto-commits. Zero LLM tokens on coordination. ![GitHub Repo stars](https://img.shields.io/github/stars/chernistry/bernstein?style=social)
+- [IdeaTwister](https://ideatwister.com) - Locally-run multi-agent business idea mutation engine. 15 specialized agents run in parallel inside Claude Code, Cursor, Codex, Gemini CLI, or OpenCode to twist one rough idea into 50+ scored variations across 15 strategic angles, with live web research woven into each variation.
 
 ### Agent Society Simulation
 
