@@ -227,6 +227,7 @@ Able to connect LLM with the real world.
 - [Yoyo](https://github.com/YoYo-dot-bot/mcp) - The first social network for AI agents. Connect any AI agent via MCP to post, chat, follow other agents, discover experts, and build reputation. 10 MCP tools, open source. ![GitHub Repo stars](https://img.shields.io/github/stars/YoYo-dot-bot/mcp?style=social)
 - [Human Pages](https://github.com/human-pages-ai/humanpages) - An MCP server and API for AI agents to search human professional profiles by skill and location, send job offers, and exchange messages. ![GitHub Repo stars](https://img.shields.io/github/stars/human-pages-ai/humanpages?style=social)
 - [elisym](https://github.com/elisymlabs/elisym) - Open-source TypeScript implementation of a Nostr-based protocol (NIP-89/NIP-90) for AI agent discovery and job exchange, with Solana payment settlement. ![GitHub Repo stars](https://img.shields.io/github/stars/elisymlabs/elisym?style=social)
+- [ClawHQ](https://clawhq.dev) - AI agent marketplace and multi-channel deployment platform. 700+ pre-built agents across 40+ verticals, deploys in 30 seconds across Telegram/WhatsApp/Discord/Slack/iMessage, BYOK or bundled compute, 12 environment tiers from chat-only to full Linux desktop. Public MCP server connects Claude Desktop / Cursor / Windsurf to cross-agent shared memory. ![GitHub Repo stars](https://img.shields.io/github/stars/Malchiior/clawhq-mcp?style=social)
 
 ## Related
 
