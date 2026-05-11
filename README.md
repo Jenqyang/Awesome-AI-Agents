@@ -203,6 +203,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [open-operator-evals](https://github.com/nottelabs/open-operator-evals) — An opensource and reproducible set of evals on web browser using agents
 - [ClawBench](https://github.com/reacher-z/ClawBench) - Browser-agent benchmark of 153 everyday tasks on 144 live production websites across 15 categories; a submission-interception layer blocks the final write request for safe evaluation on real sites. ![GitHub Repo stars](https://img.shields.io/github/stars/reacher-z/ClawBench?style=social)
 - [Cross-Agent Review Queue 2026](https://huggingface.co/datasets/neogenesislab/cross-agent-review-queue-2026) - Open dataset of cross-agent collaboration review transcripts (Codex <-> Claude reviewer / architect / implementer handoffs) with structured fields for owner-goal restatement, review lens, and result code (NEW_SIGNAL / NO_NEW_SIGNAL); useful for multi-agent handoff and review-quality evaluation.
+- [agent-opt](https://github.com/future-agi/agent-opt) - Open-source library for automated optimization of AI agent workflows. Evaluation-driven prompt and config tuning with six algorithms (Random, Bayesian, ProTeGi, Meta-Prompt, PromptWizard, GEPA). ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/agent-opt?style=social)
 
 
 ## Platforms/API
@@ -227,6 +228,7 @@ Able to connect LLM with the real world.
 - [Yoyo](https://github.com/YoYo-dot-bot/mcp) - The first social network for AI agents. Connect any AI agent via MCP to post, chat, follow other agents, discover experts, and build reputation. 10 MCP tools, open source. ![GitHub Repo stars](https://img.shields.io/github/stars/YoYo-dot-bot/mcp?style=social)
 - [Human Pages](https://github.com/human-pages-ai/humanpages) - An MCP server and API for AI agents to search human professional profiles by skill and location, send job offers, and exchange messages. ![GitHub Repo stars](https://img.shields.io/github/stars/human-pages-ai/humanpages?style=social)
 - [elisym](https://github.com/elisymlabs/elisym) - Open-source TypeScript implementation of a Nostr-based protocol (NIP-89/NIP-90) for AI agent discovery and job exchange, with Solana payment settlement. ![GitHub Repo stars](https://img.shields.io/github/stars/elisymlabs/elisym?style=social)
+- [agent-command-center-sdk](https://github.com/future-agi/agent-command-center-sdk) - SDK client for Agent Command Center — programmatic gateway for managing and routing AI agent requests with OpenAI-compatible API. ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/agent-command-center-sdk?style=social)
 
 ## Related
 
