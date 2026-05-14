@@ -133,6 +133,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [AgentSkeptic](https://github.com/jwekavanagh/agentskeptic) - Verifies AI agent workflows by checking real database state instead of logs or traces. ![GitHub Repo stars](https://img.shields.io/github/stars/jwekavanagh/agentskeptic?style=social)
 - [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI operations agent (kc-agent) that bridges LLMs to live clusters via MCP for AI-assisted troubleshooting, observability, and management across edge and cloud. CNCF Sandbox project. ![GitHub Repo stars](https://img.shields.io/github/stars/kubestellar/console?style=social)
 - [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - Python CLI by Repello AI for extracting agentic workflows from LangChain/LangGraph/CrewAI/AutoGen and running automated threat modeling against the resulting graphs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/Agent-Wiz?style=social)
+- [Septim Agents Pack](https://septimlabs.com/agents) - 10 named Claude Code sub-agents for the full exec-team layer. Pip is open-sourced under MIT.
 
 ## Frameworks
 
