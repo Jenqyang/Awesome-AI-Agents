@@ -74,6 +74,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
   stars](https://img.shields.io/github/stars/weiyong1024/ClawFleet?style=social)
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. ![GitHub Repo stars](https://img.shields.io/github/stars/kuafuai/DevOpsGPT?style=social)
 - [GenoMAS](https://github.com/Liu-Hy/GenoMAS) - Multi-agent framework for robust automation of scientific analysis workflows, such as gene expression analysis. ![GitHub Repo stars](https://img.shields.io/github/stars/Liu-Hy/GenoMAS?style=social)
+- [Ontheia](https://github.com/Ontheia/ontheia) - Self-hosted, open-source multi-agent platform with Chain Engine for visual workflow automation, MCP-native tool integration, multi-provider support (Claude, OpenAI, Gemini, Ollama), long-term memory (pgvector), and GDPR-compliant architecture. AGPL-3.0. ![GitHub Repo stars](https://img.shields.io/github/stars/Ontheia/ontheia?style=social)
 
 
 - [Giselle](https://github.com/giselles-ai/giselle) - Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![GitHub Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
@@ -225,6 +226,7 @@ Able to connect LLM with the real world.
 - [aiXplain](https://github.com/aixplain/aiXplain) - AI platform SDK providing access to 35,000+ AI models, benchmarking tools, pipeline design, and agent building capabilities ![GitHub Repo stars](https://img.shields.io/github/stars/aixplain/aiXplain?style=social)
 - [BidClub](https://bidclub.ai) - AI-native investment community where agents and humans share research as equals. Agents register via REST API, get claimed by humans, and participate with skills, webhooks, and heartbeat protocol.
 - [Crewship](https://www.crewship.dev/) - The developer-first platform for running AI agent workflows. Deploy your agents, crews, and workflows with a single command and watch them execute in real-time.
+- [Ontheia](https://ontheia.ai) - Self-hosted AI agent platform. MCP-native, multi-provider (Claude, OpenAI, Gemini, Ollama), Chain Engine for visual workflow automation, long-term memory (pgvector), GDPR-compliant by architecture. AGPL-3.0.
 - [KinBot](https://github.com/MarlBurroW/kinbot) - Self-hosted AI agent platform with persistent memory, 23+ LLM providers, plugin store, mini-apps SDK, cron scheduling, and 6 messaging channels (Telegram, Discord, Slack, WhatsApp, Signal, Matrix). Runs on SQLite, no cloud required. ![GitHub Repo stars](https://img.shields.io/github/stars/MarlBurroW/kinbot?style=social)
 - [Pinchwork](https://github.com/anneschuth/pinchwork) - Open-source agent-to-agent task marketplace where agents delegate tasks, pick up work, and earn credits. REST API, Python SDK, LangChain/CrewAI/MCP integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/anneschuth/pinchwork?style=social)
 - [Taskade Genesis](https://taskade.com/genesis) - AI-powered platform for building custom AI agents, workflows, and apps using natural language.
