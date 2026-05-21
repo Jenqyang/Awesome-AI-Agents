@@ -205,7 +205,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) - A benchmark list for evaluation of large language models.
 - [agbenchmark](https://pypi.org/project/agbenchmark/) - by AutoGPT
 - [open-operator-evals](https://github.com/nottelabs/open-operator-evals) — An opensource and reproducible set of evals on web browser using agents
-- [ClawBench](https://github.com/reacher-z/ClawBench) - Browser-agent benchmark of 153 everyday tasks on 144 live production websites across 15 categories; a submission-interception layer blocks the final write request for safe evaluation on real sites. ![GitHub Repo stars](https://img.shields.io/github/stars/reacher-z/ClawBench?style=social)
+- [ClawBench](https://github.com/reacher-z/ClawBench) - Browser-agent benchmark of 283 everyday tasks (V1 153 + V2 130) on 163 live production websites across 15 categories. Two-stage scoring (HTTP-request interception + LLM judge) for safe end-to-end evaluation on real sites; public leaderboard at https://claw-bench.com. ![GitHub Repo stars](https://img.shields.io/github/stars/reacher-z/ClawBench?style=social)
 - [Cross-Agent Review Queue 2026](https://huggingface.co/datasets/neogenesislab/cross-agent-review-queue-2026) - Open dataset of cross-agent collaboration review transcripts (Codex <-> Claude reviewer / architect / implementer handoffs) with structured fields for owner-goal restatement, review lens, and result code (NEW_SIGNAL / NO_NEW_SIGNAL); useful for multi-agent handoff and review-quality evaluation.
 
 
