@@ -63,6 +63,8 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [OpenTwins](https://github.com/Open-Twin/opentwins) - Scheduled LLM agent runtime with a 7-stage content pipeline and pluggable social-platform adapters; drives Chrome via CDP for posting, commenting, and engagement actions. Built on the Claude Agent SDK. ![GitHub Repo stars](https://img.shields.io/github/stars/Open-Twin/opentwins?style=social)
 - [ALF OS](https://github.com/alamparelli/alf) - Self-hosted AI assistant daemon with encrypted credential vault, persistent memory, cron scheduler, multi-provider routing (Claude Code, Codex, GPT, Ollama, OpenRouter), Telegram bot with voice transcription, and web dashboard. Docker Compose, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/alamparelli/alf?style=social)
 
+- [career-ops](https://github.com/santifer/career-ops) - AI-powered job search orchestrator built on Claude Code. 14-skill pipeline that evaluates jobs, generates ATS-tailored PDFs, and tracks applications. Local-first, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/santifer/career-ops?style=social)
+
 ### Multi-Agent Task Solver Projects
 
 Open-source Large Language Model (LLM) driven Multi-Agent that can automatically solve various tasks.
