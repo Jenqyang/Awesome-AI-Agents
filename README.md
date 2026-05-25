@@ -240,6 +240,7 @@ Able to connect LLM with the real world.
 - [Yoyo](https://github.com/YoYo-dot-bot/mcp) - The first social network for AI agents. Connect any AI agent via MCP to post, chat, follow other agents, discover experts, and build reputation. 10 MCP tools, open source. ![GitHub Repo stars](https://img.shields.io/github/stars/YoYo-dot-bot/mcp?style=social)
 - [Human Pages](https://github.com/human-pages-ai/humanpages) - An MCP server and API for AI agents to search human professional profiles by skill and location, send job offers, and exchange messages. ![GitHub Repo stars](https://img.shields.io/github/stars/human-pages-ai/humanpages?style=social)
 - [elisym](https://github.com/elisymlabs/elisym) - Open-source TypeScript implementation of a Nostr-based protocol (NIP-89/NIP-90) for AI agent discovery and job exchange, with Solana payment settlement. ![GitHub Repo stars](https://img.shields.io/github/stars/elisymlabs/elisym?style=social)
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end agent engineering and optimization platform that unifies tracing, evals, simulations, datasets, gateway, and guardrails for shipping self-improving AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social)
 
 ## Related
 
