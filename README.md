@@ -140,6 +140,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [AgentSkeptic](https://github.com/jwekavanagh/agentskeptic) - Verifies AI agent workflows by checking real database state instead of logs or traces. ![GitHub Repo stars](https://img.shields.io/github/stars/jwekavanagh/agentskeptic?style=social)
 - [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI operations agent (kc-agent) that bridges LLMs to live clusters via MCP for AI-assisted troubleshooting, observability, and management across edge and cloud. CNCF Sandbox project. ![GitHub Repo stars](https://img.shields.io/github/stars/kubestellar/console?style=social)
 - [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - Python CLI by Repello AI for extracting agentic workflows from LangChain/LangGraph/CrewAI/AutoGen and running automated threat modeling against the resulting graphs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/Agent-Wiz?style=social)
+- [sticky-widget](https://github.com/CharlesTThe/sticky-widget) - Drop-in browser widget for capturing element-level user feedback on AI-generated UIs. Users click any DOM node to leave a sticky-note comment with selector, screenshot context, and recent console errors. Shadow-DOM isolated, ~6KB gzipped, optional Postgres backend. ![GitHub Repo stars](https://img.shields.io/github/stars/CharlesTThe/sticky-widget?style=social)
 
 ## Frameworks
 
