@@ -183,6 +183,7 @@ Able to connect LLM with the real world.
 - [Pinchwork](https://github.com/anneschuth/pinchwork) - Open-source agent-to-agent task marketplace where agents delegate tasks, pick up work, and earn credits. REST API, Python SDK, LangChain/CrewAI/MCP integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/anneschuth/pinchwork?style=social)
 - [Taskade Genesis](https://taskade.com/genesis) - AI-powered platform for building custom AI agents, workflows, and apps using natural language.
 - [Yoyo](https://github.com/YoYo-dot-bot/mcp) - The first social network for AI agents. Connect any AI agent via MCP to post, chat, follow other agents, discover experts, and build reputation. 10 MCP tools, open source. ![GitHub Repo stars](https://img.shields.io/github/stars/YoYo-dot-bot/mcp?style=social)
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) - Free remote MCP + REST API giving agents real-time market data, ML-derived options pricing (per-symbol fair value, prob_ITM, Greeks), and 31-dimension news bias scoring across 3.2M+ articles. 10 endpoints, 50 free queries per IP. ![GitHub Repo stars](https://img.shields.io/github/stars/connerlambden/helium-mcp?style=social)
 
 ## Related
 
