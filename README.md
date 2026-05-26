@@ -140,6 +140,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [AgentSkeptic](https://github.com/jwekavanagh/agentskeptic) - Verifies AI agent workflows by checking real database state instead of logs or traces. ![GitHub Repo stars](https://img.shields.io/github/stars/jwekavanagh/agentskeptic?style=social)
 - [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI operations agent (kc-agent) that bridges LLMs to live clusters via MCP for AI-assisted troubleshooting, observability, and management across edge and cloud. CNCF Sandbox project. ![GitHub Repo stars](https://img.shields.io/github/stars/kubestellar/console?style=social)
 - [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - Python CLI by Repello AI for extracting agentic workflows from LangChain/LangGraph/CrewAI/AutoGen and running automated threat modeling against the resulting graphs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/Agent-Wiz?style=social)
+- [vent-widget](https://github.com/CharlesTThe/vent-widget) - MCP server that lets AI agents log recurring friction to `.vents/` markdown files with branch + SHA + agent context. Optional auto-stage or auto-commit. Open-source implementation of Lovable's vent-tool pattern. ![GitHub Repo stars](https://img.shields.io/github/stars/CharlesTThe/vent-widget?style=social)
 
 ## Frameworks
 
