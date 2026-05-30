@@ -272,6 +272,7 @@ Able to connect LLM with the real world.
 ## Reference Repo
 
 - [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...
+- [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and reference implementations for building GenAI agents, from simple conversational bots to complex multi-agent systems.
 - [awesome-agents](https://github.com/kyrolabs/awesome-agents) - 🤖 Awesome list of AI Agents
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 100+ agentic AI resources
