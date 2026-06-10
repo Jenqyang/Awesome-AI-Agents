@@ -65,6 +65,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Alfred](https://github.com/luminik-io/alfred-os) - Self-hosted runtime for autonomous Claude Code and Codex agents that turns GitHub issues into reviewed pull requests. Per-firing git worktrees, label-driven state, role-based engine routing, Slack reports. Python, MIT, macOS/Linux. ![GitHub Repo stars](https://img.shields.io/github/stars/luminik-io/alfred-os?style=social)
 
 - [career-ops](https://github.com/santifer/career-ops) - AI-powered job search orchestrator built on Claude Code. 14-skill pipeline that evaluates jobs, generates ATS-tailored PDFs, and tracks applications. Local-first, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/santifer/career-ops?style=social)
+- [Cate](https://github.com/0-AI-UG/cate) - Open-source desktop IDE on an infinite zoomable canvas where Monaco editors, terminals, embedded browsers, and Claude Code agent panels float, dock, or detach in a spatial workspace; layout persists per project. Electron + React + TypeScript, MIT, cross-platform. ![GitHub Repo stars](https://img.shields.io/github/stars/0-AI-UG/cate?style=social)
 
 ### Multi-Agent Task Solver Projects
 
