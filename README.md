@@ -146,6 +146,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI operations agent (kc-agent) that bridges LLMs to live clusters via MCP for AI-assisted troubleshooting, observability, and management across edge and cloud. CNCF Sandbox project. ![GitHub Repo stars](https://img.shields.io/github/stars/kubestellar/console?style=social)
 - [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - Python CLI by Repello AI for extracting agentic workflows from LangChain/LangGraph/CrewAI/AutoGen and running automated threat modeling against the resulting graphs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/Agent-Wiz?style=social)
 - [tsm](https://github.com/ahmedsaid47/tsm) - The tiny SSH-first tmux session manager and dashboard tailored for monitoring AI coding agents. ![GitHub Repo stars](https://img.shields.io/github/stars/ahmedsaid47/tsm?style=social)
+- [null-drift](https://github.com/CodNoob100/null-drift) - High-concurrency O(1) memory metabolism daemon for continuous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/CodNoob100/null-drift?style=social)
 
 ## Frameworks
 
