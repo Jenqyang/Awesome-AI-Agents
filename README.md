@@ -73,6 +73,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 
 ![](./images/multi-agent.png)
 
+- [Boardroom](https://github.com/jamiejhouston-commits/boardroom) - Local-first iOS command center for running Hermes Agent as a human-supervised autonomous company with boardroom debates, greenlight approvals, and Demo Day. ![GitHub Repo stars](https://img.shields.io/github/stars/jamiejhouston-commits/boardroom?style=social)
 - [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
 - [ClawFleet](https://github.com/weiyong1024/ClawFleet) - Self-hosted AI fleet management with browser dashboard, Docker isolation, and bot-to-bot collaboration in Discord. ![GitHub Repo
