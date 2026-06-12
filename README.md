@@ -66,6 +66,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Alfred](https://github.com/luminik-io/alfred-os) - Self-hosted runtime for autonomous Claude Code and Codex agents that turns GitHub issues into reviewed pull requests. Per-firing git worktrees, label-driven state, role-based engine routing, Slack reports. Python, MIT, macOS/Linux. ![GitHub Repo stars](https://img.shields.io/github/stars/luminik-io/alfred-os?style=social)
 
 - [career-ops](https://github.com/santifer/career-ops) - AI-powered job search orchestrator built on Claude Code. 14-skill pipeline that evaluates jobs, generates ATS-tailored PDFs, and tracks applications. Local-first, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/santifer/career-ops?style=social)
+- [FlyTrap](https://flytrap.dev/) - Exploratory testing agent that explores Android and iOS apps like a real tester and reports bugs, crashes, and UX issues. Takes a Play Store listing, TestFlight build, or app binary, no scripts or setup needed. Findings are ready to file in Jira, Linear, and GitHub.
 
 ### Multi-Agent Task Solver Projects
 
