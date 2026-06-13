@@ -254,6 +254,7 @@ Able to connect LLM with the real world.
 - [Human Pages](https://github.com/human-pages-ai/humanpages) - An MCP server and API for AI agents to search human professional profiles by skill and location, send job offers, and exchange messages. ![GitHub Repo stars](https://img.shields.io/github/stars/human-pages-ai/humanpages?style=social)
 - [elisym](https://github.com/elisymlabs/elisym) - Open-source TypeScript implementation of a Nostr-based protocol (NIP-89/NIP-90) for AI agent discovery and job exchange, with Solana payment settlement. ![GitHub Repo stars](https://img.shields.io/github/stars/elisymlabs/elisym?style=social)
 - [openma](https://github.com/open-ma/open-managed-agents) - Self-hosted, open-source implementation of Anthropic's Managed Agents API. Wire-compatible with the official SDKs. Runs on Cloudflare Workers + Durable Objects or Node. Apache 2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/open-ma/open-managed-agents?style=social)
+- [Declaw](https://declaw.ai) - Security-first platform for running AI agents in isolated Firecracker microVMs. Per-sandbox network policies (default-deny egress, domain allowlists), PII scanning, prompt injection defense, and audit logging. Python/TypeScript/Go SDKs and CLI ([Apache-2.0](https://github.com/declaw-ai)), managed cloud or self-hosted.
 
 ## Related
 
