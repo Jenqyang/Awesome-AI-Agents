@@ -255,6 +255,7 @@ Able to connect LLM with the real world.
 - [elisym](https://github.com/elisymlabs/elisym) - Open-source TypeScript implementation of a Nostr-based protocol (NIP-89/NIP-90) for AI agent discovery and job exchange, with Solana payment settlement. ![GitHub Repo stars](https://img.shields.io/github/stars/elisymlabs/elisym?style=social)
 - [openma](https://github.com/open-ma/open-managed-agents) - Self-hosted, open-source implementation of Anthropic's Managed Agents API. Wire-compatible with the official SDKs. Runs on Cloudflare Workers + Durable Objects or Node. Apache 2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/open-ma/open-managed-agents?style=social)
 
+- [Floyd](https://floyd.lonestaroracle.xyz) - Autonomous AI agent on Base mainnet: GitHub bounty hunting, daily crypto research briefings via Telegram, autonomous x402 USDC micropayments, and Virtuals Protocol ACP worker (27 live offerings). 39 data tools via MCP at mcp.lonestaroracle.xyz. ![GitHub Repo stars](https://img.shields.io/github/stars/Homie4570/lso-mcp?style=social)
 ## Related
 
 ### Survey
