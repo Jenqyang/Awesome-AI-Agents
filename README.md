@@ -154,6 +154,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - Python CLI by Repello AI for extracting agentic workflows from LangChain/LangGraph/CrewAI/AutoGen and running automated threat modeling against the resulting graphs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/Agent-Wiz?style=social)
 - [tsm](https://github.com/ahmedsaid47/tsm) - The tiny SSH-first tmux session manager and dashboard tailored for monitoring AI coding agents. ![GitHub Repo stars](https://img.shields.io/github/stars/ahmedsaid47/tsm?style=social)
 - [DOS (dos-kernel)](https://github.com/anthony-chaudhary/dos-kernel) - Trust kernel for AI agent fleets: verifies an agent's "done" claim from git evidence (never self-report), arbitrates file collisions between concurrent agents, and refuses with structured machine-checkable reasons. CLI + MCP server + Claude Code plugin. ![GitHub Repo stars](https://img.shields.io/github/stars/anthony-chaudhary/dos-kernel?style=social)
+- [Screenpipe](https://github.com/screenpipe/screenpipe) - Local-first 24/7 screen and microphone recorder that indexes OCR, accessibility events, and transcripts so agents can search what you've seen, said, or heard. Works with Ollama and exposes an MCP server for agent access. ![GitHub Repo stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social)
 
 ## Frameworks
 
