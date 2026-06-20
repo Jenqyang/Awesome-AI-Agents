@@ -120,6 +120,7 @@ Exploring endless possibilities with open-source agent social simulation.
 ### Tools
 
 - [Perseus](https://github.com/tcconnally/perseus) - Live workspace context engine for AI agents. Renders AGENTS.md at session start. Plug-in for Claude Code, Codex, Hermes.
+- [EGC](https://github.com/Fmarzochi/EGC) - Cross-session persistent memory layer for AI coding agents (Claude Code, Cursor, Gemini CLI, Codex, Windsurf, Amp, Kiro, and more). SQLite-backed. ![GitHub Repo stars](https://img.shields.io/github/stars/Fmarzochi/EGC?style=social)
 
 - [mem0](https://github.com/mem0ai/mem0) - Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
 - [Agent Brain](https://github.com/kaderosio/agent-brain) - 7-layer cognitive memory system for AI agents with perception gate, dream cycle, and predictive capabilities. Self-hostable via Docker. ![GitHub Repo stars](https://img.shields.io/github/stars/kaderosio/agent-brain?style=social)
