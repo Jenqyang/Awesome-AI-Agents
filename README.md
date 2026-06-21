@@ -154,6 +154,8 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - Python CLI by Repello AI for extracting agentic workflows from LangChain/LangGraph/CrewAI/AutoGen and running automated threat modeling against the resulting graphs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/Agent-Wiz?style=social)
 - [tsm](https://github.com/ahmedsaid47/tsm) - The tiny SSH-first tmux session manager and dashboard tailored for monitoring AI coding agents. ![GitHub Repo stars](https://img.shields.io/github/stars/ahmedsaid47/tsm?style=social)
 - [DOS (dos-kernel)](https://github.com/anthony-chaudhary/dos-kernel) - Trust kernel for AI agent fleets: verifies an agent's "done" claim from git evidence (never self-report), arbitrates file collisions between concurrent agents, and refuses with structured machine-checkable reasons. CLI + MCP server + Claude Code plugin. ![GitHub Repo stars](https://img.shields.io/github/stars/anthony-chaudhary/dos-kernel?style=social)
+- [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) - Local Rust scanner and MCP proxy for AI-agent prompt injection, credential leakage, exfiltration, and risky tool-call arguments. ![GitHub Repo stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard?style=social)
+- [Armorer](https://github.com/ArmorerLabs/Armorer) - Local control plane for running AI agents with sandboxes, approvals, guardrails, credentials, managed apps, and runtime health. ![GitHub Repo stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer?style=social)
 
 ## Frameworks
 
