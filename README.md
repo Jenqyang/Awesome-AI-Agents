@@ -269,6 +269,7 @@ Able to connect LLM with the real world.
 - [A Survey on Large Language Model based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey) <a href='https://arxiv.org/abs/2308.11432'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
 - [The Rise and Potential of Large Language Model Based Agents: A Survey](https://github.com/WooooDyy/LLM-Agent-Paper-List) <a href='https://arxiv.org/abs/2309.07864'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
 - [LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) <a href='https://arxiv.org/abs/2505.00753'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
+- [Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime](https://www.preprints.org/manuscript/202603.1756/v2) <a href='https://doi.org/10.20944/preprints202603.1756'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
 
 ### Paper-List Repo
 
