@@ -27,6 +27,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 ![https://arxiv.org/abs/2309.07864](./images/LLM-based-Agents.png)
 
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of the power of AI accessible to everyone, to use and to build on. ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)
+- [AIDE](https://github.com/WecoAI/aideml) - ML-engineering agent that uses tree search to optimize code against an eval metric, reaching human-level performance on Kaggle/MLE-bench. ![GitHub Repo stars](https://img.shields.io/github/stars/WecoAI/aideml?style=social)
 - [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. ![GitHub Repo stars](https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer?style=social)
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
 - [JARVIS](https://github.com/microsoft/JARVIS) - a system to connect LLMs with ML community. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/JARVIS?style=social)
