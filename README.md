@@ -248,6 +248,7 @@ Able to connect LLM with the real world.
 
 ![](./images/system_design.png)
 
+- [Proxygate](https://proxygate.ai) - Curated marketplace of real-world data APIs for AI agents. Connect once (MCP, SDK, CLI, or REST API) and call any listing per request from one prepaid USDC balance on Solana, with seller keys injected server-side and a signed receipt per call.
 - [Agentfield](https://github.com/Agent-Field/agentfield) - An open source Kubernetes-style control plane for deploying AI agents as distributed microservices, with built-in service discovery, durable workflows, and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Field/agentfield?style=social)
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - "May the Force be with LLM and Domain Experts." ![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social)
