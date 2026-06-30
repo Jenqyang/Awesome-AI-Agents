@@ -220,6 +220,8 @@ Quickly build and customize agents.
 - [Aeon](https://github.com/aaronjmars/aeon) - Autonomous agent framework that runs on GitHub Actions, triggered by cron schedules or repository events. Defines agent behavior as Markdown skills, persists memory in the git repository, evaluates its own run output to revise underperforming skills, and integrates with MCP and A2A. ![GitHub Repo stars](https://img.shields.io/github/stars/aaronjmars/aeon?style=social)
 
 
+
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Context compression for AI agents. Cuts ~65% of accumulated context tokens between agent steps. ~5K-parameter CPU policy, ~60ms latency. `pip install supercompress`.
 ## Benchmark/Evaluator
 
 Benchmarks to evaluate LLM-as-Agent across a variety of environments.
