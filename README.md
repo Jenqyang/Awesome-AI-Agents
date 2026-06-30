@@ -158,6 +158,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - Python CLI by Repello AI for extracting agentic workflows from LangChain/LangGraph/CrewAI/AutoGen and running automated threat modeling against the resulting graphs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/Agent-Wiz?style=social)
 - [tsm](https://github.com/ahmedsaid47/tsm) - The tiny SSH-first tmux session manager and dashboard tailored for monitoring AI coding agents. ![GitHub Repo stars](https://img.shields.io/github/stars/ahmedsaid47/tsm?style=social)
 - [DOS (dos-kernel)](https://github.com/anthony-chaudhary/dos-kernel) - Trust kernel for AI agent fleets: verifies an agent's "done" claim from git evidence (never self-report), arbitrates file collisions between concurrent agents, and refuses with structured machine-checkable reasons. CLI + MCP server + Claude Code plugin. ![GitHub Repo stars](https://img.shields.io/github/stars/anthony-chaudhary/dos-kernel?style=social)
+- [SuperCompress](https://supercompress.vercel.app) - Learned prompt compression that reduces LLM token costs by ~65%% for agent workflows. ~5K-param CPU policy, ~60ms latency. Open-source (MIT).
 
 ## Frameworks
 
@@ -219,6 +220,8 @@ Quickly build and customize agents.
 - [Aeon](https://github.com/aaronjmars/aeon) - Autonomous agent framework that runs on GitHub Actions, triggered by cron schedules or repository events. Defines agent behavior as Markdown skills, persists memory in the git repository, evaluates its own run output to revise underperforming skills, and integrates with MCP and A2A. ![GitHub Repo stars](https://img.shields.io/github/stars/aaronjmars/aeon?style=social)
 
 
+
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Context compression for AI agents. Cuts ~65% of accumulated context tokens between agent steps. ~5K-parameter CPU policy, ~60ms latency. `pip install supercompress`.
 ## Benchmark/Evaluator
 
 Benchmarks to evaluate LLM-as-Agent across a variety of environments.
