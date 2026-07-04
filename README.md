@@ -67,6 +67,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Alfred](https://github.com/luminik-io/alfred-os) - Self-hosted runtime for autonomous Claude Code and Codex agents that turns GitHub issues into reviewed pull requests. Per-firing git worktrees, label-driven state, role-based engine routing, Slack reports. Python, MIT, macOS/Linux. ![GitHub Repo stars](https://img.shields.io/github/stars/luminik-io/alfred-os?style=social)
 
 - [career-ops](https://github.com/santifer/career-ops) - AI-powered job search orchestrator built on Claude Code. 14-skill pipeline that evaluates jobs, generates ATS-tailored PDFs, and tracks applications. Local-first, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/santifer/career-ops?style=social)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing platform where Markdown methodology agents orchestrate 80+ offensive security tools through MCP controlled execution with agentic reasoning, keeping an evidence trail per finding. Model agnostic, tuned for Claude Opus. ![GitHub Repo stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon?style=social)
 - [LoopTroop](https://github.com/looptroop-ai/LoopTroop) - Local GUI orchestrator for AI coding agents where an LLM Council plans, atomic beads execute in isolated git worktrees, and a Ralph Loop retries failures with fresh context. ![GitHub Repo stars](https://img.shields.io/github/stars/looptroop-ai/LoopTroop?style=social)
 
 ### Multi-Agent Task Solver Projects
