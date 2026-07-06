@@ -9,6 +9,8 @@
     - [Agent Society Simulation](#agent-society-simulation)
     - [Advanced Components](#advanced-components)
     - [Tools](#tools)
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
   - [Frameworks](#frameworks)
   - [Benchmark/Evaluator](#benchmarkevaluator)
   - [Platforms/API](#platformsapi)
