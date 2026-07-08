@@ -307,6 +307,7 @@ Able to connect LLM with the real world.
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 100+ agentic AI resources
 - [Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - A list of top AI agents
+- [awesome-agentic-commerce](https://github.com/MentionNetwork/awesome-agentic-commerce) - Curated list for AI agents that shop, sell and transact: UCP/ACP/AP2/MCP protocols, commerce MCP servers and agent readiness tools.
 - [ai-agent-roadmap](https://github.com/Yuan-ManX/ai-agent-roadmap) - Explore the latest AI Agent Framework!
 - [rag-architect](https://github.com/greynewell/rag-architect) - Hermes Agent profile and skill pack for designing production RAG agents, evaluation plans, observability specs, and implementation-ready issue templates. ![GitHub Repo stars](https://img.shields.io/github/stars/greynewell/rag-architect?style=social)
 - [Inspired projects by babyagi](https://github.com/yoheinakajima/babyagi/blob/main/docs/inspired-projects.md)
