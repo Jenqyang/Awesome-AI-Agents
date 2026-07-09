@@ -99,7 +99,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [NextRole](https://github.com/tam159/next-role) - A supervisor agent coordinates three sub-agents (hiring-recon, resume-tailor, interview-coach) to turn a CV and job description into a tailored resume, interview-prep doc, and day-of battlecard. ![GitHub Repo stars](https://img.shields.io/github/stars/tam159/next-role?style=social)
 - [OpenAcme](https://github.com/sandydasari/openacme) - Local-first AI workforce platform — named agents with roles, personas, tools, memory, and per-agent MCP servers that self-organize through task delegation. Any agent can assign work to another; the scheduler wakes coworkers when dependencies clear. ![GitHub Repo stars](https://img.shields.io/github/stars/sandydasari/openacme?style=social)
 
-- [ENLIL](https://github.com/conchaestradamiguelangel-droid/enlil) - Self-hosted orchestrator that queries multiple LLMs in parallel, aggregates their responses into a consensus/dissent report, and cryptographically signs the output for verifiable provenance. Fully open source (GPL v3). ![GitHub Repo stars](https://img.shields.io/github/stars/conchaestradamiguelangel-droid/enlil?style=social)
+- [ENLIL](https://github.com/conchaestradamiguelangel-droid/enlil) - Self-hosted framework that dispatches a query to multiple language models in parallel and consolidates their independent responses into a merged output. ![GitHub Repo stars](https://img.shields.io/github/stars/conchaestradamiguelangel-droid/enlil?style=social)
 
 ### Agent Society Simulation
 
