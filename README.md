@@ -164,6 +164,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [tsm](https://github.com/ahmedsaid47/tsm) - The tiny SSH-first tmux session manager and dashboard tailored for monitoring AI coding agents. ![GitHub Repo stars](https://img.shields.io/github/stars/ahmedsaid47/tsm?style=social)
 - [DOS (dos-kernel)](https://github.com/anthony-chaudhary/dos-kernel) - Trust kernel for AI agent fleets: verifies an agent's "done" claim from git evidence (never self-report), arbitrates file collisions between concurrent agents, and refuses with structured machine-checkable reasons. CLI + MCP server + Claude Code plugin. ![GitHub Repo stars](https://img.shields.io/github/stars/anthony-chaudhary/dos-kernel?style=social)
 - [Cynative](https://github.com/cynative/cynative) - Agentic security CLI that runs code in a built-in sandbox to research cloud, code and runtime. Read-only by construction. ![GitHub Repo stars](https://img.shields.io/github/stars/cynative/cynative?style=social)
+- [Nika](https://github.com/supernovae-st/nika) - Intent-as-code workflow engine for AI agents: reviewable YAML DAGs statically checked (schema, permits, honest cost floor) before any token is spent, tamper-evident traces after. Single Rust binary. ![GitHub Repo stars](https://img.shields.io/github/stars/supernovae-st/nika?style=social)
 
 ## Frameworks
 
