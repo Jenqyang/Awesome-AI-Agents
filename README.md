@@ -123,6 +123,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 ### Tools
 
+- [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) - Open-source CLI that turns an existing local agent or automation into a capability callable by teammates or other agents over a trusted LAN, while keeping the publisher's source code, dependencies, prompts, and credentials on their machine. Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/ShakespeareLabs/open-agent-relay?style=social)
 - [Perseus](https://github.com/tcconnally/perseus) - Live workspace context engine for AI agents. Renders AGENTS.md at session start. Plug-in for Claude Code, Codex, Hermes.
 - [EGC](https://github.com/Fmarzochi/EGC) - Cross-session persistent memory layer for AI coding agents (Claude Code, Cursor, Gemini CLI, Codex, Windsurf, Amp, Kiro, and more). SQLite-backed. ![GitHub Repo stars](https://img.shields.io/github/stars/Fmarzochi/EGC?style=social)
 
