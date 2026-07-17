@@ -249,6 +249,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [Cross-Agent Review Queue 2026](https://huggingface.co/datasets/neogenesislab/cross-agent-review-queue-2026) - Open dataset of cross-agent collaboration review transcripts (Codex <-> Claude reviewer / architect / implementer handoffs) with structured fields for owner-goal restatement, review lens, and result code (NEW_SIGNAL / NO_NEW_SIGNAL); useful for multi-agent handoff and review-quality evaluation.
 - [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, and optimize LLM and AI agent apps, with 70+ eval metrics and OpenTelemetry-native tracing across 50+ frameworks. ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social)
 - [CIAgent](https://github.com/suniel12/ciagent) - Pytest-native regression testing for AI agents — golden-trace diffing, cost guardrails, multi-run stability scoring with flip attribution, LLM-judge auditing, and one-command import of production traces (OTel/Langfuse/LangSmith) into CI tests. ![GitHub Repo stars](https://img.shields.io/github/stars/suniel12/ciagent?style=social)
+- [MLS-Bench](https://github.com/Imbernoulli/MLS-Bench) - Benchmark of 140 tasks across 12 ML domains evaluating whether AI systems can invent generalizable and scalable ML methods ([arXiv](https://arxiv.org/abs/2605.08678), [website](https://mls-bench.com)). ![GitHub Repo stars](https://img.shields.io/github/stars/Imbernoulli/MLS-Bench?style=social)
 
 
 ## Platforms/API
