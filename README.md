@@ -102,6 +102,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [OpenAcme](https://github.com/sandydasari/openacme) - Local-first AI workforce platform — named agents with roles, personas, tools, memory, and per-agent MCP servers that self-organize through task delegation. Any agent can assign work to another; the scheduler wakes coworkers when dependencies clear. ![GitHub Repo stars](https://img.shields.io/github/stars/sandydasari/openacme?style=social)
 - [h5i](https://github.com/h5i-dev/h5i) - CLI that runs several coding agents (Claude Code, Codex) on the same task, each in an isolated git worktree sandbox, has them peer-review each other, then a neutral verifier replays every candidate, runs the tests itself, and merges the one that passes. Run metadata is versioned in the repo under refs/h5i/*. Rust, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/h5i-dev/h5i?style=social)
 - [AionUi](https://github.com/iOfficeAI/AionUi) - Open-source desktop client that runs multiple agent CLIs (Claude Code, Codex, Gemini CLI, Qwen Code) side by side, with multi-session chat, MCP and ACP support, and local file management. ![GitHub Repo stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=social)
+- [Paperclip](https://github.com/paperclipai/paperclip) - Open-source platform to run coding agents as managed workers with tasks, approvals, budgets, and workspaces. ![GitHub Repo stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=social)
 
 ### Agent Society Simulation
 
