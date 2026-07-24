@@ -2910,5 +2910,18 @@
       "url": "https://github.com/hardness1020.png?size=96",
       "type": "avatar"
     }
+  },
+  {
+    "id": 225,
+    "name": "TeDDy",
+    "url": "https://github.com/atte500/TeDDy",
+    "description": "An opinionated coding harness that prevents code slop by embedding TDD, Hexagonal Architecture, and vertical slicing into a Markdown-driven workflow.",
+    "category": "Coding",
+    "section": "Frameworks",
+    "source": "GitHub",
+    "icon": {
+      "url": "https://github.com/atte500.png?size=96",
+      "type": "avatar"
+    }
   }
 ]
