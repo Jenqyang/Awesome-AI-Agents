@@ -105,6 +105,8 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [AionUi](https://github.com/iOfficeAI/AionUi) - Open-source desktop client that runs multiple agent CLIs (Claude Code, Codex, Gemini CLI, Qwen Code) side by side, with multi-session chat, MCP and ACP support, and local file management. ![GitHub Repo stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=social)
 - [Orkas](https://github.com/Orkas-AI/Orkas) - MIT-licensed, local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media. ![GitHub Repo stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social)
 
+- [ENLIL](https://github.com/conchaestradamiguelangel-droid/enlil) - Self-hosted framework that dispatches a query to multiple language models in parallel and consolidates their independent responses into a merged output. ![GitHub Repo stars](https://img.shields.io/github/stars/conchaestradamiguelangel-droid/enlil?style=social)
+
 ### Agent Society Simulation
 
 Exploring endless possibilities with open-source agent social simulation.
