@@ -304,6 +304,7 @@ Able to connect LLM with the real world.
 ### Blog
 
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) - Amazing blog by Lilian Weng (OpenAI), Jun 23, 2023.
+- [Cosas Agénticas](https://cosasagenticas.com/) - Practical, Spanish-native guides (English version in the works) for building and operating LLM agents: agent loops, tool use, memory, multi-agent orchestration, and production checklists — vendor-neutral, PDF + web.
 - [从第一性原理看大模型Agent技术](https://mp.weixin.qq.com/s/PL-QjlvVugUfmRD4g0P-qQ)
 - [基于大语言模型的AI Agents](https://www.breezedeus.com/article/ai-agent-part3)
 - [ICLR'24 上大型语言模型代理的最新研究进展 | 代理评估重点](https://medium.com/@aminerscholar_39923/latest-research-advancements-on-large-language-model-agents-at-iclr24-agent-evaluation-focus-aed420421365)
