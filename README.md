@@ -164,6 +164,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Cynative](https://github.com/cynative/cynative) - Agentic security CLI that runs code in a built-in sandbox to research cloud, code and runtime. Read-only by construction. ![GitHub Repo stars](https://img.shields.io/github/stars/cynative/cynative?style=social)
 - [Nika](https://github.com/supernovae-st/nika) - Intent-as-code workflow engine for AI agents: reviewable YAML DAGs statically checked (schema, permits, honest cost floor) before any token is spent, tamper-evident traces after. Single Rust binary. ![GitHub Repo stars](https://img.shields.io/github/stars/supernovae-st/nika?style=social)
 - [engRAM](https://github.com/MaxFreedomPollard/engRAM) - Local-first, offline encrypted vector memory for AI agents over MCP or CLI, with AEAD-encrypted-at-rest records and embeddings, RAM-resident exact vector search, per-record crypto-shred deletion, and a hash-chained audit log. MIT, Python. ![GitHub Repo stars](https://img.shields.io/github/stars/MaxFreedomPollard/engRAM?style=social)
+- [Caspian](https://github.com/TryCaspian/caspian-sdk) - One messaging identity for an AI agent across Slack, Discord, Telegram, Instagram, email, and X — a single `on_message` handler with threading, webhook verification, and platform quirks handled. Python + TypeScript SDK. ![GitHub Repo stars](https://img.shields.io/github/stars/TryCaspian/caspian-sdk?style=social)
 
 ## Frameworks
 
@@ -225,6 +226,7 @@ Quickly build and customize agents.
 - [Aeon](https://github.com/aaronjmars/aeon) - Autonomous agent framework that runs on GitHub Actions, triggered by cron schedules or repository events. Defines agent behavior as Markdown skills, persists memory in the git repository, evaluates its own run output to revise underperforming skills, and integrates with MCP and A2A. ![GitHub Repo stars](https://img.shields.io/github/stars/aaronjmars/aeon?style=social)
 - [Reactive Agents](https://github.com/tylerjrbuell/reactive-agents-ts) - Type-safe, observable TypeScript AI agent framework on Effect-TS; MCP-native, A2A multi-agent, 6 reasoning strategies, runs the same code on local Ollama 4B+ and frontier APIs. ![GitHub Repo stars](https://img.shields.io/github/stars/tylerjrbuell/reactive-agents-ts?style=social)
 - [Talon](https://github.com/dylanneve1/talon) - Self-hosted, multi-frontend agentic harness that runs one persistent agent across Telegram, Discord, Teams, and the terminal. Pluggable backends (Claude, OpenAI Agents, Codex, Kilo, OpenCode), full MCP tool access, and always-on background agents — Goals, Heartbeat, and Dream — backed by a long-term memory palace. MIT, TypeScript. ![GitHub Repo stars](https://img.shields.io/github/stars/dylanneve1/talon?style=social)
+- [fractal](https://github.com/plasma-ai/fractal) - Hierarchical agent loops that self-organize into a tree, where each node iterates in its own git worktree and spawns children for subtasks, bounded by caps on depth, cost, and time. ![GitHub Repo stars](https://img.shields.io/github/stars/plasma-ai/fractal?style=social)
 
 
 ## Benchmark/Evaluator
@@ -249,6 +251,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [Cross-Agent Review Queue 2026](https://huggingface.co/datasets/neogenesislab/cross-agent-review-queue-2026) - Open dataset of cross-agent collaboration review transcripts (Codex <-> Claude reviewer / architect / implementer handoffs) with structured fields for owner-goal restatement, review lens, and result code (NEW_SIGNAL / NO_NEW_SIGNAL); useful for multi-agent handoff and review-quality evaluation.
 - [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform to simulate, evaluate, trace, guardrail, and optimize LLM and AI agent apps, with 70+ eval metrics and OpenTelemetry-native tracing across 50+ frameworks. ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social)
 - [CIAgent](https://github.com/suniel12/ciagent) - Pytest-native regression testing for AI agents — golden-trace diffing, cost guardrails, multi-run stability scoring with flip attribution, LLM-judge auditing, and one-command import of production traces (OTel/Langfuse/LangSmith) into CI tests. ![GitHub Repo stars](https://img.shields.io/github/stars/suniel12/ciagent?style=social)
+- [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) - CLI that diffs two runs of an AI agent to show changes in tool calls, arguments, cost, latency, and outcomes, with multi-sample flake detection to demote pre-existing flakiness. ![GitHub Repo stars](https://img.shields.io/github/stars/arthi-arumugam-git/whatbroke?style=social)
 
 
 ## Platforms/API
@@ -275,6 +278,7 @@ Able to connect LLM with the real world.
 - [Human Pages](https://github.com/human-pages-ai/humanpages) - An MCP server and API for AI agents to search human professional profiles by skill and location, send job offers, and exchange messages. ![GitHub Repo stars](https://img.shields.io/github/stars/human-pages-ai/humanpages?style=social)
 - [elisym](https://github.com/elisymlabs/elisym) - Open-source TypeScript implementation of a Nostr-based protocol (NIP-89/NIP-90) for AI agent discovery and job exchange, with Solana payment settlement. ![GitHub Repo stars](https://img.shields.io/github/stars/elisymlabs/elisym?style=social)
 - [openma](https://github.com/open-ma/open-managed-agents) - Self-hosted, open-source implementation of Anthropic's Managed Agents API. Wire-compatible with the official SDKs. Runs on Cloudflare Workers + Durable Objects or Node. Apache 2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/open-ma/open-managed-agents?style=social)
+- [Enclave](https://github.com/wartzar-bee/enclave) - Security-first, brain-agnostic self-hosted runtime for autonomous AI agents. Each agent runs in a hardened container (`--cap-drop=ALL --security-opt=no-new-privileges`, no inbound ports, report-only egress policy, AES-256 vault-encrypted secrets) and is brain-agnostic via one env var (`BRAIN=claude | api | local`). Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/wartzar-bee/enclave?style=social)
 
 ## Related
 
