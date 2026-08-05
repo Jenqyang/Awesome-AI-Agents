@@ -2911,17 +2911,4 @@
       "type": "avatar"
     }
   },
-  {
-    "id": 225,
-    "name": "TeDDy",
-    "url": "https://github.com/atte500/TeDDy",
-    "description": "Markdown-driven coding harness that structures agent work around TDD, hexagonal architecture, and vertical slicing.",
-    "category": "Coding",
-    "section": "Frameworks",
-    "source": "GitHub",
-    "icon": {
-      "url": "https://github.com/atte500.png?size=96",
-      "type": "avatar"
-    }
-  }
 ]
