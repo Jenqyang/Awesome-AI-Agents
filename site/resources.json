@@ -2915,7 +2915,7 @@
     "id": 225,
     "name": "TeDDy",
     "url": "https://github.com/atte500/TeDDy",
-    "description": "An opinionated coding harness that prevents code slop by embedding TDD, Hexagonal Architecture, and vertical slicing into a Markdown-driven workflow.",
+    "description": "Markdown-driven coding harness that structures agent work around TDD, hexagonal architecture, and vertical slicing.",
     "category": "Coding",
     "section": "Frameworks",
     "source": "GitHub",
