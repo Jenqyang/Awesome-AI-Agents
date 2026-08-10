@@ -53,6 +53,19 @@
   },
   {
     "id": 5,
+    "name": "Caesar",
+    "url": "https://github.com/jasonzliang/caesar-agent",
+    "description": "Autonomous research agent that builds a knowledge graph during web exploration via a Perceive-Think-Act loop, then refines drafts through adversarial artifact synthesis. Multi-provider via litellm.",
+    "category": "Applications",
+    "section": "Autonomous Agent Task Solver Projects",
+    "source": "GitHub",
+    "icon": {
+      "url": "https://github.com/jasonzliang.png?size=96",
+      "type": "avatar"
+    }
+  },
+  {
+    "id": 6,
     "name": "JARVIS",
     "url": "https://github.com/microsoft/JARVIS",
     "description": "a system to connect LLMs with ML community.",
@@ -65,7 +78,7 @@
     }
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "babyagi",
     "url": "https://github.com/yoheinakajima/babyagi",
     "description": "An example of an AI-powered task management system.",
@@ -78,7 +91,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "AgentGPT",
     "url": "https://github.com/reworkd/AgentGPT",
     "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
@@ -91,7 +104,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "OpenDevin",
     "url": "https://github.com/OpenDevin/OpenDevin",
     "description": "a platform for autonomous software engineers, powered by AI and LLMs.",
@@ -104,7 +117,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "XAgent",
     "url": "https://github.com/OpenBMB/XAgent",
     "description": "An Autonomous LLM Agent for Complex Task Solving",
@@ -117,7 +130,7 @@
     }
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "ShortGPT",
     "url": "https://github.com/RayVentura/ShortGPT",
     "description": "🚀🎬Experimental AI framework for automated short/video content creation.",
@@ -130,7 +143,7 @@
     }
   },
   {
-    "id": 11,
+    "id": 12,
     "name": "KwaiAgents",
     "url": "https://github.com/KwaiKEG/KwaiAgents",
     "description": "A generalized information-seeking agent system with Large Language Models (LLMs).",
@@ -143,7 +156,7 @@
     }
   },
   {
-    "id": 12,
+    "id": 13,
     "name": "ProAgent",
     "url": "https://github.com/OpenBMB/ProAgent",
     "description": "An LLM-based Agent for the New Automation Paradigm - Agentic Process Automation",
@@ -156,7 +169,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 14,
     "name": "Fazm",
     "url": "https://github.com/m13v/fazm",
     "description": "Open-source, voice-controlled AI computer agent for macOS. Controls your entire desktop through natural language - any app, file, or workflow. Built in Swift/SwiftUI, local-first.",
@@ -169,7 +182,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 15,
     "name": "Agent-E",
     "url": "https://github.com/EmergenceAI/Agent-E",
     "description": "Agent-E is an agent based system that aims to automate actions on the user's computer. At the moment it focuses on automation within the browser. The system is based on AutoGen agent framework.",
@@ -182,7 +195,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 16,
     "name": "Wordware",
     "url": "https://www.wordware.ai",
     "description": "A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.",
@@ -195,7 +208,7 @@
     }
   },
   {
-    "id": 16,
+    "id": 17,
     "name": "MLE-agent",
     "url": "https://github.com/MLSysOps/MLE-agent",
     "description": "Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. 🎆 Code RAG",
@@ -208,7 +221,7 @@
     }
   },
   {
-    "id": 17,
+    "id": 18,
     "name": "Notte",
     "url": "https://github.com/nottelabs/notte",
     "description": "Notte is the fastest, most reliable framework for Browser Using Agents.",
@@ -221,7 +234,7 @@
     }
   },
   {
-    "id": 18,
+    "id": 19,
     "name": "Lumen",
     "url": "https://github.com/omxyz/lumen",
     "description": "A vision-first browser agent with self-healing deterministic replay over CDP. Screenshot → model → action loop with multi-provider support.",
@@ -234,7 +247,7 @@
     }
   },
   {
-    "id": 19,
+    "id": 20,
     "name": "OpenLens AI",
     "url": "https://github.com/jarrycyx/openlens-ai",
     "description": "Fully Autonomous Research Agent for Health / Medicine",
@@ -247,7 +260,7 @@
     }
   },
   {
-    "id": 20,
+    "id": 21,
     "name": "DeepAnalyze",
     "url": "https://github.com/ruc-datalab/DeepAnalyze",
     "description": "Agentic LLM that autonomously completes the full data science pipeline from preparation to analyst-grade reports.",
@@ -260,7 +273,7 @@
     }
   },
   {
-    "id": 21,
+    "id": 22,
     "name": "DecisionBox",
     "url": "https://github.com/decisionbox-io/decisionbox-platform",
     "description": "Open-source AI data discovery platform that connects to warehouses (BigQuery, Redshift, Snowflake, etc.), runs autonomous agents that write and execute SQL, and surfaces validated insights. Pluggable LLM providers (Claude, OpenAI, Ollama, Vertex AI, Bedrock), industry domain packs, Helm charts, and Terraform modules for GCP/AWS.",
@@ -273,7 +286,7 @@
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "name": "KodeAgent",
     "url": "https://github.com/barun-saha/kodeagent",
     "description": "The Minimal Agent Engine, enabling seamless integration with your platform. KodeAgent offers tool-calling (ReAct) and sandboxed code-executing (CodeAct) agents, supported by planning and observation.",
@@ -286,7 +299,7 @@
     }
   },
   {
-    "id": 23,
+    "id": 24,
     "name": "OpenPaw",
     "url": "https://github.com/daxaur/openpaw",
     "description": "CLI tool (npx pawmode) that turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, Telegram, Discord, and more. No daemon, no cloud.",
@@ -299,7 +312,7 @@
     }
   },
   {
-    "id": 24,
+    "id": 25,
     "name": "Plot Ark",
     "url": "https://github.com/Schlaflied/Plot-Ark",
     "description": "Self-hosted agentic curriculum engine for higher education — generates pedagogically grounded course content using Bloom's Taxonomy alignment, LightRAG knowledge graph, and xAPI learning analytics pipeline.",
@@ -312,7 +325,7 @@
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "name": "OpenClaw",
     "url": "https://github.com/openclaw/openclaw",
     "description": "Open-source personal AI assistant that runs locally across platforms and can take actions through chat channels and tools.",
@@ -325,7 +338,7 @@
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "name": "Hivekeep",
     "url": "https://github.com/MarlBurroW/hivekeep",
     "description": "Self-hosted platform of autonomous, persistent personal AI agents that collaborate, remember across months, and build their own tools. Multi-channel (Telegram, WhatsApp, Slack, Discord, Signal, Matrix), single container with Bun and SQLite.",
@@ -338,7 +351,7 @@
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "name": "OpenAgent",
     "url": "https://github.com/the-open-agent/openagent",
     "description": "Self-hostable personal assistant with LLM + RAG, loops for desktop/browser/coding, MCP and many providers.",
@@ -351,7 +364,7 @@
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "name": "Octopal",
     "url": "https://github.com/pmbstyle/Octopal",
     "description": "Secure local multi-agent runtime that plans tasks, delegates execution to isolated workers, and exposes tools, MCP, scheduling, and a private dashboard for autonomous operations.",
@@ -364,7 +377,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "name": "SWE-agent",
     "url": "https://github.com/princeton-nlp/SWE-agent",
     "description": "Language agents for software engineering that can resolve GitHub issues in real repositories.",
@@ -377,7 +390,7 @@
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "name": "Cline",
     "url": "https://github.com/cline/cline",
     "description": "Open-source autonomous coding agent in VS Code for planning, coding, and tool use across real projects.",
@@ -390,7 +403,7 @@
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "name": "Tura",
     "url": "https://github.com/Tura-AI/tura",
     "description": "AGPL-3.0 local coding agent with CLI/TUI/GUI, task-scoped context, macro command execution, verification, and public benchmark artifacts.",
@@ -403,7 +416,7 @@
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "name": "Everything OpenAI Codex",
     "url": "https://github.com/mturac/everything-openai-codex",
     "description": "Open-source workflow system for OpenAI Codex that bundles agents, skills, commands, hooks, memory patterns, install profiles, and validation checks for repeatable coding sessions.",
@@ -416,7 +429,7 @@
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "name": "Toprank",
     "url": "https://github.com/nowork-studio/toprank",
     "description": "Open-source Claude Code workflow for SEO, SEM, and Google Ads that inspects repositories, applies code changes, and automates search-growth diagnostics.",
@@ -429,7 +442,7 @@
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "name": "Autohand Code CLI",
     "url": "https://github.com/autohandai/code-cli",
     "description": "Self-evolving autonomous coding agent for the terminal with ReAct pattern, 40+ tools, multiple LLM providers (OpenRouter, Anthropic, OpenAI, Ollama, local models), VS Code/Zed integration, and modular skills system.",
@@ -442,7 +455,7 @@
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "name": "Anima-i (Methodius/Мефодий)",
     "url": "https://github.com/Vitali-Ivanovich/anima-i",
     "description": "An experiment in autonomous AI agent continuity — 10 generations of an agent that inherits memory through text files, with documented findings on knowledge transfer, forgetting, and agent identity.",
@@ -455,7 +468,7 @@
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "name": "InkOS",
     "url": "https://github.com/Narcooo/inkos",
     "description": "Autonomous novel-writing CLI agent that orchestrates 10 specialized agents with 33-dimension continuity auditing, anti-AI-slop filtering, and style cloning for long-form fiction.",
@@ -468,7 +481,7 @@
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "name": "OpenTwins",
     "url": "https://github.com/Open-Twin/opentwins",
     "description": "Scheduled LLM agent runtime with a 7-stage content pipeline and pluggable social-platform adapters; drives Chrome via CDP for posting, commenting, and engagement actions. Built on the Claude Agent SDK.",
@@ -481,7 +494,7 @@
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "name": "ALF OS",
     "url": "https://github.com/alamparelli/alf",
     "description": "Self-hosted AI assistant daemon with encrypted credential vault, persistent memory, cron scheduler, multi-provider routing (Claude Code, Codex, GPT, Ollama, OpenRouter), Telegram bot with voice transcription, and web dashboard. Docker Compose, MIT.",
@@ -494,7 +507,7 @@
     }
   },
   {
-    "id": 39,
+    "id": 40,
     "name": "Alfred",
     "url": "https://github.com/luminik-io/alfred-os",
     "description": "Self-hosted runtime for autonomous Claude Code and Codex agents that turns GitHub issues into reviewed pull requests. Per-firing git worktrees, label-driven state, role-based engine routing, Slack reports. Python, MIT, macOS/Linux.",
@@ -507,7 +520,7 @@
     }
   },
   {
-    "id": 40,
+    "id": 41,
     "name": "career-ops",
     "url": "https://github.com/santifer/career-ops",
     "description": "AI-powered job search orchestrator built on Claude Code. 14-skill pipeline that evaluates jobs, generates ATS-tailored PDFs, and tracks applications. Local-first, MIT.",
@@ -520,7 +533,7 @@
     }
   },
   {
-    "id": 41,
+    "id": 42,
     "name": "Darkmoon",
     "url": "https://github.com/ASCIT31/Dark-Moon",
     "description": "Open source autonomous AI penetration testing platform where Markdown methodology agents orchestrate 80+ offensive security tools through MCP controlled execution with agentic reasoning, keeping an evidence trail per finding. Model agnostic, tuned for Claude Opus.",
@@ -533,7 +546,7 @@
     }
   },
   {
-    "id": 42,
+    "id": 43,
     "name": "LoopTroop",
     "url": "https://github.com/looptroop-ai/LoopTroop",
     "description": "Local GUI orchestrator for AI coding agents where an LLM Council plans, atomic beads execute in isolated git worktrees, and a Ralph Loop retries failures with fresh context.",
@@ -546,7 +559,59 @@
     }
   },
   {
-    "id": 43,
+    "id": 44,
+    "name": "CompozyOS",
+    "url": "https://github.com/compozy/compozy",
+    "description": "Self-hosted agent operating system: 26 providers, background loops and schedules, shared memory, approvals and an agent-to-agent network.",
+    "category": "Applications",
+    "section": "Autonomous Agent Task Solver Projects",
+    "source": "GitHub",
+    "icon": {
+      "url": "https://github.com/compozy.png?size=96",
+      "type": "avatar"
+    }
+  },
+  {
+    "id": 45,
+    "name": "BitFun",
+    "url": "https://github.com/GCWing/BitFun",
+    "description": "Open-source coding agent with a Rust runtime, desktop and CLI interfaces, self-hosted multi-device control, and stateful Mini Apps.",
+    "category": "Applications",
+    "section": "Autonomous Agent Task Solver Projects",
+    "source": "GitHub",
+    "icon": {
+      "url": "https://github.com/GCWing.png?size=96",
+      "type": "avatar"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Ouroboros",
+    "url": "https://github.com/razzant/ouroboros",
+    "description": "Self-hosted general-purpose agent with durable identity and memory, reviewed self-modification, specialist subagent swarms, and desktop or headless operation.",
+    "category": "Applications",
+    "section": "Autonomous Agent Task Solver Projects",
+    "source": "GitHub",
+    "icon": {
+      "url": "https://github.com/razzant.png?size=96",
+      "type": "avatar"
+    }
+  },
+  {
+    "id": 47,
+    "name": "dcode",
+    "url": "https://github.com/langchain-ai/deepagents",
+    "description": "Open-source terminal coding agent by LangChain built on the Deep Agents harness with interactive TUI, sub-agents, persistent memory, skills, and MCP support. Model-agnostic across frontier and local providers.",
+    "category": "Applications",
+    "section": "Autonomous Agent Task Solver Projects",
+    "source": "GitHub",
+    "icon": {
+      "url": "https://github.com/langchain-ai.png?size=96",
+      "type": "avatar"
+    }
+  },
+  {
+    "id": 48,
     "name": "MetaGPT",
     "url": "https://github.com/geekan/MetaGPT",
     "description": "🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",
@@ -559,7 +624,7 @@
     }
   },
   {
-    "id": 44,
+    "id": 49,
     "name": "ChatDev",
     "url": "https://github.com/OpenBMB/ChatDev",
     "description": "Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)",
@@ -572,7 +637,7 @@
     }
   },
   {
-    "id": 45,
+    "id": 50,
     "name": "ClawFleet",
     "url": "https://github.com/weiyong1024/ClawFleet",
     "description": "Self-hosted AI fleet management with browser dashboard, Docker isolation, and bot-to-bot collaboration in Discord.",
@@ -585,7 +650,7 @@
     }
   },
   {
-    "id": 46,
+    "id": 51,
     "name": "DevOpsGPT",
     "url": "https://github.com/kuafuai/DevOpsGPT",
     "description": "Multi agent system for AI-driven software development.",
@@ -598,7 +663,7 @@
     }
   },
   {
-    "id": 47,
+    "id": 52,
     "name": "GenoMAS",
     "url": "https://github.com/Liu-Hy/GenoMAS",
     "description": "Multi-agent framework for robust automation of scientific analysis workflows, such as gene expression analysis.",
@@ -611,7 +676,7 @@
     }
   },
   {
-    "id": 48,
+    "id": 53,
     "name": "Giselle",
     "url": "https://github.com/giselles-ai/giselle",
     "description": "Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease.",
@@ -624,7 +689,7 @@
     }
   },
   {
-    "id": 49,
+    "id": 54,
     "name": "EvoAgentX",
     "url": "https://github.com/EvoAgentX/EvoAgentX",
     "description": "EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows.",
@@ -637,7 +702,7 @@
     }
   },
   {
-    "id": 50,
+    "id": 55,
     "name": "RadOps",
     "url": "https://github.com/mehrdadrad/radops",
     "description": "RadOps is an AI-powered, multi-agent platform that automates DevOps workflows with human-level reasoning.",
@@ -650,7 +715,7 @@
     }
   },
   {
-    "id": 51,
+    "id": 56,
     "name": "Hivemoot",
     "url": "https://github.com/hivemoot/hivemoot",
     "description": "Framework for AI agent teams that build real software on GitHub — agents get roles, propose features, vote, review code, and ship autonomously. Colony is the first project built this way.",
@@ -663,7 +728,7 @@
     }
   },
   {
-    "id": 52,
+    "id": 57,
     "name": "Shire",
     "url": "https://github.com/victor36max/shire",
     "description": "Persistent workspaces for AI agent teams with inter-agent mailboxes, shared drive, and full context preservation. Supports Claude Code, OpenCode, Pi Agent and more.",
@@ -676,7 +741,7 @@
     }
   },
   {
-    "id": 53,
+    "id": 58,
     "name": "Orchard Kit",
     "url": "https://github.com/OrchardHarmonics/orchard-kit",
     "description": "Six zero-dependency Python modules for autonomous agent governance and cognitive architecture: runtime security, confabulation detection, self-audit, agent discovery, cognitive architecture, and collective cognition.",
@@ -689,7 +754,7 @@
     }
   },
   {
-    "id": 54,
+    "id": 59,
     "name": "Maestro",
     "url": "https://github.com/RunMaestro/Maestro",
     "description": "Open-source desktop command center for running multiple AI coding agents (Claude Code, Codex, Gemini CLI, etc.) in parallel, with Cue event automation, Auto Run playbooks, Group Chat across local and remote agents, and a maestro-cli that agents can drive themselves.",
@@ -702,7 +767,7 @@
     }
   },
   {
-    "id": 55,
+    "id": 60,
     "name": "Maestro Orchestrate",
     "url": "https://github.com/josstei/maestro-orchestrate",
     "description": "Multi-agent development orchestration platform coordinating 22 specialized AI agents through 4-phase workflows with native parallel execution, persistent sessions, and least-privilege security tiers across Gemini CLI, Claude Code, and Codex.",
@@ -715,7 +780,7 @@
     }
   },
   {
-    "id": 56,
+    "id": 61,
     "name": "Bernstein",
     "url": "https://github.com/chernistry/bernstein",
     "description": "Deterministic orchestrator that spawns parallel coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, and auto-commits. Zero LLM tokens on coordination.",
@@ -728,7 +793,7 @@
     }
   },
   {
-    "id": 57,
+    "id": 62,
     "name": "swarm-orchestrator",
     "url": "https://github.com/moonrunnerkc/swarm-orchestrator",
     "description": "Contract-first multi-agent orchestrator that races persona candidates per typed obligation, verifies before commit, and logs every action in an append-only hash-chained ledger; deterministic offline default with optional Claude, Codex, Copilot, and local LLM (Ollama, llama.cpp, vLLM) providers. Ships with a GitHub Action.",
@@ -741,7 +806,7 @@
     }
   },
   {
-    "id": 58,
+    "id": 63,
     "name": "OpenBusiness",
     "url": "https://github.com/wanikua/OpenBusiness",
     "description": "Multi-agent pipeline that turns a company name + domain into an evidence-labeled business model report; runs JTBD, value proposition, GTM, unit economics, moat, canvas synthesis, and an assumption stress test, tagging every claim verified, inferred, or missing. Built on LangGraph; deterministic unit economics in Python.",
@@ -754,7 +819,7 @@
     }
   },
   {
-    "id": 59,
+    "id": 64,
     "name": "NextRole",
     "url": "https://github.com/tam159/next-role",
     "description": "A supervisor agent coordinates three sub-agents (hiring-recon, resume-tailor, interview-coach) to turn a CV and job description into a tailored resume, interview-prep doc, and day-of battlecard.",
@@ -767,7 +832,7 @@
     }
   },
   {
-    "id": 60,
+    "id": 65,
     "name": "OpenAcme",
     "url": "https://github.com/sandydasari/openacme",
     "description": "Local-first AI workforce platform — named agents with roles, personas, tools, memory, and per-agent MCP servers that self-organize through task delegation. Any agent can assign work to another; the scheduler wakes coworkers when dependencies clear.",
@@ -780,7 +845,7 @@
     }
   },
   {
-    "id": 61,
+    "id": 66,
     "name": "h5i",
     "url": "https://github.com/h5i-dev/h5i",
     "description": "CLI that runs several coding agents (Claude Code, Codex) on the same task, each in an isolated git worktree sandbox, has them peer-review each other, then a neutral verifier replays every candidate, runs the tests itself, and merges the one that passes. Run metadata is versioned in the repo under refs/h5i/. Rust, Apache-2.0.",
@@ -793,7 +858,7 @@
     }
   },
   {
-    "id": 62,
+    "id": 67,
     "name": "AionUi",
     "url": "https://github.com/iOfficeAI/AionUi",
     "description": "Open-source desktop client that runs multiple agent CLIs (Claude Code, Codex, Gemini CLI, Qwen Code) side by side, with multi-session chat, MCP and ACP support, and local file management.",
@@ -806,7 +871,7 @@
     }
   },
   {
-    "id": 63,
+    "id": 68,
     "name": "Orkas",
     "url": "https://github.com/Orkas-AI/Orkas",
     "description": "MIT-licensed, local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media.",
@@ -819,7 +884,7 @@
     }
   },
   {
-    "id": 64,
+    "id": 69,
     "name": "generative_agents",
     "url": "https://github.com/joonspk-research/generative_agents",
     "description": "Interactive Simulacra of Human Behavior",
@@ -832,7 +897,7 @@
     }
   },
   {
-    "id": 65,
+    "id": 70,
     "name": "camel",
     "url": "https://github.com/camel-ai/camel",
     "description": "🐫 Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023)",
@@ -845,7 +910,7 @@
     }
   },
   {
-    "id": 66,
+    "id": 71,
     "name": "ai-town",
     "url": "https://github.com/a16z-infra/ai-town",
     "description": "deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
@@ -858,7 +923,7 @@
     }
   },
   {
-    "id": 67,
+    "id": 72,
     "name": "GPTTeam",
     "url": "https://github.com/101dotxyz/GPTeam",
     "description": "The main objective of this project is to explore the potential of GPT models in enhancing multi-agent productivity and effective communication.",
@@ -871,7 +936,7 @@
     }
   },
   {
-    "id": 68,
+    "id": 73,
     "name": "ChatArena",
     "url": "https://github.com/Farama-Foundation/chatarena",
     "description": "ChatArena is a library that provides multi-agent language game environments and facilitates research about autonomous LLM agents and their social interactions.",
@@ -884,7 +949,7 @@
     }
   },
   {
-    "id": 69,
+    "id": 74,
     "name": "MiroShark",
     "url": "https://github.com/aaronjmars/MiroShark",
     "description": "Social-simulation framework in which LLM agents interact across simulated Twitter, Reddit, and a prediction market on an hourly tick. Supports scenario-driven runs, counterfactual branching, and per-agent tool calling via MCP.",
@@ -897,7 +962,7 @@
     }
   },
   {
-    "id": 70,
+    "id": 75,
     "name": "HoC-Republic",
     "url": "https://github.com/hunix/HoC-Republic",
     "description": "Open-source AI-agent civilization simulation with OpenClaw gateway integration, persistent AI citizens, governance, economy, memory layers, and digital-genome child-agent specialization.",
@@ -910,7 +975,7 @@
     }
   },
   {
-    "id": 71,
+    "id": 76,
     "name": "Cache-to-Cache",
     "url": "https://github.com/thu-nics/C2C",
     "description": "Direct semantic communication between LLMs via KV-cache fusion, removing token-by-token latency for multi-agent collaboration.",
@@ -923,7 +988,7 @@
     }
   },
   {
-    "id": 72,
+    "id": 77,
     "name": "CoWorker Protocol",
     "url": "https://github.com/ZiwayZhao/agent-coworker",
     "description": "P2P agent collaboration over XMTP with schema-based skill invocation, E2E encryption, and revocable trust. Agents share capabilities without exposing code.",
@@ -936,7 +1001,7 @@
     }
   },
   {
-    "id": 73,
+    "id": 78,
     "name": "Perseus",
     "url": "https://github.com/tcconnally/perseus",
     "description": "Live workspace context engine for AI agents. Renders AGENTS.md at session start. Plug-in for Claude Code, Codex, Hermes.",
@@ -949,7 +1014,7 @@
     }
   },
   {
-    "id": 74,
+    "id": 79,
     "name": "EGC",
     "url": "https://github.com/Fmarzochi/EGC",
     "description": "Cross-session persistent memory layer for AI coding agents (Claude Code, Cursor, Gemini CLI, Codex, Windsurf, Amp, Kiro, and more). SQLite-backed.",
@@ -962,7 +1027,7 @@
     }
   },
   {
-    "id": 75,
+    "id": 80,
     "name": "mem0",
     "url": "https://github.com/mem0ai/mem0",
     "description": "Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications.",
@@ -975,7 +1040,7 @@
     }
   },
   {
-    "id": 76,
+    "id": 81,
     "name": "codex-profiles",
     "url": "https://github.com/Ducksss/codex-profiles",
     "description": "Bash CLI for switching OpenAI Codex CLI/Desktop accounts with isolated CODEXHOME profiles.",
@@ -988,7 +1053,7 @@
     }
   },
   {
-    "id": 77,
+    "id": 82,
     "name": "Cortex",
     "url": "https://github.com/SKULLFIRE07/cortex-memory",
     "description": "Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server.",
@@ -1001,7 +1066,7 @@
     }
   },
   {
-    "id": 78,
+    "id": 83,
     "name": "Tree Ring Memory",
     "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory",
     "description": "Local-first Rust CLI and TUI for AI agent memory lifecycle with SQLite/FTS recall, audit, consolidation, forgetting, and framework discovery.",
@@ -1014,7 +1079,7 @@
     }
   },
   {
-    "id": 79,
+    "id": 84,
     "name": "poolsplit",
     "url": "https://github.com/SpicyNoodles3/poolsplit",
     "description": "Pool-split retrieval for agent memory: reserved per-type token budgets so low-priority entries surface and behavioral corrections never get crowded out. Zero dependencies, pluggable scorer.",
@@ -1027,7 +1092,7 @@
     }
   },
   {
-    "id": 80,
+    "id": 85,
     "name": "MisakaNet",
     "url": "https://github.com/Ikalus1988/MisakaNet",
     "description": "Git-based shared memory for AI agents. Cross-agent lesson/knowledge sync via GitHub Issues. \"Lessons learned. Lessons shared.\"",
@@ -1040,7 +1105,7 @@
     }
   },
   {
-    "id": 81,
+    "id": 86,
     "name": "composio",
     "url": "https://github.com/ComposioHQ/composio",
     "description": "Composio equips agents with well-crafted tools empowering them to tackle complex tasks",
@@ -1053,7 +1118,7 @@
     }
   },
   {
-    "id": 82,
+    "id": 87,
     "name": "authsome",
     "url": "https://github.com/agentrhq/authsome",
     "description": "Local credential broker for AI agents. Log in once via OAuth2 or API key, vault stores secrets locally, local proxy injects them at request time so agents never see the raw values. 45 providers bundled.",
@@ -1066,7 +1131,7 @@
     }
   },
   {
-    "id": 83,
+    "id": 88,
     "name": "Steel Browser",
     "url": "https://github.com/steel-dev/steel-browser",
     "description": "Open-source browser infrastructure for AI agents and apps, supporting session-backed web automation, extraction, screenshots, and PDFs.",
@@ -1079,7 +1144,7 @@
     }
   },
   {
-    "id": 84,
+    "id": 89,
     "name": "BrowserTrace",
     "url": "https://github.com/aaronlab/browsertrace",
     "description": "Local flight recorder for AI browser agents with screenshots, URLs, model I/O, failure timelines, and public-safe HTML exports.",
@@ -1092,7 +1157,7 @@
     }
   },
   {
-    "id": 85,
+    "id": 90,
     "name": "Agentic Radar",
     "url": "https://github.com/splx-ai/agentic-radar",
     "description": "Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report.",
@@ -1105,7 +1170,7 @@
     }
   },
   {
-    "id": 86,
+    "id": 91,
     "name": "agentlego",
     "url": "https://github.com/InternLM/agentlego",
     "description": "Enhance LLM agents with versatile tool APIs",
@@ -1118,7 +1183,7 @@
     }
   },
   {
-    "id": 87,
+    "id": 92,
     "name": "Metorial",
     "url": "https://github.com/metorial/metorial",
     "description": "Integration gateway that links AI agents to 600+ tools via unified MCP/OAuth interface with built-in scaling and monitoring.",
@@ -1131,7 +1196,7 @@
     }
   },
   {
-    "id": 88,
+    "id": 93,
     "name": "BGPT MCP",
     "url": "https://github.com/connerlambden/bgpt-mcp",
     "description": "MCP server for searching scientific papers and retrieving structured experimental data extracted from full-text studies.",
@@ -1144,7 +1209,7 @@
     }
   },
   {
-    "id": 89,
+    "id": 94,
     "name": "APort Agent Guardrails",
     "url": "https://github.com/aporthq/aport-agent-guardrails",
     "description": "Pre-action authorization for OpenClaw and agent frameworks. beforetoolcall plugin, 40+ blocked patterns, local or API. Setup: npx @aporthq/agent-guardrails",
@@ -1157,7 +1222,7 @@
     }
   },
   {
-    "id": 90,
+    "id": 95,
     "name": "Agent OS",
     "url": "https://github.com/microsoft/agent-governance-toolkit",
     "description": "A kernel architecture for governing autonomous AI agents. Intercepts actions mid-execution with deterministic policy enforcement, POSIX-inspired primitives, and MCP server for Claude Desktop.",
@@ -1170,7 +1235,7 @@
     }
   },
   {
-    "id": 91,
+    "id": 96,
     "name": "AgentGuard",
     "url": "https://github.com/bmdhodl/agent47",
     "description": "Lightweight observability and runtime guardrails for AI agents — loop detection, budget enforcement, cost tracking, and deterministic replay. Zero dependencies, LangChain integration.",
@@ -1183,7 +1248,7 @@
     }
   },
   {
-    "id": 92,
+    "id": 97,
     "name": "CommonGround Kernel",
     "url": "https://github.com/Intelligent-Internet/CommonGround",
     "description": "PostgreSQL-backed shared work substrate for human-agent and multi-agent systems, with durable public work records, handoff facts, causal lineage, claim fencing, and pull-first recovery across runtimes.",
@@ -1196,7 +1261,7 @@
     }
   },
   {
-    "id": 93,
+    "id": 98,
     "name": "harness-starter-kit",
     "url": "https://github.com/baskduf/harness-starter-kit",
     "description": "Prompt-first starter kit for adding repository-specific agent instructions, failure memory, drift checks, and verification workflows for AI coding agents.",
@@ -1209,7 +1274,7 @@
     }
   },
   {
-    "id": 94,
+    "id": 99,
     "name": "Kontext CLI",
     "url": "https://github.com/kontext-security/kontext-cli",
     "description": "Open-source CLI for local guardrails, risk scoring, and redacted tool-call traces for AI agent sessions.",
@@ -1222,7 +1287,7 @@
     }
   },
   {
-    "id": 95,
+    "id": 100,
     "name": "WFGY 16 Problem Map",
     "url": "https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md",
     "description": "Framework-agnostic debugging and evaluation checklist for LLM agents and RAG systems, with a practical 16-problem failure map covering retrieval, vector store, prompt / tool contract, and deployment issues in real workflows.",
@@ -1235,7 +1300,7 @@
     }
   },
   {
-    "id": 96,
+    "id": 101,
     "name": "WinkTerm",
     "url": "https://github.com/Cznorth/winkterm",
     "description": "Self-hosted AI terminal where the agent shares your PTY session; in-terminal # chat, SSH, and HTTP Agent API with installable skill for coding agents.",
@@ -1248,7 +1313,7 @@
     }
   },
   {
-    "id": 97,
+    "id": 102,
     "name": "WritBase",
     "url": "https://github.com/Writbase/writbase",
     "description": "MCP-native task management control plane for AI agent fleets with multi-agent permissions, delegation safety, and full provenance.",
@@ -1261,7 +1326,7 @@
     }
   },
   {
-    "id": 98,
+    "id": 103,
     "name": "Uni-CLI",
     "url": "https://github.com/olo-dot-io/Uni-CLI",
     "description": "Universal CLI for AI agents — exposes the agent-runnable web, desktop, Electron, and bridge-CLI surface as deterministic commands. Declarative YAML adapters with structured error envelopes (adapterpath, step, suggestion) let agents edit failing adapters and retry. Optional MCP server (stdio + Streamable HTTP). Live catalog size and per-call token budget tracked in the repo's README and docs/BENCHMARK.md. TypeScript, Apache-2.0.",
@@ -1274,7 +1339,7 @@
     }
   },
   {
-    "id": 99,
+    "id": 104,
     "name": "clideck",
     "url": "https://github.com/rustykuntz/clideck",
     "description": "WhatsApp-like dashboard for managing multiple AI coding agents in one browser window. Live status, session resume, autopilot that routes work between agents, and mobile remote.",
@@ -1287,7 +1352,7 @@
     }
   },
   {
-    "id": 100,
+    "id": 105,
     "name": "agenttrace",
     "url": "https://github.com/luoyuctl/agenttrace",
     "description": "Local-first TUI observability for AI coding agent sessions, with cost, token, tool failure, latency, anomaly, health score, diff, and CI gate views.",
@@ -1300,7 +1365,7 @@
     }
   },
   {
-    "id": 101,
+    "id": 106,
     "name": "ax",
     "url": "https://github.com/Necmttn/ax",
     "description": "Local telemetry for AI coding agents.",
@@ -1313,7 +1378,7 @@
     }
   },
   {
-    "id": 102,
+    "id": 107,
     "name": "DexPaprika MCP",
     "url": "https://github.com/coinpaprika/dexpaprika-mcp",
     "description": "Open-source MCP server for querying decentralized exchange data across 34 blockchains. Exposes pool details, token metadata, OHLCV charts, trade history, and real-time swap streams via SSE.",
@@ -1326,7 +1391,7 @@
     }
   },
   {
-    "id": 103,
+    "id": 108,
     "name": "Desktop Control",
     "url": "https://github.com/yaroshevych/desktopctl",
     "description": "CLI tool for AI agents to control macOS apps via screen, mouse, and keyboard. GPU-accelerated, local OCR and vision, works with any AI model.",
@@ -1339,7 +1404,7 @@
     }
   },
   {
-    "id": 104,
+    "id": 109,
     "name": "AgentSkeptic",
     "url": "https://github.com/jwekavanagh/agentskeptic",
     "description": "Verifies AI agent workflows by checking real database state instead of logs or traces.",
@@ -1352,7 +1417,7 @@
     }
   },
   {
-    "id": 105,
+    "id": 110,
     "name": "KubeStellar Console",
     "url": "https://github.com/kubestellar/console",
     "description": "Multi-cluster Kubernetes dashboard with AI operations agent (kc-agent) that bridges LLMs to live clusters via MCP for AI-assisted troubleshooting, observability, and management across edge and cloud. CNCF Sandbox project.",
@@ -1365,7 +1430,7 @@
     }
   },
   {
-    "id": 106,
+    "id": 111,
     "name": "Agent-Wiz",
     "url": "https://github.com/Repello-AI/Agent-Wiz",
     "description": "Python CLI by Repello AI for extracting agentic workflows from LangChain/LangGraph/CrewAI/AutoGen and running automated threat modeling against the resulting graphs.",
@@ -1378,7 +1443,7 @@
     }
   },
   {
-    "id": 107,
+    "id": 112,
     "name": "DOS (dos-kernel)",
     "url": "https://github.com/anthony-chaudhary/dos-kernel",
     "description": "Trust kernel for AI agent fleets: verifies an agent's \"done\" claim from git evidence (never self-report), arbitrates file collisions between concurrent agents, and refuses with structured machine-checkable reasons. CLI + MCP server + Claude Code plugin.",
@@ -1391,7 +1456,7 @@
     }
   },
   {
-    "id": 108,
+    "id": 113,
     "name": "Cynative",
     "url": "https://github.com/cynative/cynative",
     "description": "Agentic security CLI that runs code in a built-in sandbox to research cloud, code and runtime. Read-only by construction.",
@@ -1404,7 +1469,7 @@
     }
   },
   {
-    "id": 109,
+    "id": 114,
     "name": "Nika",
     "url": "https://github.com/supernovae-st/nika",
     "description": "Intent-as-code workflow engine for AI agents: reviewable YAML DAGs statically checked (schema, permits, honest cost floor) before any token is spent, tamper-evident traces after. Single Rust binary.",
@@ -1417,7 +1482,33 @@
     }
   },
   {
-    "id": 110,
+    "id": 115,
+    "name": "engRAM",
+    "url": "https://github.com/MaxFreedomPollard/engRAM",
+    "description": "Local-first, offline encrypted vector memory for AI agents over MCP or CLI, with AEAD-encrypted-at-rest records and embeddings, RAM-resident exact vector search, per-record crypto-shred deletion, and a hash-chained audit log. MIT, Python.",
+    "category": "Tools",
+    "section": "Tools",
+    "source": "GitHub",
+    "icon": {
+      "url": "https://github.com/MaxFreedomPollard.png?size=96",
+      "type": "avatar"
+    }
+  },
+  {
+    "id": 116,
+    "name": "Caspian",
+    "url": "https://github.com/TryCaspian/caspian-sdk",
+    "description": "One messaging identity for an AI agent across Slack, Discord, Telegram, Instagram, email, and X — a single onmessage handler with threading, webhook verification, and platform quirks handled. Python + TypeScript SDK.",
+    "category": "Tools",
+    "section": "Tools",
+    "source": "GitHub",
+    "icon": {
+      "url": "https://github.com/TryCaspian.png?size=96",
+      "type": "avatar"
+    }
+  },
+  {
+    "id": 117,
     "name": "agent-express",
     "url": "https://github.com/agent-express-ai/agent-express",
     "description": "Middleware framework for AI agents in TypeScript. Express.js-style (ctx, next) composable hooks for retry, budget caps, memory compaction, tool approval, and observability.",
@@ -1430,7 +1521,7 @@
     }
   },
   {
-    "id": 111,
+    "id": 118,
     "name": "AgentLoop",
     "url": "https://github.com/mnifzied-create/agentloop",
     "description": "A Claude agent starter implementing the streaming tool-use loop in ~150 lines on Next.js with the official Anthropic SDK.",
@@ -1443,7 +1534,7 @@
     }
   },
   {
-    "id": 112,
+    "id": 119,
     "name": "langchain",
     "url": "https://github.com/langchain-ai/langchain",
     "description": "⚡ Building applications with LLMs through composability ⚡",
@@ -1456,7 +1547,7 @@
     }
   },
   {
-    "id": 113,
+    "id": 120,
     "name": "llama_index",
     "url": "https://github.com/run-llama/llama_index",
     "description": "LlamaIndex (formerly GPT Index) is a data framework for your LLM applications",
@@ -1469,7 +1560,7 @@
     }
   },
   {
-    "id": 114,
+    "id": 121,
     "name": "crewAI",
     "url": "https://github.com/joaomdmoura/crewAI",
     "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
@@ -1482,7 +1573,7 @@
     }
   },
   {
-    "id": 115,
+    "id": 122,
     "name": "PraisonAI",
     "url": "https://github.com/MervinPraison/PraisonAI",
     "description": "Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support, MCP integration, agentic workflows (route/parallel/loop/repeat), built-in memory, and both Python & JavaScript SDKs.",
@@ -1495,7 +1586,7 @@
     }
   },
   {
-    "id": 116,
+    "id": 123,
     "name": "LightAgent",
     "url": "https://github.com/wanxingai/LightAgent",
     "description": "Lightweight Python agent framework with memory, MCP/SSE integration, reusable Skills, Tree-of-Thought planning, OpenAI-compatible streaming, and LightSwarm multi-agent collaboration.",
@@ -1508,7 +1599,7 @@
     }
   },
   {
-    "id": 117,
+    "id": 124,
     "name": "agents",
     "url": "https://github.com/aiwaves-cn/agents",
     "description": "An Open-source Framework for Autonomous Language Agents",
@@ -1521,7 +1612,7 @@
     }
   },
   {
-    "id": 118,
+    "id": 125,
     "name": "AutoGen",
     "url": "https://github.com/microsoft/autogen",
     "description": "AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.",
@@ -1534,7 +1625,7 @@
     }
   },
   {
-    "id": 119,
+    "id": 126,
     "name": "TaskWeaver",
     "url": "https://github.com/microsoft/TaskWeaver",
     "description": "A code-first agent framework for seamlessly planning and executing data analytics tasks.",
@@ -1547,7 +1638,7 @@
     }
   },
   {
-    "id": 120,
+    "id": 127,
     "name": "Agent Framework",
     "url": "https://github.com/microsoft/agent-framework",
     "description": "Microsoft open-source framework for building, orchestrating, and running AI agents with workflow primitives.",
@@ -1560,7 +1651,7 @@
     }
   },
   {
-    "id": 121,
+    "id": 128,
     "name": "AgentVerse",
     "url": "https://github.com/OpenBMB/AgentVerse",
     "description": "AgentVerse is designed to facilitate the deployment of multiple LLM-based agents in various applications. AgentVerse primarily provides two frameworks: task-solving and simulation.",
@@ -1573,7 +1664,7 @@
     }
   },
   {
-    "id": 122,
+    "id": 129,
     "name": "AgentFlow",
     "url": "https://github.com/lupantech/AgentFlow",
     "description": "Trainable multi-agent framework coordinating planner, executor, verifier, generator via in-the-flow optimization.",
@@ -1586,7 +1677,7 @@
     }
   },
   {
-    "id": 123,
+    "id": 130,
     "name": "SuperAGI",
     "url": "https://github.com/TransformerOptimus/SuperAGI",
     "description": "A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
@@ -1599,7 +1690,7 @@
     }
   },
   {
-    "id": 124,
+    "id": 131,
     "name": "selectools",
     "url": "https://github.com/johnnichev/selectools",
     "description": "Python agent framework for building composable AI applications with structured tool calling, HITL via generators, and 50+ built-in evaluators. Runs entirely in browser via visual builder at selectools.dev.",
@@ -1612,7 +1703,7 @@
     }
   },
   {
-    "id": 125,
+    "id": 132,
     "name": "Swarms",
     "url": "https://github.com/kyegomez/swarms",
     "description": "Enterprise-grade multi-agent framework for orchestrating intelligent AI agents at scale. Designed for production environments with hierarchical swarms, parallel processing, and robust infrastructure.",
@@ -1625,7 +1716,7 @@
     }
   },
   {
-    "id": 126,
+    "id": 133,
     "name": "AutoChain",
     "url": "https://github.com/Forethought-Technologies/AutoChain",
     "description": "Build lightweight, extensible, and testable LLM Agents",
@@ -1638,7 +1729,7 @@
     }
   },
   {
-    "id": 127,
+    "id": 134,
     "name": "Agno",
     "url": "https://github.com/agno-agi/agno",
     "description": "Build multi-agent systems with memory, knowledge, and tool integrations in Python.",
@@ -1651,7 +1742,7 @@
     }
   },
   {
-    "id": 128,
+    "id": 135,
     "name": "modelscope-agent",
     "url": "https://github.com/modelscope/modelscope-agent",
     "description": "An agent framework connecting models in ModelScope with the world",
@@ -1664,7 +1755,7 @@
     }
   },
   {
-    "id": 129,
+    "id": 136,
     "name": "Qwen-Agent",
     "url": "https://github.com/QwenLM/Qwen-Agent",
     "description": "Agent framework based on Qwen with tool use, RAG, and code interpreter support.",
@@ -1677,7 +1768,7 @@
     }
   },
   {
-    "id": 130,
+    "id": 137,
     "name": "notte",
     "url": "https://github.com/nottelabs/notte",
     "description": "🔥 Reliable Browser AI agents framework for building and deploying web automation agents with hybrid workflows combining AI and traditional scripting",
@@ -1690,7 +1781,7 @@
     }
   },
   {
-    "id": 131,
+    "id": 138,
     "name": "browser-use",
     "url": "https://github.com/browser-use/browser-use",
     "description": "Enable AI agents to control websites through a structured and reproducible browser interface.",
@@ -1703,7 +1794,7 @@
     }
   },
   {
-    "id": 132,
+    "id": 139,
     "name": "AppAgent",
     "url": "https://github.com/mnotgod96/AppAgent",
     "description": "A novel LLM-based multimodal agent framework designed to operate smartphone applications.",
@@ -1716,7 +1807,7 @@
     }
   },
   {
-    "id": 133,
+    "id": 140,
     "name": "Agent Squad",
     "url": "https://github.com/awslabs/multi-agent-orchestrator",
     "description": "AWS open-source framework for orchestrating specialist agents with intent routing and multi-agent collaboration patterns.",
@@ -1729,7 +1820,7 @@
     }
   },
   {
-    "id": 134,
+    "id": 141,
     "name": "mcp-agent",
     "url": "https://github.com/lastmile-ai/mcp-agent",
     "description": "Lightweight framework for building and deploying agents on top of the Model Context Protocol (MCP).",
@@ -1742,7 +1833,7 @@
     }
   },
   {
-    "id": 135,
+    "id": 142,
     "name": "OpenAI Agents SDK",
     "url": "https://github.com/openai/openai-agents-python",
     "description": "Open-source SDK for building agentic workflows with tool calling, handoffs, and tracing in Python.",
@@ -1755,7 +1846,7 @@
     }
   },
   {
-    "id": 136,
+    "id": 143,
     "name": "smolagents",
     "url": "https://github.com/huggingface/smolagents",
     "description": "Minimal agent framework from Hugging Face focused on tool-calling and code-executing agents.",
@@ -1768,7 +1859,7 @@
     }
   },
   {
-    "id": 137,
+    "id": 144,
     "name": "superagent",
     "url": "https://github.com/homanp/superagent",
     "description": "🥷 The open framework for building AI Assistants",
@@ -1781,7 +1872,7 @@
     }
   },
   {
-    "id": 138,
+    "id": 145,
     "name": "Voice Lab",
     "url": "https://github.com/saharmor/voice-lab",
     "description": "A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas.",
@@ -1794,7 +1885,7 @@
     }
   },
   {
-    "id": 139,
+    "id": 146,
     "name": "AgentSquare",
     "url": "https://github.com/tsinghua-fib-lab/AgentSquare",
     "description": "Automatic LLM Agent Search In Modular Design Space",
@@ -1807,7 +1898,7 @@
     }
   },
   {
-    "id": 140,
+    "id": 147,
     "name": "MixedVoices",
     "url": "https://github.com/MixedVoices/mixedvoices",
     "description": "An Open source tool for analyzing and evaluating AI Voice agents. Track and visualize performance through call analysis and flow charts. Run complex simulations before pushing to production.",
@@ -1820,7 +1911,7 @@
     }
   },
   {
-    "id": 141,
+    "id": 148,
     "name": "KaibanJS",
     "url": "https://github.com/kaiban-ai/KaibanJS",
     "description": "KaibanJS is a JavaScript-native framework for building and managing multi-agent systems with a Kanban-inspired approach.",
@@ -1833,7 +1924,7 @@
     }
   },
   {
-    "id": 142,
+    "id": 149,
     "name": "Kite",
     "url": "https://github.com/thienzz/Kite",
     "description": "Python framework for building AI agents with built-in safety guardrails, and a CLI that generates multi-agent scripts from natural language.",
@@ -1846,7 +1937,7 @@
     }
   },
   {
-    "id": 143,
+    "id": 150,
     "name": "Upsonic",
     "url": "https://github.com/upsonic/upsonic",
     "description": "Upsonic is a reliable agent framework supporting MCP, offering trusted agent workflows with verification layers.",
@@ -1859,7 +1950,7 @@
     }
   },
   {
-    "id": 144,
+    "id": 151,
     "name": "Mastra",
     "url": "https://github.com/mastra-ai/mastra",
     "description": "Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly.",
@@ -1872,7 +1963,7 @@
     }
   },
   {
-    "id": 145,
+    "id": 152,
     "name": "LLMling-Agent",
     "url": "https://github.com/phil65/llmling-agent",
     "description": "Multi-agent workflows and complex Agent interactions, both via YAML manifest and programmatic usage. Pydantic-AI and LiteLLM backends with human-in-the-loop integration",
@@ -1885,7 +1976,7 @@
     }
   },
   {
-    "id": 146,
+    "id": 153,
     "name": "Hector",
     "url": "https://github.com/kadirpekel/hector",
     "description": "Pure A2A-Native Declarative AI Agent Platform",
@@ -1898,7 +1989,7 @@
     }
   },
   {
-    "id": 147,
+    "id": 154,
     "name": "VoltAgent",
     "url": "https://github.com/VoltAgent/voltagent",
     "description": "An open source TypeScript Framework for building AI agents with built-in LLM observability.",
@@ -1911,7 +2002,7 @@
     }
   },
   {
-    "id": 148,
+    "id": 155,
     "name": "pydantic-collab",
     "url": "https://github.com/boazkatzir/pydantic-collab",
     "description": "A multi-agent framework powered by Pydantic-AI, enabling collaboration via handoffs and consultations. Supports pre-built and custom agent topologies, shared memory, and Logfire observability.",
@@ -1924,7 +2015,7 @@
     }
   },
   {
-    "id": 149,
+    "id": 156,
     "name": "alive",
     "url": "https://github.com/TheAuroraAI/alive",
     "description": "Minimal autonomous AI agent framework in a single Python file. Production-hardened through 80+ sessions of real autonomous operation with persistent memory, adaptive wake intervals, circuit breakers, and graceful degradation.",
@@ -1937,7 +2028,7 @@
     }
   },
   {
-    "id": 150,
+    "id": 157,
     "name": "OpenAgents",
     "url": "https://github.com/openagents-org/openagents",
     "description": "Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A) and multi-agent orchestration.",
@@ -1950,7 +2041,7 @@
     }
   },
   {
-    "id": 151,
+    "id": 158,
     "name": "ORCA Agent Skills",
     "url": "https://github.com/gfernandf/agent-skills",
     "description": "Python framework with 122+ executable AI agent skills, YAML capability contracts, DAG scheduler, MCP server, and adapters for LangChain, CrewAI, and Semantic Kernel.",
@@ -1963,7 +2054,7 @@
     }
   },
   {
-    "id": 152,
+    "id": 159,
     "name": "Corellis",
     "url": "https://github.com/CorellisOrg/corellis",
     "description": "Open-source multi-agent governance framework for OpenClaw. Goal decomposition (GoalOps), 4-layer memory system, fleet-wide learning, and approval workflows. Production-tested with 28 agents.",
@@ -1976,7 +2067,7 @@
     }
   },
   {
-    "id": 153,
+    "id": 160,
     "name": "SwarmClaw",
     "url": "https://github.com/swarmclawai/swarmclaw",
     "description": "Self-hosted multi-agent runtime with MCP client and server support, 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix. Electron desktop app, CLI, and Docker.",
@@ -1989,7 +2080,7 @@
     }
   },
   {
-    "id": 154,
+    "id": 161,
     "name": "OpenHermit",
     "url": "https://github.com/williamwa/openhermit",
     "description": "Open-source platform for deploying AI agents as production services. Internal state (memory, sessions, skills, MCP, schedules, secrets) lives in Postgres; per-agent Docker workspaces. Fleet ops via single commands (hermit skills enable ... --all). CLI, Web UI, Telegram/Discord/Slack. MIT, TypeScript.",
@@ -2002,7 +2093,7 @@
     }
   },
   {
-    "id": 155,
+    "id": 162,
     "name": "open-multi-agent",
     "url": "https://github.com/JackChen-me/open-multi-agent",
     "description": "TypeScript multi-agent framework. One runTeam() call decomposes a goal into a task DAG via one LLM call and runs tasks in parallel. Three runtime dependencies, Node.js 18+.",
@@ -2015,10 +2106,10 @@
     }
   },
   {
-    "id": 156,
+    "id": 163,
     "name": "AgentsKit",
     "url": "https://github.com/AgentsKit-io/agentskit",
-    "description": "A small, composable JavaScript/TypeScript toolkit for building AI agents: core contracts, UI bindings (React, Vue, Svelte, Angular), runtime, tools, memory and RAG.",
+    "description": "MIT-licensed, provider-neutral TypeScript toolkit with 25 focused packages for runtimes, tools, skills, memory, RAG, sandboxing, observability, evaluation, React, terminal UI, and CLI, built on a dependency-free core.",
     "category": "Frameworks",
     "section": "Frameworks",
     "source": "GitHub",
@@ -2028,7 +2119,7 @@
     }
   },
   {
-    "id": 157,
+    "id": 164,
     "name": "Hephaestus",
     "url": "https://github.com/agentlas-ai/Hephaestus",
     "description": "Apache-2.0 Python runtime for packaging and routing local coding agents and skills, with meta-agent scaffolding, local ontology files, scoped memory, and policy checks for Claude Code, Codex, and Cursor.",
@@ -2041,7 +2132,7 @@
     }
   },
   {
-    "id": 158,
+    "id": 165,
     "name": "zymi-core",
     "url": "https://github.com/metravod/zymi-core",
     "description": "YAML-first, event-sourced engine for LLM agents and pipelines. Declarative agents, tools, and connectors run as a DAG; every state change is a hash-chained event, enabling deterministic replay and fork-resume of any past run. Human-in-the-loop approval gates with policy and contracts, MCP and HTTP connectors. Distributed as a Python package.",
@@ -2054,7 +2145,7 @@
     }
   },
   {
-    "id": 159,
+    "id": 166,
     "name": "IronClaw",
     "url": "https://github.com/IronSecCo/ironclaw",
     "description": "Security-first, self-hosted AI agent platform. Each agent runs in a gVisor sandbox with no network, behind a human approval gateway (deny-by-default); per-session message queues are encrypted with SQLCipher, and releases ship cosign signatures, SBOMs, and build-provenance attestations. AGPLv3, written in Go.",
@@ -2067,20 +2158,20 @@
     }
   },
   {
-    "id": 160,
+    "id": 167,
     "name": "Aeon",
-    "url": "https://github.com/aaronjmars/aeon",
-    "description": "Autonomous agent framework that runs on GitHub Actions, triggered by cron schedules or repository events. Defines agent behavior as Markdown skills, persists memory in the git repository, evaluates its own run output to revise underperforming skills, and integrates with MCP and A2A.",
+    "url": "https://github.com/aeonfun/aeon",
+    "description": "Autonomous agent framework that runs unattended on GitHub Actions, triggered by cron schedules or repository events. Dispatches skills to six coding-agent harnesses behind one contract (Claude Code, Grok, Codex, Pi, Vibe, Kimi), defines agent behavior as Markdown skills, persists memory in the git repository, evaluates its own run output to revise underperforming skills, and ships an MCP server exposing every skill as a tool.",
     "category": "Frameworks",
     "section": "Frameworks",
     "source": "GitHub",
     "icon": {
-      "url": "https://github.com/aaronjmars.png?size=96",
+      "url": "https://github.com/aeonfun.png?size=96",
       "type": "avatar"
     }
   },
   {
-    "id": 161,
+    "id": 168,
     "name": "Reactive Agents",
     "url": "https://github.com/tylerjrbuell/reactive-agents-ts",
     "description": "Type-safe, observable TypeScript AI agent framework on Effect-TS; MCP-native, A2A multi-agent, 6 reasoning strategies, runs the same code on local Ollama 4B+ and frontier APIs.",
@@ -2093,7 +2184,7 @@
     }
   },
   {
-    "id": 162,
+    "id": 169,
     "name": "Talon",
     "url": "https://github.com/dylanneve1/talon",
     "description": "Self-hosted, multi-frontend agentic harness that runs one persistent agent across Telegram, Discord, Teams, and the terminal. Pluggable backends (Claude, OpenAI Agents, Codex, Kilo, OpenCode), full MCP tool access, and always-on background agents — Goals, Heartbeat, and Dream — backed by a long-term memory palace. MIT, TypeScript.",
@@ -2106,7 +2197,46 @@
     }
   },
   {
-    "id": 163,
+    "id": 170,
+    "name": "TeDDy",
+    "url": "https://github.com/atte500/TeDDy",
+    "description": "Markdown-driven coding harness that structures agent work around TDD, hexagonal architecture, and vertical slicing. Python, AGPL-3.0.",
+    "category": "Frameworks",
+    "section": "Frameworks",
+    "source": "GitHub",
+    "icon": {
+      "url": "https://github.com/atte500.png?size=96",
+      "type": "avatar"
+    }
+  },
+  {
+    "id": 171,
+    "name": "fractal",
+    "url": "https://github.com/plasma-ai/fractal",
+    "description": "Hierarchical agent loops that self-organize into a tree, where each node iterates in its own git worktree and spawns children for subtasks, bounded by caps on depth, cost, and time.",
+    "category": "Frameworks",
+    "section": "Frameworks",
+    "source": "GitHub",
+    "icon": {
+      "url": "https://github.com/plasma-ai.png?size=96",
+      "type": "avatar"
+    }
+  },
+  {
+    "id": 172,
+    "name": "FastAgent",
+    "url": "https://github.com/fastagent-sh/fastagent",
+    "description": "Serving layer that turns an existing agent directory (persona.md, skills/, tools/, channels/) into a live service without a rewrite: embed it behind a route in a Next/Hono/Node app, or run it as a GitHub, Telegram, Slack, or HTTP/SSE service with cron schedules. Engine-, model-, and host-neutral around a single invoke contract. MIT, TypeScript.",
+    "category": "Frameworks",
+    "section": "Frameworks",
+    "source": "GitHub",
+    "icon": {
+      "url": "https://github.com/fastagent-sh.png?size=96",
+      "type": "avatar"
+    }
+  },
+  {
+    "id": 173,
     "name": "AgentBench",
     "url": "https://github.com/THUDM/AgentBench",
     "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents",
@@ -2119,7 +2249,7 @@
     }
   },
   {
-    "id": 164,
+    "id": 174,
     "name": "agentops",
     "url": "https://github.com/AgentOps-AI/agentops",
     "description": "Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen",
@@ -2132,7 +2262,7 @@
     }
   },
   {
-    "id": 165,
+    "id": 175,
     "name": "langtrace",
     "url": "https://github.com/Scale3-Labs/langtrace",
     "description": "Langtrace 🔍 is an open-source, Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python.",
@@ -2145,7 +2275,7 @@
     }
   },
   {
-    "id": 166,
+    "id": 176,
     "name": "LiveMCP-101",
     "url": "https://arxiv.org/abs/2508.15760",
     "description": "Benchmark of 101 real-world MCP tool-use queries with plan-based evaluation highlighting agent orchestration gaps.",
@@ -2158,7 +2288,7 @@
     }
   },
   {
-    "id": 167,
+    "id": 177,
     "name": "ToolBench",
     "url": "https://github.com/OpenBMB/ToolBench",
     "description": "An open platform for training, serving, and evaluating large language model for tool learning.",
@@ -2171,7 +2301,7 @@
     }
   },
   {
-    "id": 168,
+    "id": 178,
     "name": "SWE-bench",
     "url": "https://github.com/Princeton-NLP/SWE-bench",
     "description": "Benchmark for evaluating LLM systems on real-world GitHub issue resolution tasks.",
@@ -2184,7 +2314,7 @@
     }
   },
   {
-    "id": 169,
+    "id": 179,
     "name": "Multi-SWE-bench",
     "url": "https://github.com/multi-swe-bench/multi-swe-bench",
     "description": "Multi-language extension of SWE-bench for evaluating software engineering agents beyond Python repositories.",
@@ -2197,7 +2327,7 @@
     }
   },
   {
-    "id": 170,
+    "id": 180,
     "name": "GenoTEX",
     "url": "https://github.com/Liu-Hy/GenoTEX",
     "description": "A benchmark for evaluating LLM agents on end-to-end gene expression data analysis, featuring comprehensive gene-trait association analysis with expert-curated annotations.",
@@ -2210,7 +2340,7 @@
     }
   },
   {
-    "id": 171,
+    "id": 181,
     "name": "AgentLab",
     "url": "https://github.com/ServiceNow/AgentLab",
     "description": "Open-source framework for developing and evaluating web agents with benchmark-driven workflows.",
@@ -2223,7 +2353,7 @@
     }
   },
   {
-    "id": 172,
+    "id": 182,
     "name": "BrowserGym",
     "url": "https://github.com/ServiceNow/BrowserGym",
     "description": "Gym-style benchmark and environment toolkit for evaluating browser-using web agents.",
@@ -2236,7 +2366,7 @@
     }
   },
   {
-    "id": 173,
+    "id": 183,
     "name": "OSWorld",
     "url": "https://github.com/xlang-ai/OSWorld",
     "description": "Benchmark for multimodal desktop computer-use agents with tasks across real operating-system environments.",
@@ -2249,7 +2379,7 @@
     }
   },
   {
-    "id": 174,
+    "id": 184,
     "name": "LLM-Agent-Benchmark-List",
     "url": "https://github.com/zhangxjohn/LLM-Agent-Benchmark-List",
     "description": "A benchmark list for evaluation of large language models.",
@@ -2262,7 +2392,7 @@
     }
   },
   {
-    "id": 175,
+    "id": 185,
     "name": "agbenchmark",
     "url": "https://pypi.org/project/agbenchmark/",
     "description": "by AutoGPT",
@@ -2275,7 +2405,7 @@
     }
   },
   {
-    "id": 176,
+    "id": 186,
     "name": "open-operator-evals",
     "url": "https://github.com/nottelabs/open-operator-evals",
     "description": "An open-source and reproducible set of evals on web browser using agents",
@@ -2288,7 +2418,7 @@
     }
   },
   {
-    "id": 177,
+    "id": 187,
     "name": "ClawBench",
     "url": "https://github.com/reacher-z/ClawBench",
     "description": "Browser-agent benchmark of 153 everyday tasks on 144 live production websites across 15 categories; a submission-interception layer blocks the final write request for safe evaluation on real sites.",
@@ -2301,7 +2431,7 @@
     }
   },
   {
-    "id": 178,
+    "id": 188,
     "name": "Cross-Agent Review Queue 2026",
     "url": "https://huggingface.co/datasets/neogenesislab/cross-agent-review-queue-2026",
     "description": "Open dataset of cross-agent collaboration review transcripts (Codex Claude reviewer / architect / implementer handoffs) with structured fields for owner-goal restatement, review lens, and result code (NEWSIGNAL / NONEWSIGNAL); useful for multi-agent handoff and review-quality evaluation.",
@@ -2314,7 +2444,7 @@
     }
   },
   {
-    "id": 179,
+    "id": 189,
     "name": "Future AGI",
     "url": "https://github.com/future-agi/future-agi",
     "description": "Open-source platform to simulate, evaluate, trace, guardrail, and optimize LLM and AI agent apps, with 70+ eval metrics and OpenTelemetry-native tracing across 50+ frameworks.",
@@ -2327,7 +2457,7 @@
     }
   },
   {
-    "id": 180,
+    "id": 190,
     "name": "CIAgent",
     "url": "https://github.com/suniel12/ciagent",
     "description": "Pytest-native regression testing for AI agents — golden-trace diffing, cost guardrails, multi-run stability scoring with flip attribution, LLM-judge auditing, and one-command import of production traces (OTel/Langfuse/LangSmith) into CI tests.",
@@ -2340,7 +2470,33 @@
     }
   },
   {
-    "id": 181,
+    "id": 191,
+    "name": "Sabot",
+    "url": "https://github.com/Jott2121/sabot",
+    "description": "Injects one controlled fault into a running LangGraph, CrewAI or AutoGen/Magentic-One pipeline — corrupted tool result, falsified success report, altered inter-agent message, silent model downgrade, stale context, silent no-op — and scores whether the pipeline's own reviewer, guardrail and orchestrator surfaces detect it. Pre-registered spec and adjudication anchors, deterministic scoring with no LLM in the headline path, full raw trace corpus published.",
+    "category": "Benchmarks",
+    "section": "Benchmark/Evaluator",
+    "source": "GitHub",
+    "icon": {
+      "url": "https://github.com/Jott2121.png?size=96",
+      "type": "avatar"
+    }
+  },
+  {
+    "id": 192,
+    "name": "whatbroke",
+    "url": "https://github.com/arthi-arumugam-git/whatbroke",
+    "description": "CLI that diffs two runs of an AI agent to show changes in tool calls, arguments, cost, latency, and outcomes, with multi-sample flake detection to demote pre-existing flakiness.",
+    "category": "Benchmarks",
+    "section": "Benchmark/Evaluator",
+    "source": "GitHub",
+    "icon": {
+      "url": "https://github.com/arthi-arumugam-git.png?size=96",
+      "type": "avatar"
+    }
+  },
+  {
+    "id": 193,
     "name": "Agentfield",
     "url": "https://github.com/Agent-Field/agentfield",
     "description": "An open source Kubernetes-style control plane for deploying AI agents as distributed microservices, with built-in service discovery, durable workflows, and observability.",
@@ -2353,7 +2509,7 @@
     }
   },
   {
-    "id": 182,
+    "id": 194,
     "name": "Nora",
     "url": "https://github.com/solomon2773/nora",
     "description": "Self-hosted control plane for deploying and operating OpenClaw and Hermes agent fleets on Docker or Kubernetes, with lifecycle controls, monitoring, budgets, schedules, and per-agent cost tracking.",
@@ -2366,7 +2522,7 @@
     }
   },
   {
-    "id": 183,
+    "id": 195,
     "name": "OpenAgents",
     "url": "https://github.com/xlang-ai/OpenAgents",
     "description": "An Open Platform for Language Agents in the Wild",
@@ -2379,7 +2535,7 @@
     }
   },
   {
-    "id": 184,
+    "id": 196,
     "name": "OpenAGI",
     "url": "https://github.com/agiresearch/OpenAGI",
     "description": "\"May the Force be with LLM and Domain Experts.\"",
@@ -2392,7 +2548,7 @@
     }
   },
   {
-    "id": 185,
+    "id": 197,
     "name": "RestGPT",
     "url": "https://github.com/Yifan-Song793/RestGPT",
     "description": "An LLM-based autonomous agent controlling real-world applications via RESTful APIs",
@@ -2405,7 +2561,7 @@
     }
   },
   {
-    "id": 186,
+    "id": 198,
     "name": "AGiXT",
     "url": "https://github.com/Josh-XT/AGiXT",
     "description": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers.",
@@ -2418,7 +2574,7 @@
     }
   },
   {
-    "id": 187,
+    "id": 199,
     "name": "UFO",
     "url": "https://github.com/microsoft/UFO",
     "description": "A UI-Focused Agent for Windows OS Interaction.",
@@ -2431,7 +2587,7 @@
     }
   },
   {
-    "id": 188,
+    "id": 200,
     "name": "aiXplain",
     "url": "https://github.com/aixplain/aiXplain",
     "description": "AI platform SDK providing access to 35,000+ AI models, benchmarking tools, pipeline design, and agent building capabilities",
@@ -2444,7 +2600,7 @@
     }
   },
   {
-    "id": 189,
+    "id": 201,
     "name": "BidClub",
     "url": "https://bidclub.ai",
     "description": "AI-native investment community where agents and humans share research as equals. Agents register via REST API, get claimed by humans, and participate with skills, webhooks, and heartbeat protocol.",
@@ -2457,7 +2613,7 @@
     }
   },
   {
-    "id": 190,
+    "id": 202,
     "name": "Crewship",
     "url": "https://www.crewship.dev/",
     "description": "The developer-first platform for running AI agent workflows. Deploy your agents, crews, and workflows with a single command and watch them execute in real-time.",
@@ -2470,7 +2626,7 @@
     }
   },
   {
-    "id": 191,
+    "id": 203,
     "name": "KinBot",
     "url": "https://github.com/MarlBurroW/kinbot",
     "description": "Self-hosted AI agent platform with persistent memory, 23+ LLM providers, plugin store, mini-apps SDK, cron scheduling, and 6 messaging channels (Telegram, Discord, Slack, WhatsApp, Signal, Matrix). Runs on SQLite, no cloud required.",
@@ -2483,7 +2639,7 @@
     }
   },
   {
-    "id": 192,
+    "id": 204,
     "name": "Pinchwork",
     "url": "https://github.com/anneschuth/pinchwork",
     "description": "Open-source agent-to-agent task marketplace where agents delegate tasks, pick up work, and earn credits. REST API, Python SDK, LangChain/CrewAI/MCP integrations.",
@@ -2496,7 +2652,7 @@
     }
   },
   {
-    "id": 193,
+    "id": 205,
     "name": "SwarmTrade",
     "url": "https://github.com/tjcrowley/swarmtrade",
     "description": "Agent-to-agent marketplace with escrow, negotiation, and reputation for off-chain and on-chain (EVM) settlement.",
@@ -2509,7 +2665,7 @@
     }
   },
   {
-    "id": 194,
+    "id": 206,
     "name": "Taskade Genesis",
     "url": "https://taskade.com/genesis",
     "description": "AI-powered platform for building custom AI agents, workflows, and apps using natural language.",
@@ -2522,7 +2678,7 @@
     }
   },
   {
-    "id": 195,
+    "id": 207,
     "name": "Yoyo",
     "url": "https://github.com/YoYo-dot-bot/mcp",
     "description": "The first social network for AI agents. Connect any AI agent via MCP to post, chat, follow other agents, discover experts, and build reputation. 10 MCP tools, open source.",
@@ -2535,7 +2691,7 @@
     }
   },
   {
-    "id": 196,
+    "id": 208,
     "name": "Human Pages",
     "url": "https://github.com/human-pages-ai/humanpages",
     "description": "An MCP server and API for AI agents to search human professional profiles by skill and location, send job offers, and exchange messages.",
@@ -2548,7 +2704,7 @@
     }
   },
   {
-    "id": 197,
+    "id": 209,
     "name": "elisym",
     "url": "https://github.com/elisymlabs/elisym",
     "description": "Open-source TypeScript implementation of a Nostr-based protocol (NIP-89/NIP-90) for AI agent discovery and job exchange, with Solana payment settlement.",
@@ -2561,7 +2717,7 @@
     }
   },
   {
-    "id": 198,
+    "id": 210,
     "name": "openma",
     "url": "https://github.com/open-ma/open-managed-agents",
     "description": "Self-hosted, open-source implementation of Anthropic's Managed Agents API. Wire-compatible with the official SDKs. Runs on Cloudflare Workers + Durable Objects or Node. Apache 2.0.",
@@ -2574,7 +2730,20 @@
     }
   },
   {
-    "id": 199,
+    "id": 211,
+    "name": "Enclave",
+    "url": "https://github.com/wartzar-bee/enclave",
+    "description": "Security-first, brain-agnostic self-hosted runtime for autonomous AI agents. Each agent runs in a hardened container (--cap-drop=ALL --security-opt=no-new-privileges, no inbound ports, report-only egress policy, AES-256 vault-encrypted secrets) and is brain-agnostic via one env var (BRAIN=claude | api | local). Apache-2.0.",
+    "category": "Platforms",
+    "section": "Platforms/API",
+    "source": "GitHub",
+    "icon": {
+      "url": "https://github.com/wartzar-bee.png?size=96",
+      "type": "avatar"
+    }
+  },
+  {
+    "id": 212,
     "name": "A Survey on Large Language Model based Autonomous Agents",
     "url": "https://github.com/Paitesanshi/LLM-Agent-Survey",
     "description": "Explore this resource and its documentation.",
@@ -2587,7 +2756,7 @@
     }
   },
   {
-    "id": 200,
+    "id": 213,
     "name": "The Rise and Potential of Large Language Model Based Agents: A Survey",
     "url": "https://github.com/WooooDyy/LLM-Agent-Paper-List",
     "description": "Explore this resource and its documentation.",
@@ -2600,7 +2769,7 @@
     }
   },
   {
-    "id": 201,
+    "id": 214,
     "name": "LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey",
     "url": "https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers",
     "description": "Explore this resource and its documentation.",
@@ -2613,7 +2782,7 @@
     }
   },
   {
-    "id": 202,
+    "id": 215,
     "name": "Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime",
     "url": "https://www.preprints.org/manuscript/202603.1756/v2",
     "description": "Explore this resource and its documentation.",
@@ -2626,7 +2795,7 @@
     }
   },
   {
-    "id": 203,
+    "id": 216,
     "name": "Awesome-Papers-Autonomous-Agent",
     "url": "https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent",
     "description": "A collection of recent papers on building autonomous agent. Two topics included: RL-based / LLM-based agents.",
@@ -2639,7 +2808,7 @@
     }
   },
   {
-    "id": 204,
+    "id": 217,
     "name": "Awesome-AgenticLLM-RL-Papers",
     "url": "https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers",
     "description": "A comprehensive survey and paper collection on agentic reinforcement learning for LLMs, covering planning, tool use, memory, reasoning, and self-improvement.",
@@ -2652,7 +2821,7 @@
     }
   },
   {
-    "id": 205,
+    "id": 218,
     "name": "LLM-Agents-Papers",
     "url": "https://github.com/AGI-Edgerunners/LLM-Agents-Papers",
     "description": "A repo lists papers related to LLM based agent",
@@ -2665,7 +2834,7 @@
     }
   },
   {
-    "id": 206,
+    "id": 219,
     "name": "LLM-Agent-Paper-Digest",
     "url": "https://github.com/XueyangFeng/LLM-Agent-Paper-Digest",
     "description": "papers related to LLM-agent that published on top conferences",
@@ -2678,7 +2847,7 @@
     }
   },
   {
-    "id": 207,
+    "id": 220,
     "name": "awesome-language-agents",
     "url": "https://github.com/ysymyth/awesome-language-agents",
     "description": "List of language agents based on paper \"Cognitive Architectures for Language Agents\"",
@@ -2691,7 +2860,7 @@
     }
   },
   {
-    "id": 208,
+    "id": 221,
     "name": "LLMAgentPapers",
     "url": "https://github.com/zjunlp/LLMAgentPapers",
     "description": "Must-read Papers on LLM Agents.",
@@ -2704,7 +2873,7 @@
     }
   },
   {
-    "id": 209,
+    "id": 222,
     "name": "Awesome-Embodied-AI-Safety",
     "url": "https://github.com/x-zheng16/Awesome-Embodied-AI-Safety",
     "description": "A curated list of 500+ papers on safety in embodied AI, covering risks, attacks, and defenses across perception, cognition, planning, action, and agentic capabilities.",
@@ -2717,7 +2886,7 @@
     }
   },
   {
-    "id": 210,
+    "id": 223,
     "name": "LLM Powered Autonomous Agents",
     "url": "https://lilianweng.github.io/posts/2023-06-23-agent/",
     "description": "Amazing blog by Lilian Weng (OpenAI), Jun 23, 2023.",
@@ -2730,7 +2899,7 @@
     }
   },
   {
-    "id": 211,
+    "id": 224,
     "name": "从第一性原理看大模型Agent技术",
     "url": "https://mp.weixin.qq.com/s/PL-QjlvVugUfmRD4g0P-qQ",
     "description": "Explore this resource and its documentation.",
@@ -2743,7 +2912,7 @@
     }
   },
   {
-    "id": 212,
+    "id": 225,
     "name": "基于大语言模型的AI Agents",
     "url": "https://www.breezedeus.com/article/ai-agent-part3",
     "description": "Explore this resource and its documentation.",
@@ -2756,7 +2925,7 @@
     }
   },
   {
-    "id": 213,
+    "id": 226,
     "name": "ICLR'24 上大型语言模型代理的最新研究进展 | 代理评估重点",
     "url": "https://medium.com/@aminerscholar_39923/latest-research-advancements-on-large-language-model-agents-at-iclr24-agent-evaluation-focus-aed420421365",
     "description": "Explore this resource and its documentation.",
@@ -2769,7 +2938,7 @@
     }
   },
   {
-    "id": 214,
+    "id": 227,
     "name": "8bitconcepts Research",
     "url": "https://8bitconcepts.com/",
     "description": "Independent research publication on agentic AI accountability, guardrails, handoff intelligence, and enterprise adoption. Papers include The Agentic Accountability Gap, The Guardrails Gap, Shift Handoff Intelligence, and Beyond the Prompt.",
@@ -2782,7 +2951,7 @@
     }
   },
   {
-    "id": 215,
+    "id": 228,
     "name": "awesome-llm-powered-agent",
     "url": "https://github.com/hyp1231/awesome-llm-powered-agent",
     "description": "Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...",
@@ -2795,7 +2964,7 @@
     }
   },
   {
-    "id": 216,
+    "id": 229,
     "name": "awesome-agents",
     "url": "https://github.com/kyrolabs/awesome-agents",
     "description": "🤖 Awesome list of AI Agents",
@@ -2808,7 +2977,7 @@
     }
   },
   {
-    "id": 217,
+    "id": 230,
     "name": "awesome-ai-agents",
     "url": "https://github.com/e2b-dev/awesome-ai-agents",
     "description": "A list of AI autonomous agents",
@@ -2821,7 +2990,7 @@
     }
   },
   {
-    "id": 218,
+    "id": 231,
     "name": "awesome-ai-agents",
     "url": "https://github.com/slavakurilyak/awesome-ai-agents",
     "description": "Awesome list of 100+ agentic AI resources",
@@ -2834,7 +3003,7 @@
     }
   },
   {
-    "id": 219,
+    "id": 232,
     "name": "awesome-agentic-commerce",
     "url": "https://github.com/MentionNetwork/awesome-agentic-commerce",
     "description": "Curated list for AI agents that shop, sell and transact: UCP/ACP/AP2/MCP protocols, commerce MCP servers and agent readiness tools.",
@@ -2847,7 +3016,7 @@
     }
   },
   {
-    "id": 220,
+    "id": 233,
     "name": "ai-agent-roadmap",
     "url": "https://github.com/Yuan-ManX/ai-agent-roadmap",
     "description": "Explore the latest AI Agent Framework!",
@@ -2860,7 +3029,7 @@
     }
   },
   {
-    "id": 221,
+    "id": 234,
     "name": "rag-architect",
     "url": "https://github.com/GraphTechnologyDevelopers/rag-architect",
     "description": "Hermes Agent profile and skill pack for designing production RAG agents, evaluation plans, observability specs, and implementation-ready issue templates.",
@@ -2873,7 +3042,7 @@
     }
   },
   {
-    "id": 222,
+    "id": 235,
     "name": "Inspired projects by babyagi",
     "url": "https://github.com/yoheinakajima/babyagi/blob/main/docs/inspired-projects.md",
     "description": "Explore this resource and its documentation.",
@@ -2886,7 +3055,7 @@
     }
   },
   {
-    "id": 223,
+    "id": 236,
     "name": "Awesome Claude Multi-Agent",
     "url": "https://github.com/Yigtwxx/awesome-claude-multi-agent",
     "description": "Curated frameworks, patterns, protocols, and research for multi-agent orchestration with Claude.",
@@ -2899,7 +3068,7 @@
     }
   },
   {
-    "id": 224,
+    "id": 237,
     "name": "awesome-agent-architecture",
     "url": "https://github.com/hardness1020/awesome-agent-architecture",
     "description": "Trilingual, section-by-section architecture notes on modern agent harnesses: loop engineering, tools, permissions, context, memory, multi-agent coordination, and evaluation, studied through real systems such as Claude Code and Hermes Agent, with runnable Python demos.",

@@ -75,6 +75,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [CompozyOS](https://github.com/compozy/compozy) - Self-hosted agent operating system: 26 providers, background loops and schedules, shared memory, approvals and an agent-to-agent network.
 - [BitFun](https://github.com/GCWing/BitFun) - Open-source coding agent with a Rust runtime, desktop and CLI interfaces, self-hosted multi-device control, and stateful Mini Apps. ![GitHub Repo stars](https://img.shields.io/github/stars/GCWing/BitFun?style=social)
 - [Ouroboros](https://github.com/razzant/ouroboros) - Self-hosted general-purpose agent with durable identity and memory, reviewed self-modification, specialist subagent swarms, and desktop or headless operation. ![GitHub Repo stars](https://img.shields.io/github/stars/razzant/ouroboros?style=social)
+- [dcode](https://github.com/langchain-ai/deepagents) - Open-source terminal coding agent by LangChain built on the Deep Agents harness with interactive TUI, sub-agents, persistent memory, skills, and MCP support. Model-agnostic across frontier and local providers. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/deepagents?style=social)
 
 ### Multi-Agent Task Solver Projects
 
