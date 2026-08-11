@@ -131,6 +131,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 - [Perseus](https://github.com/tcconnally/perseus) - Live workspace context engine for AI agents. Renders AGENTS.md at session start. Plug-in for Claude Code, Codex, Hermes.
 - [EGC](https://github.com/Fmarzochi/EGC) - Cross-session persistent memory layer for AI coding agents (Claude Code, Cursor, Gemini CLI, Codex, Windsurf, Amp, Kiro, and more). SQLite-backed. ![GitHub Repo stars](https://img.shields.io/github/stars/Fmarzochi/EGC?style=social)
+- [Hexis](https://github.com/Bevel-Software/Hexis) - Git-backed platform for managing and sharing skills, tools, and context across AI agents through a remote MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/Bevel-Software/Hexis?style=social)
 
 - [mem0](https://github.com/mem0ai/mem0) - Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
 - [codex-profiles](https://github.com/Ducksss/codex-profiles) - Bash CLI for switching OpenAI Codex CLI/Desktop accounts with isolated `CODEX_HOME` profiles. ![GitHub Repo stars](https://img.shields.io/github/stars/Ducksss/codex-profiles?style=social)
