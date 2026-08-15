@@ -75,6 +75,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [CompozyOS](https://github.com/compozy/compozy) - Self-hosted agent operating system: 26 providers, background loops and schedules, shared memory, approvals and an agent-to-agent network.
 - [BitFun](https://github.com/GCWing/BitFun) - Open-source coding agent with a Rust runtime, desktop and CLI interfaces, self-hosted multi-device control, and stateful Mini Apps. ![GitHub Repo stars](https://img.shields.io/github/stars/GCWing/BitFun?style=social)
 - [Ouroboros](https://github.com/razzant/ouroboros) - Self-hosted general-purpose agent with durable identity and memory, reviewed self-modification, specialist subagent swarms, and desktop or headless operation. ![GitHub Repo stars](https://img.shields.io/github/stars/razzant/ouroboros?style=social)
+- [Sudarshan](https://github.com/Suraj1235/sudarshan-superharness) - Durable build harness that drives an LLM from an idea, PRD, or spec to software gated on passing verification commands, with resumable checkpointed state; provider-neutral across OpenAI-compatible, Anthropic, Gemini, local, and command-bridge backends. ![GitHub Repo stars](https://img.shields.io/github/stars/Suraj1235/sudarshan-superharness?style=social)
 
 ### Multi-Agent Task Solver Projects
 
