@@ -322,6 +322,7 @@ Able to connect LLM with the real world.
 - [awesome-agents](https://github.com/kyrolabs/awesome-agents) - 🤖 Awesome list of AI Agents
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 100+ agentic AI resources
+- [DeepSeek Harness Handbook](https://github.com/sandbaseai/deepseek-harness-handbook) - An agent-first, multilingual guide to DeepSeek Harness architecture, safety, troubleshooting, and production patterns.
 - [awesome-agentic-commerce](https://github.com/MentionNetwork/awesome-agentic-commerce) - Curated list for AI agents that shop, sell and transact: UCP/ACP/AP2/MCP protocols, commerce MCP servers and agent readiness tools.
 - [ai-agent-roadmap](https://github.com/Yuan-ManX/ai-agent-roadmap) - Explore the latest AI Agent Framework!
 - [rag-architect](https://github.com/GraphTechnologyDevelopers/rag-architect) - Hermes Agent profile and skill pack for designing production RAG agents, evaluation plans, observability specs, and implementation-ready issue templates. ![GitHub Repo stars](https://img.shields.io/github/stars/GraphTechnologyDevelopers/rag-architect?style=social)
