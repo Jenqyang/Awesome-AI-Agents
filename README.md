@@ -287,6 +287,8 @@ Able to connect LLM with the real world.
 - [openma](https://github.com/open-ma/open-managed-agents) - Self-hosted, open-source implementation of Anthropic's Managed Agents API. Wire-compatible with the official SDKs. Runs on Cloudflare Workers + Durable Objects or Node. Apache 2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/open-ma/open-managed-agents?style=social)
 - [Enclave](https://github.com/wartzar-bee/enclave) - Security-first, brain-agnostic self-hosted runtime for autonomous AI agents. Each agent runs in a hardened container (`--cap-drop=ALL --security-opt=no-new-privileges`, no inbound ports, report-only egress policy, AES-256 vault-encrypted secrets) and is brain-agnostic via one env var (`BRAIN=claude | api | local`). Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/wartzar-bee/enclave?style=social)
 
+- [DSH Studio](https://github.com/Moresyl/dsh-studio) - Cross-platform desktop shell that installs, supervises, and hosts DeepSeek Harness locally. ![GitHub Repo stars](https://img.shields.io/github/stars/Moresyl/dsh-studio?style=social)
+
 ## Related
 
 ### Survey
