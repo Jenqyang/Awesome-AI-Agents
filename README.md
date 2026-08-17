@@ -131,6 +131,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 ### Tools
 
+- [Lians](https://github.com/Lians-ai/Lians) - Local-first memory layer for AI agents with MCP, Python, and TypeScript interfaces; SQLite-backed recall, user-controlled inspection/correction/deletion, and point-in-time memory receipts. ![GitHub Repo stars](https://img.shields.io/github/stars/Lians-ai/Lians?style=social)
 - [Perseus](https://github.com/tcconnally/perseus) - Live workspace context engine for AI agents. Renders AGENTS.md at session start. Plug-in for Claude Code, Codex, Hermes.
 - [EGC](https://github.com/Fmarzochi/EGC) - Cross-session persistent memory layer for AI coding agents (Claude Code, Cursor, Gemini CLI, Codex, Windsurf, Amp, Kiro, and more). SQLite-backed. ![GitHub Repo stars](https://img.shields.io/github/stars/Fmarzochi/EGC?style=social)
 - [Hexis](https://github.com/Bevel-Software/Hexis) - Git-backed platform for managing and sharing skills, tools, and context across AI agents through a remote MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/Bevel-Software/Hexis?style=social)
