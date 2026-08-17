@@ -76,6 +76,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [BitFun](https://github.com/GCWing/BitFun) - Open-source coding agent with a Rust runtime, desktop and CLI interfaces, self-hosted multi-device control, and stateful Mini Apps. ![GitHub Repo stars](https://img.shields.io/github/stars/GCWing/BitFun?style=social)
 - [Ouroboros](https://github.com/razzant/ouroboros) - Self-hosted general-purpose agent with durable identity and memory, reviewed self-modification, specialist subagent swarms, and desktop or headless operation. ![GitHub Repo stars](https://img.shields.io/github/stars/razzant/ouroboros?style=social)
 - [Sudarshan](https://github.com/Suraj1235/sudarshan-superharness) - Durable build harness that drives an LLM from an idea, PRD, or spec to software gated on passing verification commands, with resumable checkpointed state; provider-neutral across OpenAI-compatible, Anthropic, Gemini, local, and command-bridge backends. ![GitHub Repo stars](https://img.shields.io/github/stars/Suraj1235/sudarshan-superharness?style=social)
+- [SARA](https://github.com/Alessandro114/sara) - Self-hosted WhatsApp AI agent (AGPL-3.0) with 20 industry verticals, function calling (30+ tools), RAG via pgvector, and multi-provider LLM failover (Groq → Cerebras → SambaNova → Mistral). ![GitHub Repo stars](https://img.shields.io/github/stars/Alessandro114/sara?style=social)
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine via a llama.cpp fork. 56 tools (browser, filesystem, git, memory, vision), MCP support, and a 5-layer local memory. macOS/Linux/Windows, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social)
 
 ### Multi-Agent Task Solver Projects
@@ -132,6 +133,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 ### Tools
 
+- [DSH Studio](https://github.com/Moresyl/dsh-studio) - Cross-platform desktop host for installing, running, health-checking, and supervising DeepSeek Harness locally. ![GitHub Repo stars](https://img.shields.io/github/stars/Moresyl/dsh-studio?style=social)
 - [Lians](https://github.com/Lians-ai/Lians) - Local-first memory layer for AI agents with MCP, Python, and TypeScript interfaces; SQLite-backed recall, user-controlled inspection/correction/deletion, and point-in-time memory receipts. ![GitHub Repo stars](https://img.shields.io/github/stars/Lians-ai/Lians?style=social)
 - [Perseus](https://github.com/tcconnally/perseus) - Live workspace context engine for AI agents. Renders AGENTS.md at session start. Plug-in for Claude Code, Codex, Hermes.
 - [EGC](https://github.com/Fmarzochi/EGC) - Cross-session persistent memory layer for AI coding agents (Claude Code, Cursor, Gemini CLI, Codex, Windsurf, Amp, Kiro, and more). SQLite-backed. ![GitHub Repo stars](https://img.shields.io/github/stars/Fmarzochi/EGC?style=social)
@@ -335,4 +337,5 @@ Able to connect LLM with the real world.
 - [Inspired projects by babyagi](https://github.com/yoheinakajima/babyagi/blob/main/docs/inspired-projects.md)
 - [Awesome Claude Multi-Agent](https://github.com/Yigtwxx/awesome-claude-multi-agent) - Curated frameworks, patterns, protocols, and research for multi-agent orchestration with Claude.
 - [awesome-agent-architecture](https://github.com/hardness1020/awesome-agent-architecture) - Trilingual, section-by-section architecture notes on modern agent harnesses: loop engineering, tools, permissions, context, memory, multi-agent coordination, and evaluation, studied through real systems such as Claude Code and Hermes Agent, with runnable Python demos.
+- [best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - Ranked list of 150+ agent harnesses across 12 categories, rescored weekly. Machine-readable: llms.txt, JSON, and an MCP server so your agent can query it. ![GitHub Repo stars](https://img.shields.io/github/stars/RyanAlberts/best-of-Agent-Harnesses?style=social)
 - [Awesome AI Coding Sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) - Security-posture-first list of sandboxes for running AI coding agents' code, ranked by isolation, egress control and secrets handling.
