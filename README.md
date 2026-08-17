@@ -334,3 +334,4 @@ Able to connect LLM with the real world.
 - [Inspired projects by babyagi](https://github.com/yoheinakajima/babyagi/blob/main/docs/inspired-projects.md)
 - [Awesome Claude Multi-Agent](https://github.com/Yigtwxx/awesome-claude-multi-agent) - Curated frameworks, patterns, protocols, and research for multi-agent orchestration with Claude.
 - [awesome-agent-architecture](https://github.com/hardness1020/awesome-agent-architecture) - Trilingual, section-by-section architecture notes on modern agent harnesses: loop engineering, tools, permissions, context, memory, multi-agent coordination, and evaluation, studied through real systems such as Claude Code and Hermes Agent, with runnable Python demos.
+- [Awesome AI Coding Sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) - Security-posture-first list of sandboxes for running AI coding agents' code, ranked by isolation, egress control and secrets handling.
