@@ -78,6 +78,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Sudarshan](https://github.com/Suraj1235/sudarshan-superharness) - Durable build harness that drives an LLM from an idea, PRD, or spec to software gated on passing verification commands, with resumable checkpointed state; provider-neutral across OpenAI-compatible, Anthropic, Gemini, local, and command-bridge backends. ![GitHub Repo stars](https://img.shields.io/github/stars/Suraj1235/sudarshan-superharness?style=social)
 - [SARA](https://github.com/Alessandro114/sara) - Self-hosted WhatsApp AI agent (AGPL-3.0) with 20 industry verticals, function calling (30+ tools), RAG via pgvector, and multi-provider LLM failover (Groq → Cerebras → SambaNova → Mistral). ![GitHub Repo stars](https://img.shields.io/github/stars/Alessandro114/sara?style=social)
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine via a llama.cpp fork. 56 tools (browser, filesystem, git, memory, vision), MCP support, and a 5-layer local memory. macOS/Linux/Windows, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social)
+- [Agent Swarm](https://github.com/desplega-ai/agent-swarm) - Self-hosted multi-agent system where a lead agent delegates tasks to specialized workers with shared memory, tools, schedules, and review gates. ![GitHub Repo stars](https://img.shields.io/github/stars/desplega-ai/agent-swarm?style=social)
 
 ### Multi-Agent Task Solver Projects
 
