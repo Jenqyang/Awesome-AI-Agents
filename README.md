@@ -135,6 +135,7 @@ Exploring endless possibilities with open-source agent social simulation.
 ### Tools
 
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) - Cross-platform desktop host for installing, running, health-checking, and supervising DeepSeek Harness locally. ![GitHub Repo stars](https://img.shields.io/github/stars/Moresyl/dsh-studio?style=social)
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Local-first, self-hostable TypeScript runtime for AI agents with persistent sessions, sandboxed tools, credential scoping, approvals, audit/replay, and an MCP bridge. ![GitHub Repo stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=social)
 - [Lians](https://github.com/Lians-ai/Lians) - Local-first memory layer for AI agents with MCP, Python, and TypeScript interfaces; SQLite-backed recall, user-controlled inspection/correction/deletion, and point-in-time memory receipts. ![GitHub Repo stars](https://img.shields.io/github/stars/Lians-ai/Lians?style=social)
 - [Perseus](https://github.com/tcconnally/perseus) - Live workspace context engine for AI agents. Renders AGENTS.md at session start. Plug-in for Claude Code, Codex, Hermes.
 - [EGC](https://github.com/Fmarzochi/EGC) - Cross-session persistent memory layer for AI coding agents (Claude Code, Cursor, Gemini CLI, Codex, Windsurf, Amp, Kiro, and more). SQLite-backed. ![GitHub Repo stars](https://img.shields.io/github/stars/Fmarzochi/EGC?style=social)
