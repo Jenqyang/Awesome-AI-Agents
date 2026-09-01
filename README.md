@@ -181,6 +181,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Compartment](https://github.com/MaxFreedomPollard/Compartment) - Local-first, offline encrypted vector memory for AI agents over MCP or CLI, with AEAD-encrypted-at-rest records and embeddings, RAM-resident exact vector search, per-record crypto-shred deletion, and a hash-chained audit log. Apache-2.0, Python. ![GitHub Repo stars](https://img.shields.io/github/stars/MaxFreedomPollard/Compartment?style=social)
 - [Caspian](https://github.com/TryCaspian/caspian-sdk) - One messaging identity for an AI agent across Slack, Discord, Telegram, Instagram, email, and X — a single `on_message` handler with threading, webhook verification, and platform quirks handled. Python + TypeScript SDK. ![GitHub Repo stars](https://img.shields.io/github/stars/TryCaspian/caspian-sdk?style=social)
 - [MCP Lens](https://github.com/labmimors/dsh-mcp-lens) - Open-source DeepSeek Harness plugin that discovers MCP tools through search and invokes selected tools with their exact input schemas. ![GitHub Repo stars](https://img.shields.io/github/stars/labmimors/dsh-mcp-lens?style=social)
+- [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) - Codex skill that records complex tasks as revisioned work graphs, rejects overlapping write scopes, reconciles uncertain work before retry, and reruns completion checks. ![GitHub Repo stars](https://img.shields.io/github/stars/alanhoff/agent-coordinator?style=social)
 
 ## Frameworks
 
