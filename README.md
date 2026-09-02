@@ -137,6 +137,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [CoWorker Protocol](https://github.com/ZiwayZhao/agent-coworker) - P2P agent collaboration over XMTP with schema-based skill invocation, E2E encryption, and revocable trust. Agents share capabilities without exposing code. ![GitHub Repo stars](https://img.shields.io/github/stars/ZiwayZhao/agent-coworker?style=social)
 - [inspeximus](https://github.com/DanceNitra/inspeximus) - Memory component for long-running agents: a correction retires the old value by key, revert() undoes the correction from a plain instruction, and every write leaves a verifiable receipt. Deterministic, no model in the loop, one zero-dependency file.
 
+- [Inite Brain](https://github.com/inite-ai/inite-brain-service) - Open-source bitemporal memory layer for LLM agents. Knowledge graph with facts/episodes/procedural tiers, hybrid retrieval, conflict resolution. MCP server, AGPL-3.0.
 ### Tools
 
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) - Cross-platform desktop host for installing, running, health-checking, and supervising DeepSeek Harness locally. ![GitHub Repo stars](https://img.shields.io/github/stars/Moresyl/dsh-studio?style=social)
