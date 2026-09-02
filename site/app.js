@@ -121,22 +121,30 @@ const updateUrl = () => {
   window.history.replaceState({}, "", url);
 };
 
-const renderCategories = () => {
+const categoryButtons = new Map();
+
+const buildCategories = () => {
   elements.categories.replaceChildren(
     ...CATEGORIES.map((category) => {
       const button = document.createElement("button");
       button.className = "category-button";
       button.type = "button";
       button.textContent = category;
-      button.setAttribute("aria-pressed", String(category === state.category));
       button.addEventListener("click", () => {
         state.category = category;
         state.visible = PAGE_SIZE;
         render();
       });
+      categoryButtons.set(category, button);
       return button;
     }),
   );
+};
+
+const syncCategories = () => {
+  for (const [category, button] of categoryButtons) {
+    button.setAttribute("aria-pressed", String(category === state.category));
+  }
 };
 
 const resourceAvatar = (resource) => {
@@ -154,8 +162,8 @@ const resourceAvatar = (resource) => {
     avatarImage.className = "resource-avatar-image";
     avatarImage.src = resource.icon.url;
     avatarImage.alt = "";
-    avatarImage.width = 52;
-    avatarImage.height = 52;
+    avatarImage.width = 40;
+    avatarImage.height = 40;
     avatarImage.loading = "lazy";
     avatarImage.decoding = "async";
     avatar.dataset.iconType = resource.icon.type;
@@ -273,7 +281,7 @@ const render = () => {
   const filtered = filteredResources();
   const visibleResources = filtered.slice(0, state.visible);
 
-  renderCategories();
+  syncCategories();
   elements.list.replaceChildren(...visibleResources.map(resourceRow));
   elements.count.textContent = `${filtered.length} ${filtered.length === 1 ? "resource" : "resources"}`;
   elements.empty.hidden = filtered.length !== 0;
@@ -323,6 +331,7 @@ const initialize = async () => {
       ? requestedCategory
       : "All";
     elements.search.value = state.query;
+    buildCategories();
     renderLeaderboard();
     render();
   } catch (error) {
