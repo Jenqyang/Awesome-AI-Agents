@@ -118,6 +118,8 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [Orkas](https://github.com/Orkas-AI/Orkas) - MIT-licensed, local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media. ![GitHub Repo stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social)
 - [Vicoa](https://github.com/vicoa-ai/vicoa) - Agentic IDE and AI orchestrator for running Claude Code, Codex, OpenCode, Gemini, Cursor, GitHub Copilot, Kimi, and Hermes agents in parallel, each in its own git worktree, steered from a unified dashboard with real-time mobile sync and push notifications. ![GitHub Repo stars](https://img.shields.io/github/stars/vicoa-ai/vicoa?style=social)
 
+- [ENLIL](https://github.com/conchaestradamiguelangel-droid/enlil) - Self-hosted framework that dispatches a query to multiple language models in parallel and consolidates their independent responses into a merged output. ![GitHub Repo stars](https://img.shields.io/github/stars/conchaestradamiguelangel-droid/enlil?style=social)
+
 ### Agent Society Simulation
 
 Exploring endless possibilities with open-source agent social simulation.
