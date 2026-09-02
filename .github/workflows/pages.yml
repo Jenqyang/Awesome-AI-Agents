@@ -8,6 +8,8 @@ on:
       - "site/**"
       - "scripts/build-site.mjs"
       - ".github/workflows/pages.yml"
+  schedule:
+    - cron: "17 3 * * *"
   workflow_dispatch:
 
 permissions:
@@ -28,6 +30,8 @@ jobs:
 
       - name: Generate resource data from README
         run: node scripts/build-site.mjs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
