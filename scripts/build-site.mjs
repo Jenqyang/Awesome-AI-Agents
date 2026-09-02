@@ -12,6 +12,10 @@ const githubToken = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
 const githubApiUrl = process.env.GITHUB_API_URL || "https://api.github.com";
 const GITHUB_FETCH_CONCURRENCY = 10;
 const MIN_GITHUB_REFRESH_RATIO = 0.8;
+const ACTIVITY_WINDOW_DAYS = 7;
+const activityWindowStart = new Date(
+  Date.now() - ACTIVITY_WINDOW_DAYS * 24 * 60 * 60 * 1000,
+).toISOString();
 
 const groupForSection = (levelTwo, levelThree) => {
   if (levelThree === "Tools") return "Tools";
@@ -60,14 +64,22 @@ const githubRepositoryForUrl = (value) => {
   }
 };
 
-const readCachedUpdateTimes = async () => {
+const readCachedActivity = async () => {
   try {
     const cachedResources = JSON.parse(await readFile(outputPath, "utf8"));
     return new Map(
       cachedResources.flatMap((resource) => {
         const repository = githubRepositoryForUrl(resource.url);
-        return repository && resource.updatedAt
-          ? [[repository.toLowerCase(), resource.updatedAt]]
+        if (!repository) return [];
+
+        const activity = {};
+        if (resource.updatedAt) activity.updatedAt = resource.updatedAt;
+        if (Number.isInteger(resource.commitsLastWeek)) {
+          activity.commitsLastWeek = resource.commitsLastWeek;
+        }
+
+        return Object.keys(activity).length
+          ? [[repository.toLowerCase(), activity]]
           : [];
       }),
     );
@@ -76,52 +88,94 @@ const readCachedUpdateTimes = async () => {
   }
 };
 
-const fetchGithubUpdateTime = async (repository) => {
-  const [owner, name] = repository.split("/");
+const githubHeaders = () => {
   const headers = {
     Accept: "application/vnd.github+json",
     "User-Agent": "awesome-ai-agents-site-builder",
     "X-GitHub-Api-Version": "2022-11-28",
   };
   if (githubToken) headers.Authorization = `Bearer ${githubToken}`;
+  return headers;
+};
 
+const requestGithub = async (path) => {
+  const response = await fetch(`${githubApiUrl}${path}`, {
+    headers: githubHeaders(),
+    signal: AbortSignal.timeout(15_000),
+  });
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  return response;
+};
+
+const lastPageFromLinkHeader = (value) => {
+  const lastPage = (value || "")
+    .split(",")
+    .map((link) => link.match(/[?&]page=(\d+)[^>]*>;\s*rel="last"/))
+    .find(Boolean);
+  return lastPage ? Number(lastPage[1]) : null;
+};
+
+// One commit per page turns the `last` page number into the commit count, so a
+// busy repository still costs a single request.
+const fetchCommitsSinceWindowStart = async (owner, name) => {
+  const response = await requestGithub(
+    `/repos/${encodeURIComponent(owner)}/${encodeURIComponent(name)}/commits` +
+      `?since=${encodeURIComponent(activityWindowStart)}&per_page=1`,
+  );
+  const lastPage = lastPageFromLinkHeader(response.headers.get("link"));
+  if (lastPage) return lastPage;
+
+  const commits = await response.json();
+  return Array.isArray(commits) ? commits.length : 0;
+};
+
+const fetchGithubActivity = async (repository) => {
+  const [owner, name] = repository.split("/");
+
+  let updatedAt = null;
   try {
-    const response = await fetch(
-      `${githubApiUrl}/repos/${encodeURIComponent(owner)}/${encodeURIComponent(name)}`,
-      {
-        headers,
-        signal: AbortSignal.timeout(15_000),
-      },
-    );
-
-    if (!response.ok) {
-      console.warn(
-        `Unable to fetch update time for ${repository}: HTTP ${response.status}`,
-      );
-      return null;
-    }
-
-    const data = await response.json();
-    return typeof data.pushed_at === "string" ? data.pushed_at : null;
+    const data = await (
+      await requestGithub(
+        `/repos/${encodeURIComponent(owner)}/${encodeURIComponent(name)}`,
+      )
+    ).json();
+    updatedAt = typeof data.pushed_at === "string" ? data.pushed_at : null;
   } catch (error) {
     console.warn(
       `Unable to fetch update time for ${repository}: ${error.message}`,
     );
     return null;
   }
+
+  // A repository untouched during the window cannot have commits in it.
+  if (updatedAt && Date.parse(updatedAt) < Date.parse(activityWindowStart)) {
+    return { updatedAt, commitsLastWeek: 0 };
+  }
+
+  try {
+    return {
+      updatedAt,
+      commitsLastWeek: await fetchCommitsSinceWindowStart(owner, name),
+    };
+  } catch (error) {
+    console.warn(
+      `Unable to fetch recent commits for ${repository}: ${error.message}`,
+    );
+    return { updatedAt, commitsLastWeek: null };
+  }
 };
 
-const fetchGithubUpdateTimes = async (repositories) => {
-  const updateTimes = new Map();
+const fetchGithubActivityMap = async (repositories) => {
+  const activityByRepository = new Map();
   let nextIndex = 0;
 
   const worker = async () => {
     while (nextIndex < repositories.length) {
       const repository = repositories[nextIndex];
       nextIndex += 1;
-      updateTimes.set(
+      activityByRepository.set(
         repository.toLowerCase(),
-        await fetchGithubUpdateTime(repository),
+        await fetchGithubActivity(repository),
       );
     }
   };
@@ -132,7 +186,7 @@ const fetchGithubUpdateTimes = async (repositories) => {
       worker,
     ),
   );
-  return updateTimes;
+  return activityByRepository;
 };
 
 const decodeEntities = (value) =>
@@ -200,7 +254,7 @@ for (const line of readme.split("\n")) {
   });
 }
 
-const cachedUpdateTimes = await readCachedUpdateTimes();
+const cachedActivity = await readCachedActivity();
 const githubRepositoriesByKey = new Map();
 for (const { url } of resources) {
   const repository = githubRepositoryForUrl(url);
@@ -209,10 +263,10 @@ for (const { url } of resources) {
   }
 }
 const githubRepositories = [...githubRepositoriesByKey.values()];
-const fetchedUpdateTimes = githubToken
-  ? await fetchGithubUpdateTimes(githubRepositories)
+const fetchedActivity = githubToken
+  ? await fetchGithubActivityMap(githubRepositories)
   : new Map();
-const refreshedRepositoryCount = [...fetchedUpdateTimes.values()].filter(
+const refreshedRepositoryCount = [...fetchedActivity.values()].filter(
   Boolean,
 ).length;
 
@@ -229,7 +283,7 @@ if (
 
 if (!githubToken) {
   console.warn(
-    "GITHUB_TOKEN or GH_TOKEN is not set; using cached GitHub update times.",
+    "GITHUB_TOKEN or GH_TOKEN is not set; using cached GitHub activity data.",
   );
 }
 
@@ -238,8 +292,16 @@ for (const resource of resources) {
   if (!repository) continue;
 
   const key = repository.toLowerCase();
-  const updatedAt = fetchedUpdateTimes.get(key) || cachedUpdateTimes.get(key);
+  const fetched = fetchedActivity.get(key);
+  const cached = cachedActivity.get(key);
+
+  const updatedAt = fetched?.updatedAt ?? cached?.updatedAt;
   if (updatedAt) resource.updatedAt = updatedAt;
+
+  const commitsLastWeek = fetched?.commitsLastWeek ?? cached?.commitsLastWeek;
+  if (Number.isInteger(commitsLastWeek)) {
+    resource.commitsLastWeek = commitsLastWeek;
+  }
 }
 
 resources.sort((left, right) => {
@@ -261,6 +323,10 @@ resources.forEach((resource, index) => {
 });
 
 await writeFile(outputPath, `${JSON.stringify(resources, null, 2)}\n`, "utf8");
+const activeRepositoryCount = resources.filter(
+  (resource) => resource.commitsLastWeek > 0,
+).length;
 console.log(
-  `Generated ${resources.length} resources (${refreshedRepositoryCount} GitHub repositories refreshed) at ${outputPath}`,
+  `Generated ${resources.length} resources (${refreshedRepositoryCount} GitHub repositories refreshed, ` +
+    `${activeRepositoryCount} with commits in the last ${ACTIVITY_WINDOW_DAYS} days) at ${outputPath}`,
 );

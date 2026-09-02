@@ -39,8 +39,8 @@
       type="font/woff2"
       crossorigin
     />
-    <link rel="stylesheet" href="./styles.css?v=20260902c" />
-    <script src="./app.js?v=20260902c" defer></script>
+    <link rel="stylesheet" href="./styles.css?v=20260902d" />
+    <script src="./app.js?v=20260902d" defer></script>
   </head>
   <body>
     <a class="skip-link" href="#resources">Skip to resources</a>
@@ -100,6 +100,23 @@
           />
           <kbd aria-hidden="true">/</kbd>
         </label>
+      </section>
+
+      <section
+        id="leaderboard"
+        class="leaderboard shell"
+        aria-labelledby="leaderboard-heading"
+        hidden
+      >
+        <div class="section-heading">
+          <h2 id="leaderboard-heading">
+            <span class="icon icon-activity" aria-hidden="true"></span>
+            Most active this week
+          </h2>
+          <p id="leaderboard-note"></p>
+        </div>
+
+        <ol id="leaderboard-list" class="leaderboard-list"></ol>
       </section>
 
       <section class="directory shell" aria-labelledby="resources-heading">

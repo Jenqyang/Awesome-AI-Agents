@@ -8,6 +8,8 @@ const CATEGORIES = [
   "Research",
 ];
 const PAGE_SIZE = 24;
+const LEADERBOARD_SIZE = 10;
+const ACTIVITY_WINDOW_DAYS = 7;
 const GITHUB_STARS_CACHE_KEY = "awesome-ai-agents:github-stars";
 
 const state = {
@@ -25,6 +27,9 @@ const elements = {
   loadMore: document.querySelector("#load-more"),
   reset: document.querySelector("#reset-button"),
   search: document.querySelector("#search-input"),
+  leaderboard: document.querySelector("#leaderboard"),
+  leaderboardList: document.querySelector("#leaderboard-list"),
+  leaderboardNote: document.querySelector("#leaderboard-note"),
   githubLink: document.querySelector(".github-link"),
   githubStars: document.querySelector("#github-stars-count"),
 };
@@ -134,14 +139,7 @@ const renderCategories = () => {
   );
 };
 
-const resourceRow = (resource) => {
-  const link = document.createElement("a");
-  link.className = "resource-row";
-  link.href = resource.url;
-  link.target = "_blank";
-  link.rel = "noreferrer";
-  link.setAttribute("aria-label", `${resource.name} — opens in a new tab`);
-
+const resourceAvatar = (resource) => {
   const avatar = document.createElement("span");
   avatar.className = "resource-avatar";
   avatar.setAttribute("aria-hidden", "true");
@@ -170,6 +168,23 @@ const resourceRow = (resource) => {
     avatar.prepend(avatarImage);
   }
 
+  return avatar;
+};
+
+const resourceLink = (resource, className) => {
+  const link = document.createElement("a");
+  link.className = className;
+  link.href = resource.url;
+  link.target = "_blank";
+  link.rel = "noreferrer";
+  link.setAttribute("aria-label", `${resource.name} — opens in a new tab`);
+  return link;
+};
+
+const resourceRow = (resource) => {
+  const link = resourceLink(resource, "resource-row");
+  const avatar = resourceAvatar(resource);
+
   const copy = document.createElement("span");
   copy.className = "resource-copy";
   const name = document.createElement("h3");
@@ -192,6 +207,66 @@ const resourceRow = (resource) => {
 
   link.append(avatar, copy, category, source);
   return link;
+};
+
+const mostActiveResources = () =>
+  state.resources
+    .filter(
+      (resource) =>
+        Number.isInteger(resource.commitsLastWeek) &&
+        resource.commitsLastWeek > 0,
+    )
+    .sort(
+      (left, right) =>
+        right.commitsLastWeek - left.commitsLastWeek ||
+        left.name.localeCompare(right.name),
+    )
+    .slice(0, LEADERBOARD_SIZE);
+
+const leaderboardRow = (resource, rank) => {
+  const item = document.createElement("li");
+  item.className = "leaderboard-item";
+
+  const link = resourceLink(resource, "leaderboard-row");
+
+  const position = document.createElement("span");
+  position.className = "leaderboard-rank";
+  position.setAttribute("aria-hidden", "true");
+  position.textContent = String(rank);
+
+  const copy = document.createElement("span");
+  copy.className = "leaderboard-copy";
+  const name = document.createElement("h3");
+  name.textContent = resource.name;
+  const section = document.createElement("p");
+  section.textContent = resource.section;
+  copy.append(name, section);
+
+  const commits = document.createElement("span");
+  commits.className = "leaderboard-commits";
+  const commitCount = document.createElement("strong");
+  commitCount.textContent = new Intl.NumberFormat("en-US").format(
+    resource.commitsLastWeek,
+  );
+  const commitLabel = document.createElement("span");
+  commitLabel.textContent =
+    resource.commitsLastWeek === 1 ? "commit" : "commits";
+  commits.append(commitCount, commitLabel);
+
+  link.append(position, resourceAvatar(resource), copy, commits);
+  item.append(link);
+  return item;
+};
+
+const renderLeaderboard = () => {
+  const leaders = mostActiveResources();
+  elements.leaderboard.hidden = leaders.length === 0;
+  if (leaders.length === 0) return;
+
+  elements.leaderboardList.replaceChildren(
+    ...leaders.map((resource, index) => leaderboardRow(resource, index + 1)),
+  );
+  elements.leaderboardNote.textContent = `Commits pushed in the last ${ACTIVITY_WINDOW_DAYS} days`;
 };
 
 const render = () => {
@@ -248,6 +323,7 @@ const initialize = async () => {
       ? requestedCategory
       : "All";
     elements.search.value = state.query;
+    renderLeaderboard();
     render();
   } catch (error) {
     console.error("Unable to load resources:", error);
