@@ -393,7 +393,7 @@
     "id": 31,
     "name": "Tura",
     "url": "https://github.com/Tura-AI/tura",
-    "description": "AGPL-3.0 local coding agent with CLI/TUI/GUI, task-scoped context, macro command execution, verification, and public benchmark artifacts.",
+    "description": "Build agent that uses 80% less token and delivers better results.",
     "category": "Applications",
     "section": "Autonomous Agent Task Solver Projects",
     "source": "GitHub",
