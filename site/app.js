@@ -42,13 +42,20 @@ const initialsFor = (name) => {
 const normalized = (value) => value.trim().toLocaleLowerCase();
 
 const renderGitHubStars = (count) => {
-  const formattedCount = new Intl.NumberFormat("en-US").format(count);
-  elements.githubStars.textContent = formattedCount;
+  const exactCount = new Intl.NumberFormat("en-US").format(count);
+  const compactCount =
+    count >= 1000
+      ? `${new Intl.NumberFormat("en-US", {
+          maximumFractionDigits: 1,
+        }).format(Math.floor(count / 100) / 10)}k+`
+      : exactCount;
+
+  elements.githubStars.textContent = compactCount;
   elements.githubLink.setAttribute(
     "aria-label",
-    `View Awesome AI Agents on GitHub, ${formattedCount} stars`,
+    `Star on GitHub, ${exactCount} stars`,
   );
-  elements.githubLink.title = `${formattedCount} GitHub stars`;
+  elements.githubLink.title = `${exactCount} GitHub stars`;
 };
 
 const updateGitHubStars = async () => {
