@@ -251,6 +251,7 @@ Quickly build and customize agents.
 - [TeDDy](https://github.com/atte500/TeDDy) - Markdown-driven coding harness that structures agent work around TDD, hexagonal architecture, and vertical slicing. Python, AGPL-3.0. ![GitHub Repo stars](https://img.shields.io/github/stars/atte500/TeDDy?style=social)
 - [fractal](https://github.com/plasma-ai/fractal) - Hierarchical agent loops that self-organize into a tree, where each node iterates in its own git worktree and spawns children for subtasks, bounded by caps on depth, cost, and time. ![GitHub Repo stars](https://img.shields.io/github/stars/plasma-ai/fractal?style=social)
 - [FastAgent](https://github.com/fastagent-sh/fastagent) - Serving layer that turns an existing agent directory (persona.md, skills/, tools/, channels/) into a live service without a rewrite: embed it behind a route in a Next/Hono/Node app, or run it as a GitHub, Telegram, Slack, or HTTP/SSE service with cron schedules. Engine-, model-, and host-neutral around a single `invoke` contract. MIT, TypeScript. ![GitHub Repo stars](https://img.shields.io/github/stars/fastagent-sh/fastagent?style=social)
+- [ReadyAgents](https://github.com/readyagents/readyagents-core) - Local one-shot YAML/JSON agent workflow CLI with tools, approvals, and resume, plus an optional stdio MCP server. Apache-2.0, BYOK. ![GitHub Repo stars](https://img.shields.io/github/stars/readyagents/readyagents-core?style=social)
 
 
 ## Benchmark/Evaluator
