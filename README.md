@@ -194,6 +194,7 @@ Quickly build and customize agents.
 
 ![https://arxiv.org/abs/2308.08155](images/autogen_agentchat.png)
 
+- [AIWG](https://github.com/jmagly/aiwg) - Deploys reusable agents, skills, rules, and governed workflows into the native project paths of multiple AI coding platforms. ![GitHub Repo stars](https://img.shields.io/github/stars/jmagly/aiwg?style=social)
 - [agent-express](https://github.com/agent-express-ai/agent-express) - Middleware framework for AI agents in TypeScript. Express.js-style (ctx, next) composable hooks for retry, budget caps, memory compaction, tool approval, and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/agent-express-ai/agent-express?style=social)
 - [AgentLoop](https://github.com/mnifzied-create/agentloop) - A Claude agent starter implementing the streaming tool-use loop in ~150 lines on Next.js with the official Anthropic SDK. ![GitHub Repo stars](https://img.shields.io/github/stars/mnifzied-create/agentloop?style=social)
 - [langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
