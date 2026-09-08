@@ -187,6 +187,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Caspian](https://github.com/TryCaspian/caspian-sdk) - One messaging identity for an AI agent across Slack, Discord, Telegram, Instagram, email, and X — a single `on_message` handler with threading, webhook verification, and platform quirks handled. Python + TypeScript SDK. ![GitHub Repo stars](https://img.shields.io/github/stars/TryCaspian/caspian-sdk?style=social)
 - [MCP Lens](https://github.com/labmimors/dsh-mcp-lens) - Open-source DeepSeek Harness plugin that discovers MCP tools through search and invokes selected tools with their exact input schemas. ![GitHub Repo stars](https://img.shields.io/github/stars/labmimors/dsh-mcp-lens?style=social)
 - [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) - Codex skill that records complex tasks as revisioned work graphs, rejects overlapping write scopes, reconciles uncertain work before retry, and reruns completion checks. ![GitHub Repo stars](https://img.shields.io/github/stars/alanhoff/agent-coordinator?style=social)
+- [5dive](https://github.com/5dive-ai/5dive) - Self-hosted CLI that runs a team of coding agents on one Linux host: each agent is its own Linux user running `claude`, `codex`, `opencode`, `hermes` or another CLI as a systemd service, coordinating through an org chart and a shared SQLite backlog, escalating to Telegram only when a human must decide. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/5dive-ai/5dive?style=social)
 
 ## Frameworks
 
