@@ -265,6 +265,7 @@ Quickly build and customize agents.
 Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 
 - [AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social)
+- [AgentLeak](https://github.com/yagobski/agentleak) - Python toolkit for evaluating privacy leakage across agent traces, including tool calls, inter-agent messages, shared memory, and logs, with redacted reports and CI gates. ![GitHub Repo stars](https://img.shields.io/github/stars/yagobski/agentleak?style=social)
 - [agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen ![GitHub Repo stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social)
 - [langtrace](https://github.com/Scale3-Labs/langtrace) - Langtrace 🔍 is an open-source, Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. ![GitHub Repo stars](https://img.shields.io/github/stars/Scale3-Labs/langtrace?style=social)
 - [LiveMCP-101](https://arxiv.org/abs/2508.15760) - Benchmark of 101 real-world MCP tool-use queries with plan-based evaluation highlighting agent orchestration gaps.
