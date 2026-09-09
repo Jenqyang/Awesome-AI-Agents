@@ -334,6 +334,7 @@ Able to connect LLM with the real world.
 
 ### Blog
 
+- [ossbeat](https://ossbeat.com) - Weekly write-ups tracking release notes and trends across open-source AI coding agent tooling (MCP, coding agent harnesses, agent-to-agent protocols).
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) - Amazing blog by Lilian Weng (OpenAI), Jun 23, 2023.
 - [从第一性原理看大模型Agent技术](https://mp.weixin.qq.com/s/PL-QjlvVugUfmRD4g0P-qQ)
 - [基于大语言模型的AI Agents](https://www.breezedeus.com/article/ai-agent-part3)
