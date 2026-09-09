@@ -187,6 +187,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Caspian](https://github.com/TryCaspian/caspian-sdk) - One messaging identity for an AI agent across Slack, Discord, Telegram, Instagram, email, and X — a single `on_message` handler with threading, webhook verification, and platform quirks handled. Python + TypeScript SDK. ![GitHub Repo stars](https://img.shields.io/github/stars/TryCaspian/caspian-sdk?style=social)
 - [MCP Lens](https://github.com/labmimors/dsh-mcp-lens) - Open-source DeepSeek Harness plugin that discovers MCP tools through search and invokes selected tools with their exact input schemas. ![GitHub Repo stars](https://img.shields.io/github/stars/labmimors/dsh-mcp-lens?style=social)
 - [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) - Codex skill that records complex tasks as revisioned work graphs, rejects overlapping write scopes, reconciles uncertain work before retry, and reruns completion checks. ![GitHub Repo stars](https://img.shields.io/github/stars/alanhoff/agent-coordinator?style=social)
+- [ZYRAXON-AI](https://github.com/onelpawarai-X/ZYRAXON-AI) - Desktop AI agent with 357+ tools, 9 agent modes (Build, Research, Debug, Deploy, etc.), eternal memory (survives laptop reset), self-healing, code guardian, Monaco AI assistant, TTS, and voice control. 21+ free models, Electron EXE, works offline. ![GitHub Repo stars](https://img.shields.io/github/stars/onelpawarai-X/ZYRAXON-AI?style=social)
 
 ## Frameworks
 
