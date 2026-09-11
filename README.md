@@ -194,6 +194,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [MCP Lens](https://github.com/labmimors/dsh-mcp-lens) - Open-source DeepSeek Harness plugin that discovers MCP tools through search and invokes selected tools with their exact input schemas. ![GitHub Repo stars](https://img.shields.io/github/stars/labmimors/dsh-mcp-lens?style=social)
 - [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) - Codex skill that records complex tasks as revisioned work graphs, rejects overlapping write scopes, reconciles uncertain work before retry, and reruns completion checks. ![GitHub Repo stars](https://img.shields.io/github/stars/alanhoff/agent-coordinator?style=social)
 - [sofagent](https://github.com/KongFangXun/sofagent) - Audit-first governance harness for AI coding agents: 24 rules enforced at commit time via git hooks, HMAC-chained audit log, snapshot rollback. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/KongFangXun/sofagent?style=social)
+- [Webcmd](https://github.com/agentrhq/webcmd) - Self-learning browser infrastructure for AI agents: learns a site's navigation once, then compiles it into deterministic per-site CLI commands. TypeScript, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social)
 
 ## Frameworks
 
