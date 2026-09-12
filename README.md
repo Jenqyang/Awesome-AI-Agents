@@ -87,6 +87,8 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [ENZO](https://github.com/theguysudo/ENZO) - Self-hosted BYOK AI workspace with multi-provider chat (Groq, OpenRouter, NVIDIA, Hugging Face, Google AI), agents with scheduled runs, and skills like Gmail, Google Calendar, web search, and project generation. Provider keys are sealed client-side with AES-256-GCM and no middleman service is involved. Apache-2.0, Docker deployment. ![GitHub Repo stars](https://img.shields.io/github/stars/theguysudo/ENZO?style=social)
 - [Kapso](https://github.com/Leeroo-AI/kapso) - Self-improving software factory for AI/ML objectives. State an objective and it runs a campaign: candidate solutions designed, implemented by coding agents (Claude Code, Codex), measured against the objective, and the closest refined until it is met. Each finished campaign leaves lessons carrying the evidence that earned them, and repositories and papers feed the same knowledge hub, so the next campaign starts from what earlier work established. ![GitHub Repo stars](https://img.shields.io/github/stars/Leeroo-AI/kapso?style=social)
 
+- [Nexus-Agent](https://github.com/parkain707/nexus-agent) - Open-source autonomous AI software engineering agent with dual-engine UX (Rich TUI + Web Visualizer) and self-healing AST code engine. ![GitHub Repo stars](https://img.shields.io/github/stars/parkain707/nexus-agent?style=social)
+
 ### Multi-Agent Task Solver Projects
 
 Open-source Large Language Model (LLM) driven Multi-Agent that can automatically solve various tasks.
