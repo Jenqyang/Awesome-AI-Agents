@@ -145,6 +145,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 ### Tools
 
+- [Oathra](https://github.com/FORIFOR/oathra) - Apache-2.0 TypeScript runtime for AI agents that make phone calls (Twilio or SIP via LiveKit); every result field is anchored to the callee's words and completion is decided by deterministic rules, with a 10,000-run adversarial evaluation in the repo. Playable simulator needs no API key. ![GitHub Repo stars](https://img.shields.io/github/stars/FORIFOR/oathra?style=social)
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) - Cross-platform desktop host for installing, running, health-checking, and supervising DeepSeek Harness locally. ![GitHub Repo stars](https://img.shields.io/github/stars/Moresyl/dsh-studio?style=social)
 - [Lians](https://github.com/Lians-ai/Lians) - Local-first memory layer for AI agents with MCP, Python, and TypeScript interfaces; SQLite-backed recall, user-controlled inspection/correction/deletion, and point-in-time memory receipts. ![GitHub Repo stars](https://img.shields.io/github/stars/Lians-ai/Lians?style=social)
 - [Perseus](https://github.com/tcconnally/perseus) - Live workspace context engine for AI agents. Renders AGENTS.md at session start. Plug-in for Claude Code, Codex, Hermes.
