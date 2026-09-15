@@ -321,6 +321,8 @@ Able to connect LLM with the real world.
 - [openma](https://github.com/open-ma/open-managed-agents) - Self-hosted, open-source implementation of Anthropic's Managed Agents API. Wire-compatible with the official SDKs. Runs on Cloudflare Workers + Durable Objects or Node. Apache 2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/open-ma/open-managed-agents?style=social)
 - [Enclave](https://github.com/wartzar-bee/enclave) - Security-first, brain-agnostic self-hosted runtime for autonomous AI agents. Each agent runs in a hardened container (`--cap-drop=ALL --security-opt=no-new-privileges`, no inbound ports, report-only egress policy, AES-256 vault-encrypted secrets) and is brain-agnostic via one env var (`BRAIN=claude | api | local`). Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/wartzar-bee/enclave?style=social)
 - [Bifrost](https://github.com/maximhq/bifrost) - Open-source Go AI gateway with provider routing, automatic failover, load balancing, observability, and MCP support. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
+- [HostDeFi](https://hostdefi.com) - Agent-ready token-safety scanner with a public A2A agent card, hosted MCP server and x402-paid endpoints for autonomous checks.
+
 
 ## Related
 
