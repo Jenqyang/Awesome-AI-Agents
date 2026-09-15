@@ -17,14 +17,14 @@ This repository curates high-quality resources for AI agents, including:
 
 We prioritize quality over quantity.
 
-- Open-source first: OSS projects are preferred.
+- Standard OSS by default: entries should use a clearly open-source license. Source-available, commercial, or mixed-proprietary licensing will usually be rejected.
 - OSS substance over OSS wrapper: an open-source MCP/server/client wrapper is not enough if the core product value depends mainly on a proprietary hosted service or paid backend.
 - Real ecosystem value: the project should materially help the agent ecosystem.
 - Evidence over marketing: avoid hype-heavy or ad-like wording.
 - Maintainability signals: active repo, clear docs, usable code/artifacts.
 - No duplicates: check existing entries before submitting.
 
-Submissions may be closed if they are mostly promotional, out of scope, weakly documented, duplicate existing entries, or function mainly as marketing for a paid service.
+Submissions may be closed if they are mostly promotional, out of scope, weakly documented, duplicate existing entries, use non-OSS licensing, or function mainly as marketing for a paid or closed service.
 
 ## Before You Submit
 
@@ -32,7 +32,8 @@ Submissions may be closed if they are mostly promotional, out of scope, weakly d
 2. Confirm the best section for your item.
 3. Ensure the project has a complete README (at least install/usage context).
 4. Prepare a neutral one-line description.
-5. If the project connects to a paid API/service, explain what meaningful value remains usable from the open-source artifact itself.
+5. Confirm the repository has a standard open-source license clearly visible in GitHub metadata or the repo itself.
+6. If the project connects to a paid API/service, explain what meaningful value remains usable from the OSS artifact itself without buying the hosted product.
 
 ## Preferred Contribution Path
 
@@ -61,16 +62,27 @@ Reviewers typically check:
 - Whether the OSS artifact is independently useful, or just a thin gateway to a paid hosted product
 - README quality and practical usefulness
 - Neutral language (no unverifiable claims like "best"/"first" unless clearly verifiable)
+- Whether the entry text contains pricing, credits, free-tier, "no API key", upgrade-path, or similar ad-style signals
 
 ## Commercial Service Boundary
 
-The list is curated with an OSS-first bias, not a "has a public repo" bias.
+The list is curated with a standard-OSS bias, not a "has a public repo" bias.
 
 - A public repo does not qualify by itself if the main user value depends on a paid or closed hosted service.
+- Source-available, PolyForm, commercial, or mixed proprietary licensing usually does not qualify for the main list even when code is public.
 - Open-source adapters for commercial APIs/services are reviewed more strictly because they often function as distribution for the paid service.
-- These submissions must show clear standalone OSS value, such as meaningful self-hosted functionality, reusable local components, or documentation/examples that remain practically useful without buying the hosted product.
-- "Free tier", "no API key", pricing, credits, or upgrade paths should not be part of the proposed entry line and may be treated as advertising signals.
+- These submissions must show clear standalone OSS value, such as meaningful self-hosted functionality, reusable local components, or a local/runtime/framework capability that remains useful without the hosted product.
+- "Free tier", "no API key", pricing, credits, pay-per-call access, or upgrade paths should not be part of the proposed entry line and may be treated as advertising signals.
+- Official plugins, thin MCP gateways, and product connectors that mainly unlock a hosted commercial surface will usually be rejected.
 - If the commercial dependency is central and the OSS layer is only a thin connector, the submission may be closed even when the repo license is valid.
+
+## Licensing Boundary
+
+The main list is not a general "public source code" directory.
+
+- Standard open-source licenses are expected.
+- If license metadata is unclear, absent, or contradicted by repository terms, the submission may be closed until clarified.
+- Repositories that recently moved from OSS to commercial/source-available terms are reviewed based on their current license, not historical versions.
 
 ## Fast Rework Tips
 
@@ -79,7 +91,8 @@ If your PR is not merged, the fastest way to unblock is:
 1. Remove promotional language.
 2. Provide concrete technical value in one line.
 3. Fix section placement and formatting.
-4. If the project depends on a commercial backend, explain the standalone OSS value clearly.
-5. Resubmit with only the necessary change.
+4. Remove pricing, free-tier, or hosted-access wording.
+5. If the project depends on a commercial backend, explain the standalone OSS value clearly.
+6. Resubmit with only the necessary change.
 
 Thanks again for contributing.

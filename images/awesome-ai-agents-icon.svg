@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome AI Agents</title>
+  <desc id="desc">Three agent nodes connected to a central discovery spark.</desc>
+  <rect width="512" height="512" rx="112" fill="#4655E8"/>
+
+  <g fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round">
+    <path d="M256 132v88"/>
+    <path d="m148 326 78-45"/>
+    <path d="m364 326-78-45"/>
+  </g>
+
+  <g fill="#FFFFFF">
+    <circle cx="256" cy="118" r="30"/>
+    <circle cx="130" cy="336" r="30"/>
+    <circle cx="382" cy="336" r="30"/>
+    <circle cx="256" cy="256" r="66"/>
+  </g>
+
+  <path
+    fill="#4655E8"
+    d="M256 218c5 20 18 33 38 38-20 5-33 18-38 38-5-20-18-33-38-38 20-5 33-18 38-38Z"
+  />
+</svg>

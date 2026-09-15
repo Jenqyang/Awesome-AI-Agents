@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Discover curated open-source AI agents, frameworks, tools, benchmarks, platforms, and research."
+    />
+    <meta name="theme-color" content="#ffffff" />
+    <meta property="og:title" content="Awesome AI Agents" />
+    <meta
+      property="og:description"
+      content="A searchable directory of the open-source AI agent ecosystem."
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:image"
+      content="https://github.com/Jenqyang.png?size=512"
+    />
+    <meta
+      property="og:url"
+      content="https://jenqyang.github.io/Awesome-AI-Agents/"
+    />
+    <title>Awesome AI Agents</title>
+    <link
+      rel="icon"
+      type="image/jpeg"
+      href="https://github.com/Jenqyang.png?size=512"
+    />
+    <link
+      rel="apple-touch-icon"
+      href="https://github.com/Jenqyang.png?size=512"
+    />
+    <link
+      rel="preload"
+      href="./fonts/bricolage-grotesque-latin-700.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link rel="stylesheet" href="./styles.css?v=20260903a" />
+    <script src="./app.js?v=20260903a" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#resources">Skip to resources</a>
+
+    <header class="site-header">
+      <div class="shell header-inner">
+        <a class="brand" href="./" aria-label="Awesome AI Agents home">
+          <span class="brand-wordmark" aria-hidden="true"> ███  █   █ █████  ████  ███  █   █ █████      ███  █████      ███   ████ █████ █   █ █████  ████
+█   █ █   █ █     █     █   █ ██ ██ █         █   █   █       █   █ █     █     ██  █   █   █
+█████ █ █ █ ████   ███  █   █ █ █ █ ████      █████   █       █████ █ ███ ████  █ █ █   █    ███
+█   █ █ █ █ █         █ █   █ █   █ █         █   █   █       █   █ █   █ █     █  ██   █       █
+█   █  █ █  █████ ████   ███  █   █ █████     █   █ █████     █   █  ███  █████ █   █   █   ████</span>
+        </a>
+
+        <div class="header-actions">
+          <a
+            class="github-link"
+            href="https://github.com/Jenqyang/Awesome-AI-Agents"
+            target="_blank"
+            rel="noreferrer"
+            aria-label="Star on GitHub"
+            data-repository="Jenqyang/Awesome-AI-Agents"
+          >
+            <span class="icon icon-github" aria-hidden="true"></span>
+            <span class="github-stars" aria-hidden="true">
+              <span id="github-stars-count">—</span>
+              <span class="icon icon-star"></span>
+            </span>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero shell" aria-labelledby="page-title">
+        <h1 id="page-title">
+          Discover the <span class="no-break">open-source</span><br />AI agent
+          ecosystem
+        </h1>
+        <p>
+          Curated agents, frameworks, tools, benchmarks, and research — all in
+          one place.
+        </p>
+
+        <label class="search-box" for="search-input">
+          <span class="icon icon-search" aria-hidden="true"></span>
+          <span class="sr-only">Search resources</span>
+          <input
+            id="search-input"
+            type="search"
+            placeholder="Search agents, frameworks, and tools…"
+            autocomplete="off"
+          />
+          <kbd aria-hidden="true">/</kbd>
+        </label>
+      </section>
+
+      <section
+        id="leaderboard"
+        class="leaderboard shell"
+        aria-labelledby="leaderboard-heading"
+        hidden
+      >
+        <div class="section-heading">
+          <h2 id="leaderboard-heading">
+            <span class="icon icon-activity" aria-hidden="true"></span>
+            Most active this week
+          </h2>
+          <p id="leaderboard-note"></p>
+        </div>
+
+        <ol id="leaderboard-list" class="leaderboard-list"></ol>
+      </section>
+
+      <section class="directory shell" aria-labelledby="resources-heading">
+        <div
+          id="categories"
+          class="category-rail"
+          role="group"
+          aria-label="Filter resources by category"
+        ></div>
+
+        <div class="section-heading">
+          <h2 id="resources-heading">Explore resources</h2>
+          <p id="results-count" aria-live="polite"></p>
+        </div>
+
+        <div id="resources" class="resource-list" aria-live="polite"></div>
+
+        <div id="empty-state" class="empty-state" hidden>
+          <h3>No resources found</h3>
+          <p>Try another search term or reset the selected category.</p>
+          <button id="reset-button" type="button">Reset filters</button>
+        </div>
+
+        <div class="load-more-wrap">
+          <button id="load-more" class="load-more" type="button" hidden>
+            Show more resources
+            <span class="icon icon-chevron-down" aria-hidden="true"></span>
+          </button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="shell footer-inner">
+        <p>Curated by the open-source community.</p>
+        <a
+          href="https://github.com/Jenqyang/Awesome-AI-Agents/blob/main/CONTRIBUTING.md"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Contribute a resource
+        </a>
+      </div>
+    </footer>
+
+    <noscript>
+      <p class="noscript-message">
+        JavaScript is required to search and browse this resource directory.
+      </p>
+    </noscript>
+  </body>
+</html>
