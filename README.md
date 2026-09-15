@@ -198,6 +198,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) - Codex skill that records complex tasks as revisioned work graphs, rejects overlapping write scopes, reconciles uncertain work before retry, and reruns completion checks. ![GitHub Repo stars](https://img.shields.io/github/stars/alanhoff/agent-coordinator?style=social)
 - [sofagent](https://github.com/KongFangXun/sofagent) - Audit-first governance harness for AI coding agents: 24 rules enforced at commit time via git hooks, HMAC-chained audit log, snapshot rollback. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/KongFangXun/sofagent?style=social)
 - [Webcmd](https://github.com/agentrhq/webcmd) - Self-learning browser infrastructure for AI agents: learns a site's navigation once, then compiles it into deterministic per-site CLI commands. TypeScript, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social)
+- [5dive](https://github.com/5dive-ai/5dive) - Self-hosted CLI that runs a team of coding agents on one Linux host: each agent is its own Linux user running `claude`, `codex`, `opencode`, `hermes` or another CLI as a systemd service, coordinating through an org chart and a shared SQLite backlog, escalating to Telegram only when a human must decide. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/5dive-ai/5dive?style=social)
 
 ## Frameworks
 
