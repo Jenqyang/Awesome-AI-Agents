@@ -296,7 +296,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [CIAgent](https://github.com/suniel12/ciagent) - Pytest-native regression testing for AI agents — golden-trace diffing, cost guardrails, multi-run stability scoring with flip attribution, LLM-judge auditing, and one-command import of production traces (OTel/Langfuse/LangSmith) into CI tests. ![GitHub Repo stars](https://img.shields.io/github/stars/suniel12/ciagent?style=social)
 - [Sabot](https://github.com/Jott2121/sabot) - Injects one controlled fault into a running LangGraph, CrewAI or AutoGen/Magentic-One pipeline — corrupted tool result, falsified success report, altered inter-agent message, silent model downgrade, stale context, silent no-op — and scores whether the pipeline's own reviewer, guardrail and orchestrator surfaces detect it. Pre-registered spec and adjudication anchors, deterministic scoring with no LLM in the headline path, full raw trace corpus published. ![GitHub Repo stars](https://img.shields.io/github/stars/Jott2121/sabot?style=social)
 - [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) - CLI that diffs two runs of an AI agent to show changes in tool calls, arguments, cost, latency, and outcomes, with multi-sample flake detection to demote pre-existing flakiness. ![GitHub Repo stars](https://img.shields.io/github/stars/arthi-arumugam-git/whatbroke?style=social)
-
+- [STRATA-Bench](https://github.com/movahedi-ca/strata-bench) - Benchmark for AI agents on fragmented spatial-temporal market intelligence; scores whether agents disclose, tag, refuse, or model instead of hallucinating. [![GitHub Repo stars](https://img.shields.io/github/stars/movahedi-ca/strata-bench?style=social)]
 
 ## Platforms/API
 
