@@ -88,6 +88,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Kapso](https://github.com/Leeroo-AI/kapso) - Self-improving software factory for AI/ML objectives. State an objective and it runs a campaign: candidate solutions designed, implemented by coding agents (Claude Code, Codex), measured against the objective, and the closest refined until it is met. Each finished campaign leaves lessons carrying the evidence that earned them, and repositories and papers feed the same knowledge hub, so the next campaign starts from what earlier work established. ![GitHub Repo stars](https://img.shields.io/github/stars/Leeroo-AI/kapso?style=social)
 
 - [PI-Desktop](https://github.com/vastsa/PI-Desktop) - Local-first desktop workspace for AI coding agents with persistent projects and sessions, model switching, Plan/Goal modes, permission controls, plugins, MCP, and multi-agent orchestration. ![GitHub Repo stars](https://img.shields.io/github/stars/vastsa/PI-Desktop?style=social)
+- [jevme](https://github.com/danielyedaniel/jevme) - Voice-controlled agent for macOS that operates any app through the accessibility tree; LLM results are memoized as classifier decisions so repeated tasks skip the LLM. ![GitHub Repo stars](https://img.shields.io/github/stars/danielyedaniel/jevme?style=social)
 
 ### Multi-Agent Task Solver Projects
 
