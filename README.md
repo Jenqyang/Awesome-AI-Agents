@@ -146,6 +146,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [inspeximus](https://github.com/DanceNitra/inspeximus) - Memory component for long-running agents: a correction retires the old value by key, revert() undoes the correction from a plain instruction, and every write leaves a verifiable receipt. Deterministic, no model in the loop, one zero-dependency file.
 - [zer0dex](https://github.com/hermes-labs-ai/zer0dex) - Local dual-layer memory pattern for AI agents: a compact, human-readable markdown index paired with semantic retrieval from a local vector store, queried before each message. For cross-project recall where flat memory files or vector-only RAG fall short. ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-labs-ai/zer0dex?style=social)
 
+- [Inite Brain](https://github.com/inite-ai/inite-brain-service) - Open-source bitemporal memory layer for LLM agents. Knowledge graph with facts/episodes/procedural tiers, hybrid retrieval, conflict resolution. MCP server, AGPL-3.0.
 ### Tools
 
 - [Oathra](https://github.com/FORIFOR/oathra) - Apache-2.0 TypeScript runtime for phone agents with a standalone evidence-verification engine; anchors result fields to callee utterances and applies deterministic completion rules, with a simulator and adversarial tests. ![GitHub Repo stars](https://img.shields.io/github/stars/FORIFOR/oathra?style=social)
