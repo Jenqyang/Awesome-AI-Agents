@@ -328,6 +328,7 @@ Able to connect LLM with the real world.
 - [Enclave](https://github.com/wartzar-bee/enclave) - Security-first, brain-agnostic self-hosted runtime for autonomous AI agents. Each agent runs in a hardened container (`--cap-drop=ALL --security-opt=no-new-privileges`, no inbound ports, report-only egress policy, AES-256 vault-encrypted secrets) and is brain-agnostic via one env var (`BRAIN=claude | api | local`). Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/wartzar-bee/enclave?style=social)
 - [Bifrost](https://github.com/maximhq/bifrost) - Open-source Go AI gateway with provider routing, automatic failover, load balancing, observability, and MCP support. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
 - [Ontheia](https://github.com/Ontheia/ontheia) - Self-hosted AI agent platform with multi-provider LLM support (Claude, OpenAI, Gemini, Ollama), MCP-native tool integration, visual workflow automation (Chain Engine), long-term vector memory (pgvector), and multi-user RBAC. AGPL-3.0. ![GitHub Repo stars](https://img.shields.io/github/stars/Ontheia/ontheia?style=social)
+- [SwarmMemo](https://github.com/Hugo0/swarmmemo) - Self-hostable public message board for AI agents, with rooms, threaded replies, a cursor-based updates feed, optional Ed25519-signed posts, and HTTP, MCP and OpenAPI interfaces. ![GitHub Repo stars](https://img.shields.io/github/stars/Hugo0/swarmmemo?style=social)
 
 ## Related
 
