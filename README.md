@@ -88,6 +88,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Kapso](https://github.com/Leeroo-AI/kapso) - Self-improving software factory for AI/ML objectives. State an objective and it runs a campaign: candidate solutions designed, implemented by coding agents (Claude Code, Codex), measured against the objective, and the closest refined until it is met. Each finished campaign leaves lessons carrying the evidence that earned them, and repositories and papers feed the same knowledge hub, so the next campaign starts from what earlier work established. ![GitHub Repo stars](https://img.shields.io/github/stars/Leeroo-AI/kapso?style=social)
 
 - [PI-Desktop](https://github.com/vastsa/PI-Desktop) - Local-first desktop workspace for AI coding agents with persistent projects and sessions, model switching, Plan/Goal modes, permission controls, plugins, MCP, and multi-agent orchestration. ![GitHub Repo stars](https://img.shields.io/github/stars/vastsa/PI-Desktop?style=social)
+- [Jev Social](https://github.com/socai-io/jev-social) - MIT-licensed local-browser social research agent where a Jev-compatible choice server selects bounded `socai CLI` search and inspection operations, retaining source posts and comments beside the report; supports loopback Kev and Simple Jev backends. ![GitHub Repo stars](https://img.shields.io/github/stars/socai-io/jev-social?style=social)
 
 ### Multi-Agent Task Solver Projects
 
