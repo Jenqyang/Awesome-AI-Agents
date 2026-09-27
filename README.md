@@ -147,6 +147,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [CoWorker Protocol](https://github.com/ZiwayZhao/agent-coworker) - P2P agent collaboration over XMTP with schema-based skill invocation, E2E encryption, and revocable trust. Agents share capabilities without exposing code. ![GitHub Repo stars](https://img.shields.io/github/stars/ZiwayZhao/agent-coworker?style=social)
 - [inspeximus](https://github.com/DanceNitra/inspeximus) - Memory component for long-running agents: a correction retires the old value by key, revert() undoes the correction from a plain instruction, and every write leaves a verifiable receipt. Deterministic, no model in the loop, one zero-dependency file.
 - [zer0dex](https://github.com/hermes-labs-ai/zer0dex) - Local dual-layer memory pattern for AI agents: a compact, human-readable markdown index paired with semantic retrieval from a local vector store, queried before each message. For cross-project recall where flat memory files or vector-only RAG fall short. ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-labs-ai/zer0dex?style=social)
+- [familiar-contract](https://github.com/OpenCoven/familiar-contract) - Open specification (RFC, JSON Schema, and reference validator) for persistent agent identity, bounded authority, memory, and protected self-modification boundaries. ![GitHub Repo stars](https://img.shields.io/github/stars/OpenCoven/familiar-contract?style=social)
 
 ### Tools
 
