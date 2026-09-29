@@ -92,6 +92,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Orbi](https://github.com/orbi-build/orbi) - Self-hosted coding agent that takes a labelled GitHub Issue through implementation, a separate review session against the Issue's acceptance criteria, merge of the reviewed head, and a tagged release. ![GitHub Repo stars](https://img.shields.io/github/stars/orbi-build/orbi?style=social)
 
 - [PersonalJarvis](https://github.com/PersonalJarvis/PersonalJarvis) - Cross-platform desktop assistant with chat and voice, background agents, browser and desktop computer use, plugins and MCP, memory, and scheduled routines, plus a workspace that runs CLI coding agents side by side in Git worktrees. ![GitHub Repo stars](https://img.shields.io/github/stars/PersonalJarvis/PersonalJarvis?style=social)
+- [Jev Social](https://github.com/socai-io/jev-social) - MIT-licensed local-browser social research agent where a Jev-compatible choice server selects bounded `socai CLI` search and inspection operations, retaining source posts and comments beside the report; supports loopback Kev and Simple Jev backends. ![GitHub Repo stars](https://img.shields.io/github/stars/socai-io/jev-social?style=social)
 
 ### Multi-Agent Task Solver Projects
 
