@@ -89,6 +89,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Self-hosted, open-source AI browser agent that browses, clicks, types and reads real web pages from plain-English instructions; runs locally on a patched Firefox engine and ships as an MCP server and a local web UI. ![GitHub Repo stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright_mcp?style=social)
 
 - [PI-Desktop](https://github.com/vastsa/PI-Desktop) - Local-first desktop workspace for AI coding agents with persistent projects and sessions, model switching, Plan/Goal modes, permission controls, plugins, MCP, and multi-agent orchestration. ![GitHub Repo stars](https://img.shields.io/github/stars/vastsa/PI-Desktop?style=social)
+- [Orbi](https://github.com/orbi-build/orbi) - Self-hosted coding agent that takes a labelled GitHub Issue through implementation, a separate review session against the Issue's acceptance criteria, merge of the reviewed head, and a tagged release. ![GitHub Repo stars](https://img.shields.io/github/stars/orbi-build/orbi?style=social)
 
 ### Multi-Agent Task Solver Projects
 
