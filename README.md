@@ -150,6 +150,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 ### Tools
 
+- [JDE](https://github.com/Titanium-Devops/jde) - Jev Decision Engine: one place where an agent's judgments are asked, thresholded against a configurable confidence bar, and recorded. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/Titanium-Devops/jde?style=social)
 - [Oathra](https://github.com/FORIFOR/oathra) - Apache-2.0 TypeScript runtime for phone agents with a standalone evidence-verification engine; anchors result fields to callee utterances and applies deterministic completion rules, with a simulator and adversarial tests. ![GitHub Repo stars](https://img.shields.io/github/stars/FORIFOR/oathra?style=social)
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) - Cross-platform desktop host for installing, running, health-checking, and supervising DeepSeek Harness locally. ![GitHub Repo stars](https://img.shields.io/github/stars/Moresyl/dsh-studio?style=social)
 - [Lians](https://github.com/Lians-ai/Lians) - Local-first memory layer for AI agents with MCP, Python, and TypeScript interfaces; SQLite-backed recall, user-controlled inspection/correction/deletion, and point-in-time memory receipts. ![GitHub Repo stars](https://img.shields.io/github/stars/Lians-ai/Lians?style=social)
