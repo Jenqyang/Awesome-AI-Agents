@@ -91,6 +91,8 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [PI-Desktop](https://github.com/vastsa/PI-Desktop) - Local-first desktop workspace for AI coding agents with persistent projects and sessions, model switching, Plan/Goal modes, permission controls, plugins, MCP, and multi-agent orchestration. ![GitHub Repo stars](https://img.shields.io/github/stars/vastsa/PI-Desktop?style=social)
 - [Orbi](https://github.com/orbi-build/orbi) - Self-hosted coding agent that takes a labelled GitHub Issue through implementation, a separate review session against the Issue's acceptance criteria, merge of the reviewed head, and a tagged release. ![GitHub Repo stars](https://img.shields.io/github/stars/orbi-build/orbi?style=social)
 
+- [PersonalJarvis](https://github.com/PersonalJarvis/PersonalJarvis) - Cross-platform desktop assistant with chat and voice, background agents, browser and desktop computer use, plugins and MCP, memory, and scheduled routines, plus a workspace that runs CLI coding agents side by side in Git worktrees. ![GitHub Repo stars](https://img.shields.io/github/stars/PersonalJarvis/PersonalJarvis?style=social)
+
 ### Multi-Agent Task Solver Projects
 
 Open-source Large Language Model (LLM) driven Multi-Agent that can automatically solve various tasks.
