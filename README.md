@@ -92,6 +92,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Orbi](https://github.com/orbi-build/orbi) - Self-hosted coding agent that takes a labelled GitHub Issue through implementation, a separate review session against the Issue's acceptance criteria, merge of the reviewed head, and a tagged release. ![GitHub Repo stars](https://img.shields.io/github/stars/orbi-build/orbi?style=social)
 
 - [PersonalJarvis](https://github.com/PersonalJarvis/PersonalJarvis) - Cross-platform desktop assistant with chat and voice, background agents, browser and desktop computer use, plugins and MCP, memory, and scheduled routines, plus a workspace that runs CLI coding agents side by side in Git worktrees. ![GitHub Repo stars](https://img.shields.io/github/stars/PersonalJarvis/PersonalJarvis?style=social)
+- [Skyvern](https://github.com/Skyvern-AI/skyvern) - Automates browser workflows with LLMs and computer vision: logs in to portals, fills out forms, downloads files, and extracts structured data. ![GitHub Repo stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social)
 
 ### Multi-Agent Task Solver Projects
 
