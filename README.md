@@ -135,6 +135,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [YYLO](https://github.com/yylo-dev/yylo) - Kanban-driven CLI orchestrator that runs coding agents (Claude Code, Codex, Gemini CLI) in parallel across isolated git worktrees, with a merge queue that reviews and merges verified task work. ![GitHub Repo stars](https://img.shields.io/github/stars/yylo-dev/yylo?style=social)
 - [OpenBot](https://github.com/regnull/openbot) - Self-hosted platform where persistent bots with tools, MCP servers, and long-term memory hand work to each other in shared threads and can stop to ask a human before a sensitive action. ![GitHub Repo stars](https://img.shields.io/github/stars/regnull/openbot?style=social)
 - [Raven](https://github.com/EverMind-AI/Raven) - Open-source host agent that plans complex tasks as DAGs and orchestrates built-in research, coding, design, and on-call agents plus third-party agents such as Claude Code, Codex, OpenClaw, and Hermes Agent over ACP, CLI, or OpenAI-compatible APIs. ![GitHub Repo stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=social)
+- [Tale](https://github.com/tale-project/tale) - MIT-licensed project workspace that coordinates people and AI agents through shared tasks, manager delegation, persistent sandboxes, and human review of reports and delivered files. ![GitHub Repo stars](https://img.shields.io/github/stars/tale-project/tale?style=social)
 
 ### Agent Society Simulation
 
