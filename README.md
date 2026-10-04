@@ -318,6 +318,8 @@ Able to connect LLM with the real world.
 
 ![](./images/system_design.png)
 
+- [Kortix](https://github.com/kortix-ai/suna) - The open-source AI Management System: agents, skills, memory and connectors in one git repo you own, an isolated Linux machine per session, and a change-request gate on every change. Self-host or managed cloud. ![GitHub Repo stars](https://img.shields.io/github/stars/kortix-ai/suna?style=social)
+
 - [Agentfield](https://github.com/Agent-Field/agentfield) - An open source Kubernetes-style control plane for deploying AI agents as distributed microservices, with built-in service discovery, durable workflows, and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Field/agentfield?style=social)
 - [Nora](https://github.com/solomon2773/nora) - Self-hosted control plane for deploying and operating OpenClaw and Hermes agent fleets on Docker or Kubernetes, with lifecycle controls, monitoring, budgets, schedules, and per-agent cost tracking. ![GitHub Repo stars](https://img.shields.io/github/stars/solomon2773/nora?style=social)
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
