@@ -93,6 +93,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 
 - [PersonalJarvis](https://github.com/PersonalJarvis/PersonalJarvis) - Cross-platform desktop assistant with chat and voice, background agents, browser and desktop computer use, plugins and MCP, memory, and scheduled routines, plus a workspace that runs CLI coding agents side by side in Git worktrees. ![GitHub Repo stars](https://img.shields.io/github/stars/PersonalJarvis/PersonalJarvis?style=social)
 - [Jev Social](https://github.com/socai-io/jev-social) - MIT-licensed local-browser social research agent where a Jev-compatible choice server selects bounded `socai CLI` search and inspection operations, retaining source posts and comments beside the report; supports loopback Kev and Simple Jev backends. ![GitHub Repo stars](https://img.shields.io/github/stars/socai-io/jev-social?style=social)
+- [mu](https://github.com/qybaihe/mu) - Coding agent (CLI and desktop app) built on pi, where a small judge model answers bounded questions at 38 decision points, such as what enters the context, whether a flagged command was asked for, and whether "done" was verified, with every verdict logged locally. ![GitHub Repo stars](https://img.shields.io/github/stars/qybaihe/mu?style=social)
 - [Mixdog](https://github.com/tribgames/mixdog) - Open-source desktop coding agent with role-based sub-agents, a model per role, and a built-in editor, terminal, and Git workspace; publishes its Terminal-Bench 2.1 runs against Codex CLI. ![GitHub Repo stars](https://img.shields.io/github/stars/tribgames/mixdog?style=social)
 
 ### Multi-Agent Task Solver Projects
@@ -136,6 +137,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [YYLO](https://github.com/yylo-dev/yylo) - Kanban-driven CLI orchestrator that runs coding agents (Claude Code, Codex, Gemini CLI) in parallel across isolated git worktrees, with a merge queue that reviews and merges verified task work. ![GitHub Repo stars](https://img.shields.io/github/stars/yylo-dev/yylo?style=social)
 - [OpenBot](https://github.com/regnull/openbot) - Self-hosted platform where persistent bots with tools, MCP servers, and long-term memory hand work to each other in shared threads and can stop to ask a human before a sensitive action. ![GitHub Repo stars](https://img.shields.io/github/stars/regnull/openbot?style=social)
 - [Raven](https://github.com/EverMind-AI/Raven) - Open-source host agent that plans complex tasks as DAGs and orchestrates built-in research, coding, design, and on-call agents plus third-party agents such as Claude Code, Codex, OpenClaw, and Hermes Agent over ACP, CLI, or OpenAI-compatible APIs. ![GitHub Repo stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=social)
+- [somora](https://github.com/thenaxon/somora_agent) - Self-hosted server that runs a team of personal AI agents, each with its own persona and private memory, a shared long-term wiki the agents consolidate in background "dream" cycles, and conversations that switch between Claude, ChatGPT/Codex and OpenAI-compatible local models. ![GitHub Repo stars](https://img.shields.io/github/stars/thenaxon/somora_agent?style=social)
 
 ### Agent Society Simulation
 
@@ -218,6 +220,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Busabase](https://github.com/busabase/busabase) - Open-source database and workspace for AI agents to manage typed tables, fields, views, records, docs, files, and search; writes can become ChangeRequests for human review. Streamable HTTP MCP server, local-first with PGlite, and self-hostable. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/busabase/busabase?style=social)
 - [SUNGLASSES](https://github.com/sunglasses-dev/sunglasses) - MIT licensed input firewall for AI agents that scans text and files locally for prompt injection, credential leaks and data exfiltration with 1,554 patterns across 118 categories; ships as a CLI, a Python API and an MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/sunglasses-dev/sunglasses?style=social)
 - [agent-manager](https://github.com/YoanWai/agent-manager) - Terminal UI that runs coding-agent CLIs such as OpenCode, Pi, Codex, Gemini CLI and Claude Code side by side, each in its own persistent tmux session, with live status, git worktrees, diff review and an MCP server that lets one agent spawn and message another session. Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/YoanWai/agent-manager?style=social)
+- [Oh My Android](https://github.com/ateymoori/oh-my-android) - MIT-licensed native macOS app with a built-in MCP server that lets coding agents see and drive the Android Emulator and phones over adb. ![GitHub Repo stars](https://img.shields.io/github/stars/ateymoori/oh-my-android?style=social)
 
 ## Frameworks
 
@@ -284,6 +287,7 @@ Quickly build and customize agents.
 - [fractal](https://github.com/plasma-ai/fractal) - Hierarchical agent loops that self-organize into a tree, where each node iterates in its own git worktree and spawns children for subtasks, bounded by caps on depth, cost, and time. ![GitHub Repo stars](https://img.shields.io/github/stars/plasma-ai/fractal?style=social)
 - [FastAgent](https://github.com/fastagent-sh/fastagent) - Serving layer that turns an existing agent directory (persona.md, skills/, tools/, channels/) into a live service without a rewrite: embed it behind a route in a Next/Hono/Node app, or run it as a GitHub, Telegram, Slack, or HTTP/SSE service with cron schedules. Engine-, model-, and host-neutral around a single `invoke` contract. MIT, TypeScript. ![GitHub Repo stars](https://img.shields.io/github/stars/fastagent-sh/fastagent?style=social)
 - [Strands Agents](https://github.com/strands-agents/harness-sdk) - Open-source SDK for building AI agents in Python and TypeScript, with an in-process agent loop, tools, MCP, multi-agent patterns, and pluggable model providers. ![GitHub Repo stars](https://img.shields.io/github/stars/strands-agents/harness-sdk?style=social)
+- [Pydantic Deep Agents](https://github.com/vstorm-co/pydantic-deepagents) - Python agent framework and terminal coding agent built on Pydantic AI, with planning, sub-agents, file and shell tools, MCP and optional Docker sandboxing. ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/pydantic-deepagents?style=social)
 
 
 ## Benchmark/Evaluator
@@ -340,6 +344,7 @@ Able to connect LLM with the real world.
 - [Enclave](https://github.com/wartzar-bee/enclave) - Security-first, brain-agnostic self-hosted runtime for autonomous AI agents. Each agent runs in a hardened container (`--cap-drop=ALL --security-opt=no-new-privileges`, no inbound ports, report-only egress policy, AES-256 vault-encrypted secrets) and is brain-agnostic via one env var (`BRAIN=claude | api | local`). Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/wartzar-bee/enclave?style=social)
 - [Bifrost](https://github.com/maximhq/bifrost) - Open-source Go AI gateway with provider routing, automatic failover, load balancing, observability, and MCP support. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
 - [Ontheia](https://github.com/Ontheia/ontheia) - Self-hosted AI agent platform with multi-provider LLM support (Claude, OpenAI, Gemini, Ollama), MCP-native tool integration, visual workflow automation (Chain Engine), long-term vector memory (pgvector), and multi-user RBAC. AGPL-3.0. ![GitHub Repo stars](https://img.shields.io/github/stars/Ontheia/ontheia?style=social)
+- [AgenticOS](https://github.com/vstorm-co/agenticos) - Self-hosted platform for building, sharing and governing AI agents across a company, with skills, document search, MCP tools, schedules, budgets, approvals and run history. Built on Pydantic AI. ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/agenticos?style=social)
 
 ## Related
 
