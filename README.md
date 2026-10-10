@@ -160,6 +160,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 ### Tools
 
+- [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) - Free MIT skill library with a deterministic intake router and 61 copy-paste SKILL.md specialists. ![GitHub Repo stars](https://img.shields.io/github/stars/Shaisolaris/solaris-dev-shop?style=social)
 - [Oathra](https://github.com/FORIFOR/oathra) - Apache-2.0 TypeScript runtime for phone agents with a standalone evidence-verification engine; anchors result fields to callee utterances and applies deterministic completion rules, with a simulator and adversarial tests. ![GitHub Repo stars](https://img.shields.io/github/stars/FORIFOR/oathra?style=social)
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) - Cross-platform desktop host for installing, running, health-checking, and supervising DeepSeek Harness locally. ![GitHub Repo stars](https://img.shields.io/github/stars/Moresyl/dsh-studio?style=social)
 - [Lians](https://github.com/Lians-ai/Lians) - Local-first memory layer for AI agents with MCP, Python, and TypeScript interfaces; SQLite-backed recall, user-controlled inspection/correction/deletion, and point-in-time memory receipts. ![GitHub Repo stars](https://img.shields.io/github/stars/Lians-ai/Lians?style=social)
