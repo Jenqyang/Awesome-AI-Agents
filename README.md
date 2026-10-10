@@ -374,7 +374,7 @@ Able to connect LLM with the real world.
 - [ICLR'24 上大型语言模型代理的最新研究进展 | 代理评估重点](https://medium.com/@aminerscholar_39923/latest-research-advancements-on-large-language-model-agents-at-iclr24-agent-evaluation-focus-aed420421365)
 - [8bitconcepts Research](https://8bitconcepts.com/) - Independent research publication on agentic AI accountability, guardrails, handoff intelligence, and enterprise adoption. Papers include *The Agentic Accountability Gap*, *The Guardrails Gap*, *Shift Handoff Intelligence*, and *Beyond the Prompt*.
 - [When not to build an agent](https://loopandretry.github.io/posts/when-not-to-build-an-agent/) - A practitioner's decision framework for when a deterministic pipeline beats an autonomous agent, matching each task to the least-powerful reliable tool.
-
+- [Instinct Tasks](https://instincttasks.com/) - Independent, unofficial guide to sourced Instinct AI tasks, with inputs, steps and points requiring human approval.
 
 ## Reference Repo
 
