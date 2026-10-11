@@ -101,6 +101,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 
 ![](./images/multi-agent.png)
 
+- [AAA AGI](https://github.com/pokidov/aaaagi) - Open platform for orchestrating autonomous AI agent squads across macOS, iOS, Android, Linux, and Windows with local LLMs (Ollama, llama.cpp, MLX), Model Context Protocol (MCP) server, and real-time meeting notes. ([aaaai.me](https://aaaai.me/)) ![GitHub Repo stars](https://img.shields.io/github/stars/pokidov/aaaagi?style=social)
 - [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
 - [ClawFleet](https://github.com/weiyong1024/ClawFleet) - Self-hosted AI fleet management with browser dashboard, Docker isolation, and bot-to-bot collaboration in Discord. ![GitHub Repo
