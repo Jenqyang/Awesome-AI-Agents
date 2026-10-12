@@ -220,6 +220,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [SUNGLASSES](https://github.com/sunglasses-dev/sunglasses) - MIT licensed input firewall for AI agents that scans text and files locally for prompt injection, credential leaks and data exfiltration with 1,554 patterns across 118 categories; ships as a CLI, a Python API and an MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/sunglasses-dev/sunglasses?style=social)
 - [agent-manager](https://github.com/YoanWai/agent-manager) - Terminal UI that runs coding-agent CLIs such as OpenCode, Pi, Codex, Gemini CLI and Claude Code side by side, each in its own persistent tmux session, with live status, git worktrees, diff review and an MCP server that lets one agent spawn and message another session. Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/YoanWai/agent-manager?style=social)
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) - MIT-licensed native macOS app with a built-in MCP server that lets coding agents see and drive the Android Emulator and phones over adb. ![GitHub Repo stars](https://img.shields.io/github/stars/ateymoori/oh-my-android?style=social)
+- [OpenConnector](https://github.com/oomol-lab/open-connector) - Self-hostable connector gateway for AI agents with SaaS action discovery and execution, OAuth/API-key credential management, and scoped MCP and HTTP access. ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social)
 
 ## Frameworks
 
