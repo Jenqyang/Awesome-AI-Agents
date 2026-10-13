@@ -292,6 +292,7 @@ Quickly build and customize agents.
 - [FastAgent](https://github.com/fastagent-sh/fastagent) - Serving layer that turns an existing agent directory (persona.md, skills/, tools/, channels/) into a live service without a rewrite: embed it behind a route in a Next/Hono/Node app, or run it as a GitHub, Telegram, Slack, or HTTP/SSE service with cron schedules. Engine-, model-, and host-neutral around a single `invoke` contract. MIT, TypeScript. ![GitHub Repo stars](https://img.shields.io/github/stars/fastagent-sh/fastagent?style=social)
 - [Strands Agents](https://github.com/strands-agents/harness-sdk) - Open-source SDK for building AI agents in Python and TypeScript, with an in-process agent loop, tools, MCP, multi-agent patterns, and pluggable model providers. ![GitHub Repo stars](https://img.shields.io/github/stars/strands-agents/harness-sdk?style=social)
 - [Pydantic Deep Agents](https://github.com/vstorm-co/pydantic-deepagents) - Python agent framework and terminal coding agent built on Pydantic AI, with planning, sub-agents, file and shell tools, MCP and optional Docker sandboxing. ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/pydantic-deepagents?style=social)
+- [apowerb](https://github.com/apowerb/apowerb) - Open-source platform to build, run and govern AI agents in production on ADK and LiteLLM, with RAG, Text-to-SQL, MCP tools, token quotas and per-session audit. ![GitHub Repo stars](https://img.shields.io/github/stars/apowerb/apowerb?style=social)
 
 
 ## Benchmark/Evaluator
