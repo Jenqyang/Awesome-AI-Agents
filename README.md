@@ -345,6 +345,7 @@ Able to connect LLM with the real world.
 - [Bifrost](https://github.com/maximhq/bifrost) - Open-source Go AI gateway with provider routing, automatic failover, load balancing, observability, and MCP support. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
 - [Ontheia](https://github.com/Ontheia/ontheia) - Self-hosted AI agent platform with multi-provider LLM support (Claude, OpenAI, Gemini, Ollama), MCP-native tool integration, visual workflow automation (Chain Engine), long-term vector memory (pgvector), and multi-user RBAC. AGPL-3.0. ![GitHub Repo stars](https://img.shields.io/github/stars/Ontheia/ontheia?style=social)
 - [AgenticOS](https://github.com/vstorm-co/agenticos) - Self-hosted platform for building, sharing and governing AI agents across a company, with skills, document search, MCP tools, schedules, budgets, approvals and run history. Built on Pydantic AI. ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/agenticos?style=social)
+- [three.ws](https://github.com/nirholas/three.ws) - Apache-2.0 platform for 3D AI agents: rigged, animated GLB avatars with an LLM brain, memory and a Solana wallet, embeddable through an `<agent-3d>` web component, with a remote MCP server for agent tooling. ![GitHub Repo stars](https://img.shields.io/github/stars/nirholas/three.ws?style=social)
 
 ## Related
 
