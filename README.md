@@ -350,6 +350,7 @@ Able to connect LLM with the real world.
 - [Bifrost](https://github.com/maximhq/bifrost) - Open-source Go AI gateway with provider routing, automatic failover, load balancing, observability, and MCP support. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
 - [Ontheia](https://github.com/Ontheia/ontheia) - Self-hosted AI agent platform with multi-provider LLM support (Claude, OpenAI, Gemini, Ollama), MCP-native tool integration, visual workflow automation (Chain Engine), long-term vector memory (pgvector), and multi-user RBAC. AGPL-3.0. ![GitHub Repo stars](https://img.shields.io/github/stars/Ontheia/ontheia?style=social)
 - [AgenticOS](https://github.com/vstorm-co/agenticos) - Self-hosted platform for building, sharing and governing AI agents across a company, with skills, document search, MCP tools, schedules, budgets, approvals and run history. Built on Pydantic AI. ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/agenticos?style=social)
+- [google-hotels-mcp](https://github.com/huynhtanan/google-hotels-mcp) - MIT-licensed Python MCP server for Google Hotels, Google Vacation Rentals, and the 3-month daily hotel price calendar — wraps three Apify actors to expose cross-OTA rates (Booking.com, Expedia, Agoda, Vrbo) and amenity names as three MCP tools. Pay-per-result on Apify, free install via `uvx`.
 
 ## Related
 
