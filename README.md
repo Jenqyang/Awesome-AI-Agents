@@ -226,6 +226,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) - MIT-licensed native macOS app with a built-in MCP server that lets coding agents see and drive the Android Emulator and phones over adb. ![GitHub Repo stars](https://img.shields.io/github/stars/ateymoori/oh-my-android?style=social)
 - [Reel Agent](https://github.com/HNF-FRN/Reel-watcher-telegram-Agent) - Self-hosted Telegram agent that breaks down short videos locally (Whisper transcript, OCR, extracted commands, repos and links) and plans and builds what they show with open models, asking on the phone before each shell command. ![GitHub Repo stars](https://img.shields.io/github/stars/HNF-FRN/Reel-watcher-telegram-Agent?style=social)
 
+- [claw-kit](https://github.com/chanyuenpang/claw-kit) - A better harness for beginners: plans and tasks live in the repo so coding agents (Codex, DeepSeek Harness, Claude Code and others) can resume work across sessions, with project notes and local recall search. ![GitHub Repo stars](https://img.shields.io/github/stars/chanyuenpang/claw-kit?style=social)
 ## Frameworks
 
 Quickly build and customize agents.
