@@ -232,6 +232,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) - MIT-licensed native macOS app with a built-in MCP server that lets coding agents see and drive the Android Emulator and phones over adb. ![GitHub Repo stars](https://img.shields.io/github/stars/ateymoori/oh-my-android?style=social)
 - [Reel Agent](https://github.com/HNF-FRN/Reel-watcher-telegram-Agent) - Self-hosted Telegram agent that breaks down short videos locally (Whisper transcript, OCR, extracted commands, repos and links) and plans and builds what they show with open models, asking on the phone before each shell command. ![GitHub Repo stars](https://img.shields.io/github/stars/HNF-FRN/Reel-watcher-telegram-Agent?style=social)
 - [Firecrawl](https://github.com/firecrawl/firecrawl) - AGPL-3.0 web data API for AI agents: search, scrape and crawl pages into markdown or structured JSON, with a self-hostable Docker Compose stack, an MCP server and SDKs. ![GitHub Repo stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social)
+- [Agent Verifier](https://github.com/Aurite-ai/agent-verifier) - MIT-licensed Claude Code skill set that reviews LangGraph, CrewAI, AutoGen, and LangChain agent code for unbounded loops and retries, hallucinated tool references, oversized prompts, and hardcoded secrets; findings are model-generated and each is tagged as pattern-based or heuristic. ![GitHub Repo stars](https://img.shields.io/github/stars/Aurite-ai/agent-verifier?style=social)
 
 ## Frameworks
 
