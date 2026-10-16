@@ -233,6 +233,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Reel Agent](https://github.com/HNF-FRN/Reel-watcher-telegram-Agent) - Self-hosted Telegram agent that breaks down short videos locally (Whisper transcript, OCR, extracted commands, repos and links) and plans and builds what they show with open models, asking on the phone before each shell command. ![GitHub Repo stars](https://img.shields.io/github/stars/HNF-FRN/Reel-watcher-telegram-Agent?style=social)
 - [Firecrawl](https://github.com/firecrawl/firecrawl) - AGPL-3.0 web data API for AI agents: search, scrape and crawl pages into markdown or structured JSON, with a self-hostable Docker Compose stack, an MCP server and SDKs. ![GitHub Repo stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social)
 
+- [claw-kit](https://github.com/chanyuenpang/claw-kit) - A better harness for beginners: plans and tasks live in the repo so coding agents (Codex, DeepSeek Harness, Claude Code and others) can resume work across sessions, with project notes and local recall search. ![GitHub Repo stars](https://img.shields.io/github/stars/chanyuenpang/claw-kit?style=social)
 ## Frameworks
 
 Quickly build and customize agents.
