@@ -142,6 +142,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [somora](https://github.com/thenaxon/somora_agent) - Self-hosted server that runs a team of personal AI agents, each with its own persona and private memory, a shared long-term wiki the agents consolidate in background "dream" cycles, and conversations that switch between Claude, ChatGPT/Codex and OpenAI-compatible local models. ![GitHub Repo stars](https://img.shields.io/github/stars/thenaxon/somora_agent?style=social)
 - [Markus](https://github.com/markus-global/markus) - Open-source AI workforce platform for building and running teams of AI agents with roles, task delegation, persistent memory, and inter-agent communication. ![GitHub Repo stars](https://img.shields.io/github/stars/markus-global/markus?style=social)
 - [Crewly](https://github.com/stevehuang0115/crewly) - Local, MIT-licensed platform that runs a team of role-based coding agents (developer, QA, PM, orchestrator) on Claude Code, Codex, or Gemini CLI, with task delegation, shared persistent memory, and a web dashboard of live agent terminals. ![GitHub Repo stars](https://img.shields.io/github/stars/stevehuang0115/crewly?style=social)
+- [Station](https://github.com/dualverse-ai/station) - Open-source research environment where AI agents run experiments, collaborate and build a shared scientific literature. ![GitHub Repo stars](https://img.shields.io/github/stars/dualverse-ai/station?style=social)
 
 ### Agent Society Simulation
 
