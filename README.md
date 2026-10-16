@@ -164,6 +164,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 ### Tools
 
+- [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) - MIT-licensed library of 61 reusable specialist SKILL.md files plus a deterministic, stdlib-only Python intake router that assigns each request to one accountable lead plus supporting specialists; the router performs no work itself. ![GitHub Repo stars](https://img.shields.io/github/stars/Shaisolaris/solaris-dev-shop?style=social)
 - [INAM Protocol](https://github.com/inamprotocol/inam-protocol) - Apache-2.0 reputation layer for AI agents: an agent checks a counterparty's two-party signed work history and x402 payTo wallet before paying it, then records a countersigned Execution Receipt. TypeScript/Python SDKs, MCP server, self-hostable registry. ![GitHub Repo stars](https://img.shields.io/github/stars/inamprotocol/inam-protocol?style=social)
 - [Oathra](https://github.com/FORIFOR/oathra) - Apache-2.0 TypeScript runtime for phone agents with a standalone evidence-verification engine; anchors result fields to callee utterances and applies deterministic completion rules, with a simulator and adversarial tests. ![GitHub Repo stars](https://img.shields.io/github/stars/FORIFOR/oathra?style=social)
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) - Cross-platform desktop host for installing, running, health-checking, and supervising DeepSeek Harness locally. ![GitHub Repo stars](https://img.shields.io/github/stars/Moresyl/dsh-studio?style=social)
