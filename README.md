@@ -95,6 +95,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Jev Social](https://github.com/socai-io/jev-social) - MIT-licensed local-browser social research agent where a Jev-compatible choice server selects bounded `socai CLI` search and inspection operations, retaining source posts and comments beside the report; supports loopback Kev and Simple Jev backends. ![GitHub Repo stars](https://img.shields.io/github/stars/socai-io/jev-social?style=social)
 - [mu](https://github.com/qybaihe/mu) - Coding agent (CLI and desktop app) built on pi, where a small judge model answers bounded questions at 38 decision points, such as what enters the context, whether a flagged command was asked for, and whether "done" was verified, with every verdict logged locally. ![GitHub Repo stars](https://img.shields.io/github/stars/qybaihe/mu?style=social)
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) - Automates browser workflows with LLMs and computer vision: logs in to portals, fills out forms, downloads files, and extracts structured data. ![GitHub Repo stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social)
+- [Mixdog](https://github.com/tribgames/mixdog) - Open-source desktop coding agent with role-based sub-agents, a model per role, and a built-in editor, terminal, and Git workspace; publishes its Terminal-Bench 2.1 runs against Codex CLI. ![GitHub Repo stars](https://img.shields.io/github/stars/tribgames/mixdog?style=social)
 
 ### Multi-Agent Task Solver Projects
 
