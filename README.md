@@ -330,6 +330,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [STRATA-Bench](https://github.com/movahedi-ca/strata-bench) - Benchmark for AI agents on fragmented spatial-temporal market intelligence; scores how agents handle uncertainty through disclosure, tagging, refusal, or modeling. ![GitHub Repo stars](https://img.shields.io/github/stars/movahedi-ca/strata-bench?style=social)
 - [CloseBench](https://github.com/AndreuwMetal/closebench) - Benchmark for AI sales agents that runs a complete agent (system prompt, tools, guardrails, state) through simulated WhatsApp sales conversations against an LLM-simulated buyer with a hidden budget; one lie, invented price, or ignored opt-out fails the scenario, the LLM judge is anchored on objective facts from mocked Stripe/SQLite, and results report pass^k and cost per conversation. ![GitHub Repo stars](https://img.shields.io/github/stars/AndreuwMetal/closebench?style=social)
 - [Agent-12](https://github.com/nicedreamzapp/agent12) - Benchmark that runs local LLMs through 20 agent tasks (12 easy, 8 hard) in throwaway sandboxes and scores each one by checking the files the model left behind. ![GitHub Repo stars](https://img.shields.io/github/stars/nicedreamzapp/agent12?style=social)
+- [SafetyCard](https://github.com/safetycard/safetycard) - Safety-check MCP servers and AI agents against the OWASP agentic Top 10, and get the safest setup to run them. ![GitHub Repo stars](https://img.shields.io/github/stars/safetycard/safetycard?style=social)
 
 ## Platforms/API
 
