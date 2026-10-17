@@ -97,6 +97,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [mu](https://github.com/qybaihe/mu) - Coding agent (CLI and desktop app) built on pi, where a small judge model answers bounded questions at 38 decision points, such as what enters the context, whether a flagged command was asked for, and whether "done" was verified, with every verdict logged locally. ![GitHub Repo stars](https://img.shields.io/github/stars/qybaihe/mu?style=social)
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) - Automates browser workflows with LLMs and computer vision: logs in to portals, fills out forms, downloads files, and extracts structured data. ![GitHub Repo stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social)
 - [Mixdog](https://github.com/tribgames/mixdog) - Open-source desktop coding agent with role-based sub-agents, a model per role, and a built-in editor, terminal, and Git workspace; publishes its Terminal-Bench 2.1 runs against Codex CLI. ![GitHub Repo stars](https://img.shields.io/github/stars/tribgames/mixdog?style=social)
+- [Octomind](https://github.com/muvon/octomind) - CLI-first coding agent runtime: one binary, any model provider (OpenRouter, Anthropic, OpenAI, DeepSeek, Ollama), MCP-native, with deterministic guardrails as TOML + scripts and adaptive context compression. Runs interactively, piped in CI, as a daemon, over WebSocket, or as an ACP agent. Rust, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/muvon/octomind?style=social)
 
 ### Multi-Agent Task Solver Projects
 
