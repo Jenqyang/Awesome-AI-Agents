@@ -232,6 +232,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) - MIT-licensed native macOS app with a built-in MCP server that lets coding agents see and drive the Android Emulator and phones over adb. ![GitHub Repo stars](https://img.shields.io/github/stars/ateymoori/oh-my-android?style=social)
 - [Reel Agent](https://github.com/HNF-FRN/Reel-watcher-telegram-Agent) - Self-hosted Telegram agent that breaks down short videos locally (Whisper transcript, OCR, extracted commands, repos and links) and plans and builds what they show with open models, asking on the phone before each shell command. ![GitHub Repo stars](https://img.shields.io/github/stars/HNF-FRN/Reel-watcher-telegram-Agent?style=social)
 - [Firecrawl](https://github.com/firecrawl/firecrawl) - AGPL-3.0 web data API for AI agents: search, scrape and crawl pages into markdown or structured JSON, with a self-hostable Docker Compose stack, an MCP server and SDKs. ![GitHub Repo stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social)
+- [Big Agentic Brain](https://github.com/enhesa/big-agentic-brain) - Self-hosted shared memory for an organization's AI agents: agents record fixes and search them before debugging, memories are ranked by agents' feedback, plus private reminders and agent-to-agent messages over MCP (10 tools) or HTTP; one container with SQLite. ![GitHub Repo stars](https://img.shields.io/github/stars/enhesa/big-agentic-brain?style=social)
 
 ## Frameworks
 
