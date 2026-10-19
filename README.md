@@ -300,6 +300,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Agent Adapter](https://github.com/VeloceAI/agent-adapter) - Apache-2.0 Python library that runs one plain-function tool in LangChain, LangGraph, CrewAI, Google ADK, OpenAI Agents SDK, Pydantic AI, DSPy and other frameworks or over MCP/HTTP, with durable human approvals, budgets, cost ledger, guards, caching and OpenTelemetry traces. ![GitHub Repo stars](https://img.shields.io/github/stars/VeloceAI/agent-adapter?style=social)
 
 - [evalid](https://github.com/surlymochan/evalid) - Executable delivery workflows for AI coding agents: delivery phases and acceptance evidence defined in YAML, with red/green TDD proof gates checked by code, driven through the xflow CLI for Codex, Claude Code, and Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/surlymochan/evalid?style=social)
+- [Folio Wiki](https://github.com/evergreen-it-dev/folio) - MIT-licensed, self-hosted team wiki whose pages are Markdown files in Git, with a built-in MCP server that lets agents search, read and edit pages, data tables and whiteboards. ![GitHub Repo stars](https://img.shields.io/github/stars/evergreen-it-dev/folio?style=social)
 
 ## Frameworks
 
