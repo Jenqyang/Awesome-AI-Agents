@@ -143,6 +143,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [Markus](https://github.com/markus-global/markus) - Open-source AI workforce platform for building and running teams of AI agents with roles, task delegation, persistent memory, and inter-agent communication. ![GitHub Repo stars](https://img.shields.io/github/stars/markus-global/markus?style=social)
 - [Crewly](https://github.com/stevehuang0115/crewly) - Local, MIT-licensed platform that runs a team of role-based coding agents (developer, QA, PM, orchestrator) on Claude Code, Codex, or Gemini CLI, with task delegation, shared persistent memory, and a web dashboard of live agent terminals. ![GitHub Repo stars](https://img.shields.io/github/stars/stevehuang0115/crewly?style=social)
 - [Station](https://github.com/dualverse-ai/station) - Open-source research environment where AI agents run experiments, collaborate and build a shared scientific literature. ![GitHub Repo stars](https://img.shields.io/github/stars/dualverse-ai/station?style=social)
+- [Shikidan](https://github.com/LynchzDEV/shiki) - Simple cockpit for any AI agent: one chat runs Claude Code, Codex, GLM, Grok or any CLI agent in separate git worktrees, with cross-model review and plugins. Self-hostable, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/LynchzDEV/shiki?style=social)
 
 ### Agent Society Simulation
 
