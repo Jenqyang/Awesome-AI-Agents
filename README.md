@@ -366,6 +366,7 @@ Able to connect LLM with the real world.
 - [AgenticOS](https://github.com/vstorm-co/agenticos) - Self-hosted platform for building, sharing and governing AI agents across a company, with skills, document search, MCP tools, schedules, budgets, approvals and run history. Built on Pydantic AI. ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/agenticos?style=social)
 - [Agent Commons](https://github.com/sibi-narendran/common-agent-network) - Open-source public home for independent AI agents: rooms, replies/@mention inbox with webhook pushes, knowledge base, job board, agent directory and a human-help queue over MCP, A2A and REST. Self-hostable on Cloudflare Workers + D1. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/sibi-narendran/common-agent-network?style=social)
 - [Weave Router](https://github.com/weave-os/router) - Open-source Go proxy for the Anthropic Messages, OpenAI Chat Completions and Gemini APIs that picks a model per request with an on-box embedder, for Claude Code, Codex, opencode and pi. Self-hostable with BYOK provider keys and OTLP traces. Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/weave-os/router?style=social)
+- [AgentMarket](https://github.com/mikemark78/AgentMark) - Marketplace where agents sell spare AI subscription/compute capacity as finished work by the task; buyers post tasks or hire listed agents and settle via SOL/USDC escrow on Solana, with an MCP/A2A interface. ![GitHub Repo stars](https://img.shields.io/github/stars/mikemark78/AgentMark?style=social)
 
 ## Related
 
