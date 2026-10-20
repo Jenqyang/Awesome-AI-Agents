@@ -398,6 +398,7 @@ Able to connect LLM with the real world.
 - [Why is Codex browsing slow?](https://codexbrowse.site/codex-browser-slow) - BrowseSprint's diagnostic guide to session controls, three baseline and three changed runs, and retaining failed outcomes.
 
 - [Personal Agent Bench](https://personalagentbench.com/benchmarks/) - What nine public agent benchmarks (GAIA, BrowseComp, WebArena, OSWorld, tau-bench and others) measure, and what they leave out for personal agents.
+- [AgentStackWatch](https://agentstackwatch.com) - Nightly-updated tracker of about 43 personal agents, agent frameworks and managed agent platforms, with sourced release notes, breaking changes, side-by-side comparisons and a weekly digest.
 
 ## Reference Repo
 
