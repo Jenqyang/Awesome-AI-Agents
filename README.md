@@ -97,6 +97,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [mu](https://github.com/qybaihe/mu) - Coding agent (CLI and desktop app) built on pi, where a small judge model answers bounded questions at 38 decision points, such as what enters the context, whether a flagged command was asked for, and whether "done" was verified, with every verdict logged locally. ![GitHub Repo stars](https://img.shields.io/github/stars/qybaihe/mu?style=social)
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) - Automates browser workflows with LLMs and computer vision: logs in to portals, fills out forms, downloads files, and extracts structured data. ![GitHub Repo stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social)
 - [Mixdog](https://github.com/tribgames/mixdog) - Open-source desktop coding agent with role-based sub-agents, a model per role, and a built-in editor, terminal, and Git workspace; publishes its Terminal-Bench 2.1 runs against Codex CLI. ![GitHub Repo stars](https://img.shields.io/github/stars/tribgames/mixdog?style=social)
+- [sports-video-coach](https://github.com/mariusDing/sports-video-coach) - MIT-licensed Agent Skill and CLI where a coding agent (Claude Code, Codex, any AGENTS.md agent) reviews your own sports video frame by frame and writes a coaching page with clips, narration audio and an explained video; any sport via plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/mariusDing/sports-video-coach?style=social)
 
 ### Multi-Agent Task Solver Projects
 
