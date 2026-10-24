@@ -247,6 +247,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [ReevesAgents](https://github.com/mertkayacs/reevesagents) - Local workspace that runs coding-agent CLIs (Claude Code, Codex, OpenCode, Kimi, Qwen, Hermes, Aider, and others) side by side in tmux, driven from a TUI, a loopback-only Web UI, or the CLI, with an opt-in stdio MCP server that lets one agent spawn, read, steer, and stop the others. Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/mertkayacs/reevesagents?style=social)
 - [Agent Verifier](https://github.com/Aurite-ai/agent-verifier) - MIT-licensed Claude Code skill set that reviews LangGraph, CrewAI, AutoGen, and LangChain agent code for unbounded loops and retries, hallucinated tool references, oversized prompts, and hardcoded secrets; findings are model-generated and each is tagged as pattern-based or heuristic. ![GitHub Repo stars](https://img.shields.io/github/stars/Aurite-ai/agent-verifier?style=social)
 
+- [claw-kit](https://github.com/chanyuenpang/claw-kit) - A better harness for beginners: plans and tasks live in the repo so coding agents (Codex, DeepSeek Harness, Claude Code and others) can resume work across sessions, with project notes and local recall search. ![GitHub Repo stars](https://img.shields.io/github/stars/chanyuenpang/claw-kit?style=social)
 ## Frameworks
 
 Quickly build and customize agents.
