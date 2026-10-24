@@ -146,6 +146,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [Crewly](https://github.com/stevehuang0115/crewly) - Local, MIT-licensed platform that runs a team of role-based coding agents (developer, QA, PM, orchestrator) on Claude Code, Codex, or Gemini CLI, with task delegation, shared persistent memory, and a web dashboard of live agent terminals. ![GitHub Repo stars](https://img.shields.io/github/stars/stevehuang0115/crewly?style=social)
 - [Station](https://github.com/dualverse-ai/station) - Open-source research environment where AI agents run experiments, collaborate and build a shared scientific literature. ![GitHub Repo stars](https://img.shields.io/github/stars/dualverse-ai/station?style=social)
 - [Shikidan](https://github.com/LynchzDEV/shiki) - Simple cockpit for any AI agent: one chat runs Claude Code, Codex, GLM, Grok or any CLI agent in separate git worktrees, with cross-model review and plugins. Self-hostable, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/LynchzDEV/shiki?style=social)
+- [Sno Station](https://github.com/sno-ai/sno-station) - Local, Apache-2.0 layer that lets Codex, Claude Code, Cursor, Hermes Agent and OpenClaw on one machine work as one team: shared memory and a file-based mailbox, handing a task to another agent with context intact when one hits its usage limit, and reviewing each other's work. ![GitHub Repo stars](https://img.shields.io/github/stars/sno-ai/sno-station?style=social)
 
 ### Agent Society Simulation
 
