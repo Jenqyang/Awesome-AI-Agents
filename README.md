@@ -147,6 +147,8 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [Station](https://github.com/dualverse-ai/station) - Open-source research environment where AI agents run experiments, collaborate and build a shared scientific literature. ![GitHub Repo stars](https://img.shields.io/github/stars/dualverse-ai/station?style=social)
 - [Shikidan](https://github.com/LynchzDEV/shiki) - Simple cockpit for any AI agent: one chat runs Claude Code, Codex, GLM, Grok or any CLI agent in separate git worktrees, with cross-model review and plugins. Self-hostable, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/LynchzDEV/shiki?style=social)
 
+- [ANKITA](https://github.com/akyourowngames/A.N.K.I.T.A) - Desktop and CLI workspace with teammate conversations, bounded subagents, browser and file tools, MCP integrations, and persistent project memory. ![GitHub Repo stars](https://img.shields.io/github/stars/akyourowngames/A.N.K.I.T.A?style=social)
+
 ### Agent Society Simulation
 
 Exploring endless possibilities with open-source agent social simulation.
