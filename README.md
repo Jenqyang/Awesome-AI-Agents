@@ -411,7 +411,7 @@ Able to connect LLM with the real world.
 - [8bitconcepts Research](https://8bitconcepts.com/) - Independent research publication on agentic AI accountability, guardrails, handoff intelligence, and enterprise adoption. Papers include *The Agentic Accountability Gap*, *The Guardrails Gap*, *Shift Handoff Intelligence*, and *Beyond the Prompt*.
 - [When not to build an agent](https://loopandretry.github.io/posts/when-not-to-build-an-agent/) - A practitioner's decision framework for when a deterministic pipeline beats an autonomous agent, matching each task to the least-powerful reliable tool.
 - [Why is Codex browsing slow?](https://codexbrowse.site/codex-browser-slow) - BrowseSprint's diagnostic guide to session controls, three baseline and three changed runs, and retaining failed outcomes.
-
+- [Run agents on a Prized box with OpenRouter models](https://takibibase.com/learn/prized-openrouter-agents) - How-to guide for running a two-stage drafter-and-reviewer task worker with the pi harness over Tailscale Funnel, host-scoped secret brokering, and a six-model comparison on a real research card.
 - [Personal Agent Bench](https://personalagentbench.com/benchmarks/) - What nine public agent benchmarks (GAIA, BrowseComp, WebArena, OSWorld, tau-bench and others) measure, and what they leave out for personal agents.
 - [AgentStackWatch](https://agentstackwatch.com) - Nightly-updated tracker of about 43 personal agents, agent frameworks and managed agent platforms, with sourced release notes, breaking changes, side-by-side comparisons and a weekly digest.
 
