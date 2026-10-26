@@ -99,6 +99,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) - Automates browser workflows with LLMs and computer vision: logs in to portals, fills out forms, downloads files, and extracts structured data. ![GitHub Repo stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social)
 - [Mixdog](https://github.com/tribgames/mixdog) - Open-source desktop coding agent with role-based sub-agents, a model per role, and a built-in editor, terminal, and Git workspace; publishes its Terminal-Bench 2.1 runs against Codex CLI. ![GitHub Repo stars](https://img.shields.io/github/stars/tribgames/mixdog?style=social)
 - [JobAppAgent](https://github.com/vaibhavarora14/job-application-agent) - MIT-licensed open-source AI job application agent (Agent Skill and CLI) that matches roles to one verified résumé, fills employer ATS forms within your rules, and tracks confirmed submissions in a local ledger. ![GitHub Repo stars](https://img.shields.io/github/stars/vaibhavarora14/job-application-agent?style=social)
+- [Praex](https://github.com/ailucius/praex-cli) - MIT-licensed terminal coding agent that reads the repo, edits files after approval, and runs commands and tests. Works with your own API keys or an optional hosted model; a session can be continued from a phone. ![GitHub Repo stars](https://img.shields.io/github/stars/ailucius/praex-cli?style=social)
 
 ### Multi-Agent Task Solver Projects
 
