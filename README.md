@@ -151,6 +151,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [Sno Station](https://github.com/sno-ai/sno-station) - Local, Apache-2.0 layer that lets Codex, Claude Code, Cursor, Hermes Agent and OpenClaw on one machine work as one team: shared memory and a file-based mailbox, handing a task to another agent with context intact when one hits its usage limit, and reviewing each other's work. ![GitHub Repo stars](https://img.shields.io/github/stars/sno-ai/sno-station?style=social)
 
 - [ANKITA](https://github.com/akyourowngames/A.N.K.I.T.A) - Desktop and CLI workspace with teammate conversations, bounded subagents, browser and file tools, MCP integrations, and persistent project memory. ![GitHub Repo stars](https://img.shields.io/github/stars/akyourowngames/A.N.K.I.T.A?style=social)
+- [Sahkarmi](https://github.com/ganguydhrubo/sahakarmi) - Desktop team of AI coworkers for a small business: sales, GST accounts, content, development and support. Each coworker runs locally with its own browser session and memory, and outbound actions (payments, customer emails, public posts) stop in a human approvals queue. Windows, Apache-2.0, English/Hindi/Bengali. ![GitHub Repo stars](https://img.shields.io/github/stars/ganguydhrubo/sahakarmi?style=social)
 
 ### Agent Society Simulation
 
