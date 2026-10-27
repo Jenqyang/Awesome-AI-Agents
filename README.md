@@ -150,6 +150,8 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [Shikidan](https://github.com/LynchzDEV/shiki) - Simple cockpit for any AI agent: one chat runs Claude Code, Codex, GLM, Grok or any CLI agent in separate git worktrees, with cross-model review and plugins. Self-hostable, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/LynchzDEV/shiki?style=social)
 - [Sno Station](https://github.com/sno-ai/sno-station) - Local, Apache-2.0 layer that lets Codex, Claude Code, Cursor, Hermes Agent and OpenClaw on one machine work as one team: shared memory and a file-based mailbox, handing a task to another agent with context intact when one hits its usage limit, and reviewing each other's work. ![GitHub Repo stars](https://img.shields.io/github/stars/sno-ai/sno-station?style=social)
 
+- [ANKITA](https://github.com/akyourowngames/A.N.K.I.T.A) - Desktop and CLI workspace with teammate conversations, bounded subagents, browser and file tools, MCP integrations, and persistent project memory. ![GitHub Repo stars](https://img.shields.io/github/stars/akyourowngames/A.N.K.I.T.A?style=social)
+
 ### Agent Society Simulation
 
 Exploring endless possibilities with open-source agent social simulation.
