@@ -326,6 +326,7 @@ Quickly build and customize agents.
 - [CUGA](https://github.com/cuga-project/cuga-agent) - IBM Research's generalist agent harness built on LangGraph; executes tasks over APIs (OpenAPI specs, MCP servers, LangChain tools), the web (Playwright), or both, with policy-based guardrails and human-in-the-loop approval (Intent Guard, Playbook, Tool Approval), multi-agent supervision including remote A2A agents, and agent skills. Python, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/cuga-project/cuga-agent?style=social)
 - [LumiBot](https://github.com/Lumiwealth/lumibot) - Python framework for AI trading agents that research markets, run backtests and trade through 12 brokers using the same strategy code. ![GitHub Repo stars](https://img.shields.io/github/stars/Lumiwealth/lumibot?style=social)
 - [NOE](https://github.com/HarakaraSite/noe) - Pure-Go JavaScript runtime for building autonomous agents that execute JavaScript and delegate tasks, with CLI and Go embedding. ![GitHub Repo stars](https://img.shields.io/github/stars/HarakaraSite/noe?style=social)
+- [theloop](https://github.com/paveler/theloop) - Agent loop as a stateless HTTP service: one request per run carries model, history and tools (URL + JSON schema); SSE streaming, callbacks, per-attempt usage. TypeScript, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/paveler/theloop?style=social)
 
 ## Benchmark/Evaluator
 
