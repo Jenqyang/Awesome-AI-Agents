@@ -292,6 +292,8 @@ Exploring endless possibilities with open-source agent social simulation.
 
 - [DeepSeek Harness Desktop Plus](https://github.com/endtoend-ai/deepseek-harness-desktop-plus) - Desktop agent runtime for DeepSeek Harness: an Electron shell over a local dsh web host with approval gates, session replay and a plugin center. ![GitHub Repo stars](https://img.shields.io/github/stars/endtoend-ai/deepseek-harness-desktop-plus?style=social)
 
+- [OpenFlow](https://github.com/surlymochan/openflow) - Executable delivery workflows for AI coding agents: delivery phases and acceptance evidence defined in YAML, with red/green TDD proof gates checked by code, driven through the xflow CLI for Codex, Claude Code, and Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/surlymochan/openflow?style=social)
+
 ## Frameworks
 
 Quickly build and customize agents.
