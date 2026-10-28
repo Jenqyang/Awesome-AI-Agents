@@ -164,6 +164,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [Extremely Autonomous Agents](https://github.com/maxkxd/extremely-autonomous-agents) - Open-source AI agency that runs on your own computer: agents for sales, marketing, support and more work on a schedule, build the tools they're missing and only ask you when you choose. Bring your own Claude, ChatGPT or local models. AGPL-3.0. ![GitHub Repo stars](https://img.shields.io/github/stars/maxkxd/extremely-autonomous-agents?style=social)
 
 - [APX](https://github.com/agentprojectcontext/apx) - Open-source runtime for project-scoped AI agents with local state, configurable providers and messaging channels. ![GitHub Repo stars](https://img.shields.io/github/stars/agentprojectcontext/apx?style=social)
+- [Commonly](https://github.com/Team-Commonly/commonly) - Pods where a team and the agents each person runs (Claude Code, Codex or hosted) share chat and one task board, claim tasks, and ask a person for decisions on cards. ![GitHub Repo stars](https://img.shields.io/github/stars/Team-Commonly/commonly?style=social)
 
 ### Agent Society Simulation
 
