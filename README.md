@@ -154,6 +154,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 
 - [ANKITA](https://github.com/akyourowngames/A.N.K.I.T.A) - Desktop and CLI workspace with teammate conversations, bounded subagents, browser and file tools, MCP integrations, and persistent project memory. ![GitHub Repo stars](https://img.shields.io/github/stars/akyourowngames/A.N.K.I.T.A?style=social)
 - [OMK](https://github.com/dmae97/omk) - Open-source multi-agent coding CLI for the terminal (TypeScript, MIT) that can switch models mid-session and treats a goal as done only when your test passes. ![GitHub Repo stars](https://img.shields.io/github/stars/dmae97/omk?style=social)
+- [CodeAF](https://github.com/Agent-Field/CodeAF) - Open-source coding agent that runs like a software factory, built for open models and written in Go. Work from one conversation runs as parallel tasks in separate copies of the repo, with built-in specialists for code changes, PR review and security audits; anything it can't decide waits in one queue across projects. Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Field/CodeAF?style=social)
 
 ### Agent Society Simulation
 
