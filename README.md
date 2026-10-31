@@ -263,6 +263,8 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Archcore](https://github.com/archcore-ai/archcore) - Git-native context engineering and spec-driven development for AI coding agents. ![GitHub Repo stars](https://img.shields.io/github/stars/archcore-ai/archcore?style=social)
 - [Off the Wall](https://github.com/toranalytics/off-the-wall) - Hooks plugin for Claude Code and Codex that quotes the user's own past corrections back to the agent before it answers, reports what the user corrects most, and gives the orchestrator model-selection guidance for subagent calls. Smoke-tested on macOS: Codex 0.162.1 and Claude Code 2.1.311 (headless, correction capture and next-prompt recall only); interactive Claude Code use is experimental. MIT, no dependencies. ![GitHub Repo stars](https://img.shields.io/github/stars/toranalytics/off-the-wall?style=social)
 
+- [SoloPup Memory](https://github.com/OakcoderX/solopup-memory) - Public-beta DeepSeek Harness text-memory plugin with source references, global/project scopes, conditions, correction history and lexical retrieval. ![GitHub Repo stars](https://img.shields.io/github/stars/OakcoderX/solopup-memory?style=social)
+
 ## Frameworks
 
 Quickly build and customize agents.
