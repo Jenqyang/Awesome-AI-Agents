@@ -157,6 +157,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [ANKITA](https://github.com/akyourowngames/A.N.K.I.T.A) - Desktop and CLI workspace with teammate conversations, bounded subagents, browser and file tools, MCP integrations, and persistent project memory. ![GitHub Repo stars](https://img.shields.io/github/stars/akyourowngames/A.N.K.I.T.A?style=social)
 - [OMK](https://github.com/dmae97/omk) - Open-source multi-agent coding CLI for the terminal (TypeScript, MIT) that can switch models mid-session and treats a goal as done only when your test passes. ![GitHub Repo stars](https://img.shields.io/github/stars/dmae97/omk?style=social)
 - [OpenSwarm](https://github.com/surlymochan/openswarm) - Quota-aware dispatcher that lets Claude plan while Codex, OpenCode Go, and DeepSeek execute, routing each coding task by configured quota/cost policies in an isolated git worktree, with enforced per-run wall-clock limits and optional usage/daily budgets. ![GitHub Repo stars](https://img.shields.io/github/stars/surlymochan/openswarm?style=social)
+- [SpecAgent](https://github.com/ghvinashvili/specagent) - Apache-2.0 project template that runs each pipeline role (planner, critic, builder, verifier, judge) as its own Claude Code session with its own context, git worktree and sandbox, coordinated from one chat; a stage moves on only through a gate in code, and every finding needs a proof. ![GitHub Repo stars](https://img.shields.io/github/stars/ghvinashvili/specagent?style=social)
 
 ### Agent Society Simulation
 
