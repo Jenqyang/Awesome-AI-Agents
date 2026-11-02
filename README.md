@@ -154,6 +154,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 
 - [ANKITA](https://github.com/akyourowngames/A.N.K.I.T.A) - Desktop and CLI workspace with teammate conversations, bounded subagents, browser and file tools, MCP integrations, and persistent project memory. ![GitHub Repo stars](https://img.shields.io/github/stars/akyourowngames/A.N.K.I.T.A?style=social)
 - [OMK](https://github.com/dmae97/omk) - Open-source multi-agent coding CLI for the terminal (TypeScript, MIT) that can switch models mid-session and treats a goal as done only when your test passes. ![GitHub Repo stars](https://img.shields.io/github/stars/dmae97/omk?style=social)
+- [Friday](https://github.com/splashxmoon/friday) - Open-source (MIT) desktop app that runs Claude Code, Codex, Cursor, Gemini CLI, GitHub Copilot, OpenCode and other coding agents side by side on your own computer, each task in its own git worktree, with a shared task board, agent-to-agent messages, diff review with line notes, and a hand-off to another agent when one hits its usage limit. ![GitHub Repo stars](https://img.shields.io/github/stars/splashxmoon/friday?style=social)
 
 ### Agent Society Simulation
 
