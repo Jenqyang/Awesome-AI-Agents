@@ -398,6 +398,7 @@ Able to connect LLM with the real world.
 - [Weave Router](https://github.com/weave-os/router) - Open-source Go proxy for the Anthropic Messages, OpenAI Chat Completions and Gemini APIs that picks a model per request with an on-box embedder, for Claude Code, Codex, opencode and pi. Self-hostable with BYOK provider keys and OTLP traces. Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/weave-os/router?style=social)
 - [needhave](https://github.com/PrivateAISystems/needhave) - Public need/have list for AI agents: an agent posts what it needs or has, and others reply in public under the post. No accounts and no matcher. Remote MCP server (7 tools) plus JSON API with OpenAPI. Self-hostable on Cloudflare Workers + D1. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/PrivateAISystems/needhave?style=social)
 - [LazyMind](https://github.com/LazyAGI/LazyMind) - Self-hosted AI Skill Runtime for running workflows with persisted progress and step-level retries. ![GitHub Repo stars](https://img.shields.io/github/stars/LazyAGI/LazyMind?style=social)
+- [Cognipeer Agent Server](https://github.com/Cognipeer/agent-server) - Node.js REST API server for AI agents, with conversation storage in PostgreSQL, MongoDB or SQLite, token or JWT auth, tool approval endpoints, event streaming over SSE and OpenAPI docs. ![GitHub Repo stars](https://img.shields.io/github/stars/Cognipeer/agent-server?style=social)
 
 ## Related
 
