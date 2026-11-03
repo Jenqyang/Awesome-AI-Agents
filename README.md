@@ -269,6 +269,8 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Off the Wall](https://github.com/toranalytics/off-the-wall) - Hooks plugin for Claude Code and Codex that quotes the user's own past corrections back to the agent before it answers, reports what the user corrects most, and gives the orchestrator model-selection guidance for subagent calls. Smoke-tested on macOS: Codex 0.162.1 and Claude Code 2.1.311 (headless, correction capture and next-prompt recall only); interactive Claude Code use is experimental. MIT, no dependencies. ![GitHub Repo stars](https://img.shields.io/github/stars/toranalytics/off-the-wall?style=social)
 - [VibeDesk](https://github.com/fxd-gif/vibedesk) - MIT-licensed Windows desktop app that runs several Claude Code CLI sessions side by side with live status (working, waiting, done), answers permission prompts as cards on the PC or a paired phone, and keeps per-project memory as Obsidian-compatible Markdown exposed to Claude over MCP. ![GitHub Repo stars](https://img.shields.io/github/stars/fxd-gif/vibedesk?style=social)
 
+- [SoloPup Memory](https://github.com/OakcoderX/solopup-memory) - Public-beta DeepSeek Harness text-memory plugin with source references, global/project scopes, conditions, correction history and lexical retrieval. ![GitHub Repo stars](https://img.shields.io/github/stars/OakcoderX/solopup-memory?style=social)
+
 ## Frameworks
 
 Quickly build and customize agents.
