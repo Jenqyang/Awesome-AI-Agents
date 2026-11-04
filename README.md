@@ -271,6 +271,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [VibeDesk](https://github.com/fxd-gif/vibedesk) - MIT-licensed Windows desktop app that runs several Claude Code CLI sessions side by side with live status (working, waiting, done), answers permission prompts as cards on the PC or a paired phone, and keeps per-project memory as Obsidian-compatible Markdown exposed to Claude over MCP. ![GitHub Repo stars](https://img.shields.io/github/stars/fxd-gif/vibedesk?style=social)
 
 - [SoloPup Memory](https://github.com/OakcoderX/solopup-memory) - Public-beta DeepSeek Harness text-memory plugin with source references, global/project scopes, conditions, correction history and lexical retrieval. ![GitHub Repo stars](https://img.shields.io/github/stars/OakcoderX/solopup-memory?style=social)
+- [assay](https://github.com/awss1i/assay) - Command-line QA tool for built web pages. It serves one page locally, exercises the supported controls it detects in Chromium through Playwright, and reports deterministic inconsistencies such as script errors or a control that reacts one press late. Ships a Python API, an HTML report, and a skill and plugin so AI coding agents can run it after editing a page. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/awss1i/assay?style=social)
 
 ## Frameworks
 
