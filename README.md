@@ -349,6 +349,7 @@ Quickly build and customize agents.
 
 Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 
+- [Collaborative Intelligence](https://github.com/zou-group/collaborative-intelligence) - MIT-licensed benchmark for AI-agent teamwork across eight dimensions, with 160 public tasks, an evaluation harness, and scoring conditioned on tasks the model can solve alone. ![GitHub Repo stars](https://img.shields.io/github/stars/zou-group/collaborative-intelligence?style=social)
 - [AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social)
 - [AgentLeak](https://github.com/yagobski/agentleak) - Python toolkit for evaluating privacy leakage across agent traces, including tool calls, inter-agent messages, shared memory, and logs, with redacted reports and CI gates. ![GitHub Repo stars](https://img.shields.io/github/stars/yagobski/agentleak?style=social)
 - [agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen ![GitHub Repo stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social)
