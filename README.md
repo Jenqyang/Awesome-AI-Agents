@@ -271,6 +271,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [VibeDesk](https://github.com/fxd-gif/vibedesk) - MIT-licensed Windows desktop app that runs several Claude Code CLI sessions side by side with live status (working, waiting, done), answers permission prompts as cards on the PC or a paired phone, and keeps per-project memory as Obsidian-compatible Markdown exposed to Claude over MCP. ![GitHub Repo stars](https://img.shields.io/github/stars/fxd-gif/vibedesk?style=social)
 
 - [SoloPup Memory](https://github.com/OakcoderX/solopup-memory) - Public-beta DeepSeek Harness text-memory plugin with source references, global/project scopes, conditions, correction history and lexical retrieval. ![GitHub Repo stars](https://img.shields.io/github/stars/OakcoderX/solopup-memory?style=social)
+- [XERJ](https://github.com/xerj-org/xerj) - Apache-2.0 search engine for AI agents in one Rust binary: indexes local code, docs, specs and logs, serves BM25, vector and hybrid search and agent memory, and ships a local stdio MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/xerj-org/xerj?style=social)
 
 ## Frameworks
 
