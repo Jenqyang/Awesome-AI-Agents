@@ -279,6 +279,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 - [AI Job Hunt OS](https://github.com/landedjobs/ai-job-hunt-os) - Six MIT-licensed agent skills for a job search: decode job descriptions, research companies, tailor resumes, draft outreach, run mock interviews, and plan salary negotiation. ![GitHub Repo stars](https://img.shields.io/github/stars/landedjobs/ai-job-hunt-os?style=social)
 
+- [claw-kit](https://github.com/chanyuenpang/claw-kit) - A better harness for beginners: plans and tasks live in the repo so coding agents (Codex, DeepSeek Harness, Claude Code and others) can resume work across sessions, with project notes and local recall search. ![GitHub Repo stars](https://img.shields.io/github/stars/chanyuenpang/claw-kit?style=social)
 ## Frameworks
 
 Quickly build and customize agents.
