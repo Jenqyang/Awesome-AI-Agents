@@ -278,6 +278,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [assay](https://github.com/awss1i/assay) - Command-line QA tool for built web pages. It serves one page locally, exercises the supported controls it detects in Chromium through Playwright, and reports deterministic inconsistencies such as script errors or a control that reacts one press late. Ships a Python API, an HTML report, and a skill and plugin so AI coding agents can run it after editing a page. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/awss1i/assay?style=social)
 
 - [AI Job Hunt OS](https://github.com/landedjobs/ai-job-hunt-os) - Six MIT-licensed agent skills for a job search: decode job descriptions, research companies, tailor resumes, draft outreach, run mock interviews, and plan salary negotiation. ![GitHub Repo stars](https://img.shields.io/github/stars/landedjobs/ai-job-hunt-os?style=social)
+- [deja-vu](https://github.com/vshulcz/deja-vu) - Local memory and session search over the transcripts 43 coding agents (Claude Code, Codex, Cursor, OpenCode, Gemini CLI, OpenClaw, Hermes and more) already write to disk, served via CLI, TUI, MCP and hooks with zero LLM calls and automatic credential redaction. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/vshulcz/deja-vu?style=social)
 
 ## Frameworks
 
