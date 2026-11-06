@@ -453,6 +453,7 @@ Able to connect LLM with the real world.
 - [Personal Agent Bench](https://personalagentbench.com/benchmarks/) - What nine public agent benchmarks (GAIA, BrowseComp, WebArena, OSWorld, tau-bench and others) measure, and what they leave out for personal agents.
 - [StackGrade](https://stackgrade.app) - Weekly ranking of AI and agent tools (open-source, source-available and proprietary; each tool page shows its license status), with a separate automated safety label and a weekly safety watch. Scans are automated and have known limits.
 - [AgentStackWatch](https://agentstackwatch.com) - Nightly-updated tracker of about 43 personal agents, agent frameworks and managed agent platforms, with sourced release notes, breaking changes, side-by-side comparisons and a weekly digest.
+- [Drydock](https://drydock.si/) - Curated directory of AI agent frameworks, orchestration tools, vector databases, inference hosts and coding agents, with license labels that separate OSI open source from source available tools, live GitHub stars, a launch feed and guides such as AGENTS.md and agent skills.
 
 ## Reference Repo
 
