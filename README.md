@@ -114,6 +114,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 
 - [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
+- [BetterTradingAgents](https://github.com/kingabzpro/BetterTradingAgents) - Multi-agent stock research application with analyst debate, backtesting, risk controls, and paper trading. ![GitHub Repo stars](https://img.shields.io/github/stars/kingabzpro/BetterTradingAgents?style=social)
 - [ClawFleet](https://github.com/weiyong1024/ClawFleet) - Self-hosted AI fleet management with browser dashboard, Docker isolation, and bot-to-bot collaboration in Discord. ![GitHub Repo
   stars](https://img.shields.io/github/stars/weiyong1024/ClawFleet?style=social)
 - [claude-consensus](https://github.com/tonydzi/claude-consensus) - Consensus protocol for LLM agents running on separate machines: propose/counter/accept/commit rounds, a dual-rail message bus with ACK tracking, and self-healing sync to keep agent state from drifting. ![GitHub Repo stars](https://img.shields.io/github/stars/tonydzi/claude-consensus?style=social)
