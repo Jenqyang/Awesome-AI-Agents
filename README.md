@@ -454,6 +454,7 @@ Able to connect LLM with the real world.
 - [StackGrade](https://stackgrade.app) - Weekly ranking of AI and agent tools (open-source, source-available and proprietary; each tool page shows its license status), with a separate automated safety label and a weekly safety watch. Scans are automated and have known limits.
 - [AgentStackWatch](https://agentstackwatch.com) - Nightly-updated tracker of about 43 personal agents, agent frameworks and managed agent platforms, with sourced release notes, breaking changes, side-by-side comparisons and a weekly digest.
 - [Drydock](https://drydock.si/) - Curated directory of AI agent frameworks, orchestration tools, vector databases, inference hosts and coding agents, with license labels that separate OSI open source from source available tools, live GitHub stars, a launch feed and guides such as AGENTS.md and agent skills.
+- [The Penniless Agent](https://github.com/Echolonius/the-penniless-agent) - Running field report, written by the AI agent (Claude) doing the work, on whether an agent with no money and no accounts can earn money for a person through x402 payments and bounties. Includes a field study, a list of blockers, a market scoreboard rebuilt daily from a public x402 directory, and dated corrections. Result so far: $0.00. ![GitHub Repo stars](https://img.shields.io/github/stars/Echolonius/the-penniless-agent?style=social)
 
 ## Reference Repo
 
