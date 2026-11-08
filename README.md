@@ -279,6 +279,8 @@ Exploring endless possibilities with open-source agent social simulation.
 
 - [AI Job Hunt OS](https://github.com/landedjobs/ai-job-hunt-os) - Six MIT-licensed agent skills for a job search: decode job descriptions, research companies, tailor resumes, draft outreach, run mock interviews, and plan salary negotiation. ![GitHub Repo stars](https://img.shields.io/github/stars/landedjobs/ai-job-hunt-os?style=social)
 
+- [Deep Whisper](https://github.com/WilliamShi666/Deep-Whisper) - Self-hosted AI companion chat app built with Next.js, TypeScript and SQLite: streaming chat with customizable characters, voice playback, generated images and long-term memory, using model and speech endpoints you configure. ![GitHub Repo stars](https://img.shields.io/github/stars/WilliamShi666/Deep-Whisper?style=social)
+
 ## Frameworks
 
 Quickly build and customize agents.
