@@ -115,7 +115,6 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
 - [BetterTradingAgents](https://github.com/kingabzpro/BetterTradingAgents) - Multi-agent stock research application with analyst debate, backtesting, risk controls, and paper trading. ![GitHub Repo stars](https://img.shields.io/github/stars/kingabzpro/BetterTradingAgents?style=social)
-- [FastTrade AI](https://github.com/kingabzpro/FastTrade-AI) - Signal-only LLM stock research workspace with deterministic risk checks, a budgeted batch API, and reproducible backtests; never places orders. ![GitHub Repo stars](https://img.shields.io/github/stars/kingabzpro/FastTrade-AI?style=social)
 - [ClawFleet](https://github.com/weiyong1024/ClawFleet) - Self-hosted AI fleet management with browser dashboard, Docker isolation, and bot-to-bot collaboration in Discord. ![GitHub Repo
   stars](https://img.shields.io/github/stars/weiyong1024/ClawFleet?style=social)
 - [claude-consensus](https://github.com/tonydzi/claude-consensus) - Consensus protocol for LLM agents running on separate machines: propose/counter/accept/commit rounds, a dual-rail message bus with ACK tracking, and self-healing sync to keep agent state from drifting. ![GitHub Repo stars](https://img.shields.io/github/stars/tonydzi/claude-consensus?style=social)
@@ -279,6 +278,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [assay](https://github.com/awss1i/assay) - Command-line QA tool for built web pages. It serves one page locally, exercises the supported controls it detects in Chromium through Playwright, and reports deterministic inconsistencies such as script errors or a control that reacts one press late. Ships a Python API, an HTML report, and a skill and plugin so AI coding agents can run it after editing a page. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/awss1i/assay?style=social)
 
 - [AI Job Hunt OS](https://github.com/landedjobs/ai-job-hunt-os) - Six MIT-licensed agent skills for a job search: decode job descriptions, research companies, tailor resumes, draft outreach, run mock interviews, and plan salary negotiation. ![GitHub Repo stars](https://img.shields.io/github/stars/landedjobs/ai-job-hunt-os?style=social)
+- [FastTrade AI](https://github.com/kingabzpro/FastTrade-AI) - Signal-only LLM stock research workspace with deterministic risk checks, a budgeted batch API, and a backtest engine that replays checksummed local price data; never places orders. ![GitHub Repo stars](https://img.shields.io/github/stars/kingabzpro/FastTrade-AI?style=social)
 
 ## Frameworks
 
