@@ -163,7 +163,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [SpecAgent](https://github.com/ghvinashvili/specagent) - Apache-2.0 project template that runs each pipeline role (planner, critic, builder, verifier, judge) as its own Claude Code session with its own context, git worktree and sandbox, coordinated from one chat; a stage moves on only through a gate in code, and every finding needs a proof. ![GitHub Repo stars](https://img.shields.io/github/stars/ghvinashvili/specagent?style=social)
 - [Extremely Autonomous Agents](https://github.com/maxkxd/extremely-autonomous-agents) - Open-source AI agency that runs on your own computer: agents for sales, marketing, support and more work on a schedule, build the tools they're missing and only ask you when you choose. Bring your own Claude, ChatGPT or local models. AGPL-3.0. ![GitHub Repo stars](https://img.shields.io/github/stars/maxkxd/extremely-autonomous-agents?style=social)
 
-- [APX](https://github.com/agentprojectcontext/apx) - Open-source runtime for project-scoped AI agents with local state, configurable providers and messaging channels. ![GitHub Repo stars](https://img.shields.io/github/stars/agentprojectcontext/apx?style=social)
+- [APX](https://github.com/agentprojectcontext/apx) - Self-hosted multi-agent workspace with project-scoped teams, delegation, task boards, scheduled routines, browser tools, local state, configurable models and messaging channels. ![GitHub Repo stars](https://img.shields.io/github/stars/agentprojectcontext/apx?style=social)
 
 ### Agent Society Simulation
 
