@@ -283,6 +283,8 @@ Exploring endless possibilities with open-source agent social simulation.
 
 - [AI Job Hunt OS](https://github.com/landedjobs/ai-job-hunt-os) - Six MIT-licensed agent skills for a job search: decode job descriptions, research companies, tailor resumes, draft outreach, run mock interviews, and plan salary negotiation. ![GitHub Repo stars](https://img.shields.io/github/stars/landedjobs/ai-job-hunt-os?style=social)
 
+- [DeepSeek Harness Desktop Plus](https://github.com/endtoend-ai/deepseek-harness-desktop-plus) - Desktop agent runtime for DeepSeek Harness: an Electron shell over a local dsh web host with approval gates, session replay and a plugin center. ![GitHub Repo stars](https://img.shields.io/github/stars/endtoend-ai/deepseek-harness-desktop-plus?style=social)
+
 ## Frameworks
 
 Quickly build and customize agents.
