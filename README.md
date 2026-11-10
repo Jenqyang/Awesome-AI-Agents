@@ -291,6 +291,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [deja-vu](https://github.com/vshulcz/deja-vu) - Local memory and session search over the transcripts 43 coding agents (Claude Code, Codex, Cursor, OpenCode, Gemini CLI, OpenClaw, Hermes and more) already write to disk, served via CLI, TUI, MCP and hooks with zero LLM calls and automatic credential redaction. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/vshulcz/deja-vu?style=social)
 
 - [DeepSeek Harness Desktop Plus](https://github.com/endtoend-ai/deepseek-harness-desktop-plus) - Desktop agent runtime for DeepSeek Harness: an Electron shell over a local dsh web host with approval gates, session replay and a plugin center. ![GitHub Repo stars](https://img.shields.io/github/stars/endtoend-ai/deepseek-harness-desktop-plus?style=social)
+- [Agent Adapter](https://github.com/VeloceAI/agent-adapter) - Apache-2.0 Python library that runs one plain-function tool in LangChain, LangGraph, CrewAI, Google ADK, OpenAI Agents SDK, Pydantic AI, DSPy and other frameworks or over MCP/HTTP, with durable human approvals, budgets, cost ledger, guards, caching and OpenTelemetry traces. ![GitHub Repo stars](https://img.shields.io/github/stars/VeloceAI/agent-adapter?style=social)
 
 ## Frameworks
 
