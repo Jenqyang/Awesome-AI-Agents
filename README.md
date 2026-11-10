@@ -165,6 +165,8 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 
 - [APX](https://github.com/agentprojectcontext/apx) - Open-source runtime for project-scoped AI agents with local state, configurable providers and messaging channels. ![GitHub Repo stars](https://img.shields.io/github/stars/agentprojectcontext/apx?style=social)
 
+- [rightcommit](https://github.com/rightcommit/rightcommit) - Self-hosted visual workspace where the Project Manager assistant turns a description into an editable agent workflow, then runs Claude Code, Codex or Pi with tests and human approval. ![GitHub Repo stars](https://img.shields.io/github/stars/rightcommit/rightcommit?style=social)
+
 ### Agent Society Simulation
 
 Exploring endless possibilities with open-source agent social simulation.
