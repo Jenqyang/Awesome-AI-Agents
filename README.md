@@ -292,6 +292,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 - [DeepSeek Harness Desktop Plus](https://github.com/endtoend-ai/deepseek-harness-desktop-plus) - Desktop agent runtime for DeepSeek Harness: an Electron shell over a local dsh web host with approval gates, session replay and a plugin center. ![GitHub Repo stars](https://img.shields.io/github/stars/endtoend-ai/deepseek-harness-desktop-plus?style=social)
 
+- [claw-kit](https://github.com/chanyuenpang/claw-kit) - A better harness for beginners: plans and tasks live in the repo so coding agents (Codex, DeepSeek Harness, Claude Code and others) can resume work across sessions, with project notes and local recall search. ![GitHub Repo stars](https://img.shields.io/github/stars/chanyuenpang/claw-kit?style=social)
 ## Frameworks
 
 Quickly build and customize agents.
