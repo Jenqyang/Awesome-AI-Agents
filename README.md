@@ -291,6 +291,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [deja-vu](https://github.com/vshulcz/deja-vu) - Local memory and session search over the transcripts 43 coding agents (Claude Code, Codex, Cursor, OpenCode, Gemini CLI, OpenClaw, Hermes and more) already write to disk, served via CLI, TUI, MCP and hooks with zero LLM calls and automatic credential redaction. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/vshulcz/deja-vu?style=social)
 
 - [DeepSeek Harness Desktop Plus](https://github.com/endtoend-ai/deepseek-harness-desktop-plus) - Desktop agent runtime for DeepSeek Harness: an Electron shell over a local dsh web host with approval gates, session replay and a plugin center. ![GitHub Repo stars](https://img.shields.io/github/stars/endtoend-ai/deepseek-harness-desktop-plus?style=social)
+- [eliza-plugin-solguard](https://github.com/Tradelord223/eliza-plugin-solguard) - MIT-licensed, zero-dependency TypeScript/ESM toolkit for ElizaOS, Solana Agent Kit and LangChain agents: decodes Solana SPL and Token-2022 mint account TLV extensions locally over JSON-RPC (`mintAuthority`, `freezeAuthority`, `PermanentDelegate`, `TransferHook`, `TransferFeeConfig`, `PausableConfig`) and builds unsigned Jito `bundleOnly=true` v0 buy and exit transactions for local wallet signing. ![GitHub Repo stars](https://img.shields.io/github/stars/Tradelord223/eliza-plugin-solguard?style=social)
 
 ## Frameworks
 
