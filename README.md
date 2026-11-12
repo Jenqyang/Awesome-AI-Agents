@@ -291,6 +291,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [deja-vu](https://github.com/vshulcz/deja-vu) - Local memory and session search over the transcripts 43 coding agents (Claude Code, Codex, Cursor, OpenCode, Gemini CLI, OpenClaw, Hermes and more) already write to disk, served via CLI, TUI, MCP and hooks with zero LLM calls and automatic credential redaction. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/vshulcz/deja-vu?style=social)
 
 - [DeepSeek Harness Desktop Plus](https://github.com/endtoend-ai/deepseek-harness-desktop-plus) - Desktop agent runtime for DeepSeek Harness: an Electron shell over a local dsh web host with approval gates, session replay and a plugin center. ![GitHub Repo stars](https://img.shields.io/github/stars/endtoend-ai/deepseek-harness-desktop-plus?style=social)
+- [Mangrove Agent](https://github.com/MangroveTechnologies/mangrove-agent) - Open source MCP server and Claude Code plugin that lets AI agents build, backtest and paper trade trading strategies, then execute only with user approval and risk limits. ![GitHub Repo stars](https://img.shields.io/github/stars/MangroveTechnologies/mangrove-agent?style=social)
 
 ## Frameworks
 
