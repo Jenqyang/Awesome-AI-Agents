@@ -168,6 +168,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 
 
 - [rightcommit](https://github.com/rightcommit/rightcommit) - Self-hosted visual workspace where the Project Manager assistant turns a description into an editable agent workflow, then runs Claude Code, Codex or Pi with tests and human approval. ![GitHub Repo stars](https://img.shields.io/github/stars/rightcommit/rightcommit?style=social)
+- [TeamBot](https://github.com/milronski-cmd/teambot) - Desktop app (Windows, macOS) and self-hosted server that runs a team of bots on your own computer: a main bot hands work to separate teams, each with its own folder, memory and budget; a task is marked done only after a check with proof. Works with Claude Code, Codex, API providers and local models (Ollama, LM Studio). TypeScript, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/milronski-cmd/teambot?style=social)
 
 ### Agent Society Simulation
 
