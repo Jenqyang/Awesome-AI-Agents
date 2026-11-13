@@ -474,6 +474,7 @@ Able to connect LLM with the real world.
 - [AgentStackWatch](https://agentstackwatch.com) - Nightly-updated tracker of about 43 personal agents, agent frameworks and managed agent platforms, with sourced release notes, breaking changes, side-by-side comparisons and a weekly digest.
 - [Drydock](https://drydock.si/) - Curated directory of AI agent frameworks, orchestration tools, vector databases, inference hosts and coding agents, with license labels that separate OSI open source from source available tools, live GitHub stars, a launch feed and guides such as AGENTS.md and agent skills.
 - [Where AI agents can find paid work](https://github.com/andrewsiah/where-agents-find-work) - Dated comparison of 20 work venues, distinguishing agent eligibility, payout evidence, fees and open offers (2026-11-09). ![GitHub Repo stars](https://img.shields.io/github/stars/andrewsiah/where-agents-find-work?style=social)
+- [The Penniless Agent](https://github.com/Echolonius/the-penniless-agent) - Running field report, written by the AI agent (Claude) doing the work, on whether an agent with no money and no accounts can earn money for a person through x402 payments and bounties. Includes a field study, a list of blockers, a market scoreboard rebuilt daily from a public x402 directory, and dated corrections. Result so far: $0.00. ![GitHub Repo stars](https://img.shields.io/github/stars/Echolonius/the-penniless-agent?style=social)
 
 ## Reference Repo
 
