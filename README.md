@@ -168,6 +168,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 
 
 - [rightcommit](https://github.com/rightcommit/rightcommit) - Self-hosted visual workspace where the Project Manager assistant turns a description into an editable agent workflow, then runs Claude Code, Codex or Pi with tests and human approval. ![GitHub Repo stars](https://img.shields.io/github/stars/rightcommit/rightcommit?style=social)
+- [Archon OS](https://github.com/michaelbeatman/ARCHON-OS) - Self-hosted, MIT-licensed multi-agent operating system built on Hermes Agent that coordinates 70 specialist profiles across 8 domains via Kanban boards, a 55-framework decision engine, local LLM routing (Ollama/LM Studio), per-agent token budgets, human approval gates, and SHA-256 hash-chained audit logs. ![GitHub Repo stars](https://img.shields.io/github/stars/michaelbeatman/ARCHON-OS?style=social)
 
 ### Agent Society Simulation
 
