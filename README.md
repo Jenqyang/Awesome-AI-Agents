@@ -407,6 +407,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [Agent-12](https://github.com/nicedreamzapp/agent12) - Benchmark that runs local LLMs through 20 agent tasks (12 easy, 8 hard) in throwaway sandboxes and scores each one by checking the files the model left behind. ![GitHub Repo stars](https://img.shields.io/github/stars/nicedreamzapp/agent12?style=social)
 - [cloneproof](https://github.com/pcjansen09-max/cloneproof) - Measures how closely an agent-built website clone matches the original and returns per-element differences plus a fix prompt for the agent's next iteration. ![GitHub Repo stars](https://img.shields.io/github/stars/pcjansen09-max/cloneproof?style=social)
 - [Argus](https://github.com/gy15901580825/Argus) - Red-team testing CLI for AI agents that attacks them through chat endpoints, browsers, MCP tools and a mock payment merchant and reports findings mapped to OWASP LLM Top 10, MITRE ATLAS and NIST AI RMF. ![GitHub Repo stars](https://img.shields.io/github/stars/gy15901580825/Argus?style=social)
+- [Risk-Aware Trading Agents](https://github.com/jackson-cmd/risk-aware-trading-agents) - Benchmark and leaderboard for LLM trading agents on frozen 2020, 2022 and 2026 US markets, with news replayed by the minute it was published, blind and named runs, and scores split at each model's training cutoff. ![GitHub Repo stars](https://img.shields.io/github/stars/jackson-cmd/risk-aware-trading-agents?style=social)
 
 ## Platforms/API
 
