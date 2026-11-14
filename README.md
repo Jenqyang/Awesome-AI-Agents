@@ -380,6 +380,7 @@ Quickly build and customize agents.
 
 Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 
+- [Agent Retry Rodeo](https://github.com/RishabhPande/agent-retry-rodeo) - Synthetic Python recovery-testing harness that grades agent completion claims against persisted ticket state after tool failures. ![GitHub Repo stars](https://img.shields.io/github/stars/RishabhPande/agent-retry-rodeo?style=social)
 - [AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social)
 - [AgentLeak](https://github.com/yagobski/agentleak) - Python toolkit for evaluating privacy leakage across agent traces, including tool calls, inter-agent messages, shared memory, and logs, with redacted reports and CI gates. ![GitHub Repo stars](https://img.shields.io/github/stars/yagobski/agentleak?style=social)
 - [agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen ![GitHub Repo stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social)
