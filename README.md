@@ -168,6 +168,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 
 
 - [rightcommit](https://github.com/rightcommit/rightcommit) - Self-hosted visual workspace where the Project Manager assistant turns a description into an editable agent workflow, then runs Claude Code, Codex or Pi with tests and human approval. ![GitHub Repo stars](https://img.shields.io/github/stars/rightcommit/rightcommit?style=social)
+- [Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Apache-2.0 desktop app (macOS, Windows, Linux) where an orchestrator agent splits work across Claude Code, Codex, Cursor, OpenCode and 35+ other coding agents, each in its own git worktree and branch, and routes CI failures, review comments and merge conflicts back to the agent that owns the PR. ![GitHub Repo stars](https://img.shields.io/github/stars/OrchestratorInc/agent-orchestrator?style=social)
 
 ### Agent Society Simulation
 
