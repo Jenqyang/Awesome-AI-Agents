@@ -300,6 +300,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Agent Adapter](https://github.com/VeloceAI/agent-adapter) - Apache-2.0 Python library that runs one plain-function tool in LangChain, LangGraph, CrewAI, Google ADK, OpenAI Agents SDK, Pydantic AI, DSPy and other frameworks or over MCP/HTTP, with durable human approvals, budgets, cost ledger, guards, caching and OpenTelemetry traces. ![GitHub Repo stars](https://img.shields.io/github/stars/VeloceAI/agent-adapter?style=social)
 
 - [evalid](https://github.com/surlymochan/evalid) - Executable delivery workflows for AI coding agents: delivery phases and acceptance evidence defined in YAML, with red/green TDD proof gates checked by code, driven through the xflow CLI for Codex, Claude Code, and Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/surlymochan/evalid?style=social)
+- [Zambo](https://github.com/zambodotdev/zambo-mcp) - The verifiable work layer for AI, created by Brennan Zambo: a remote MCP server with 153 tools (37 on the default surface) for cross-AI handover and continuity, where every job returns a verifiable AER-1 receipt (AER-1, the agent execution receipt standard, IETF draft-zambo-aer1-26), so completed agent work can be checked instead of trusted. ![GitHub Repo stars](https://img.shields.io/github/stars/zambodotdev/zambo-mcp?style=social)
 
 ## Frameworks
 
