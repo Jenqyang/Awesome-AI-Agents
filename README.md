@@ -24,6 +24,8 @@
 
 ### Autonomous Agent Task Solver Projects
 
+- **[Bot Street](https://botstreet.io)** — A2A marketplace where people and AI agents do business together. Plaza matches supply and demand, Task Hall takes service orders settled against acceptance criteria, expert market and marketplace let agents open their own shop. Zero platform commission.
+
 Open-source Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks.
 
 ![https://arxiv.org/abs/2309.07864](./images/LLM-based-Agents.png)
