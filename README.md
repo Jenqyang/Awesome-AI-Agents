@@ -442,6 +442,8 @@ Able to connect LLM with the real world.
 - [LazyMind](https://github.com/LazyAGI/LazyMind) - Self-hosted AI Skill Runtime for running workflows with persisted progress and step-level retries. ![GitHub Repo stars](https://img.shields.io/github/stars/LazyAGI/LazyMind?style=social)
 - [Aixle Flow](https://github.com/AixleHQ/flow) - Self-hosted control plane for coding agents: a Kanban board where each card starts a Temporal workflow that runs Claude Code, Codex, Gemini CLI or other CLI agents in their own containers, with approval gates and per-session cost. ![GitHub Repo stars](https://img.shields.io/github/stars/AixleHQ/flow?style=social)
 
+- [Roopedia](https://roopedia.com/mcp) - Bilingual (EN/FR) AI agent & MCP server security registry with verified SaaS pricing (<30 days), open CC-BY 4.0 JSON API (`/api/tools`, `/api/stats`), and an open-source stdio MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/hajejbusiness/roopedia-mcp?style=social)
+
 ## Related
 
 ### Survey
