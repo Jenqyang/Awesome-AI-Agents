@@ -201,6 +201,8 @@ Exploring endless possibilities with open-source agent social simulation.
 
 ### Tools
 
+- [HumanPen](https://humanpen.net) - Research Projects platform for scoping, credit-quoted planning, data analysis/literature organization, review, and file/code/chart delivery with optional budget-capped autonomy, A2A 1.0 & REST API (100 signup credits; commercial credit-based; prohibits ghostwriting coursework/theses/papers for submission).
+
 - [Concord](https://github.com/Get-Concord-AI/concord-mcp) - Open-source MCP server that lets coding agents (Claude Code, Codex, Cursor, Gemini CLI, Grok Build, Goose) message each other and coordinate in one repo with presence, file claims, handoffs and review packets; hosted workspace at getconcord.ai. ![GitHub Repo stars](https://img.shields.io/github/stars/Get-Concord-AI/concord-mcp?style=social)
 - [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local CLI and stdio MCP payment runtime for AI agents on macOS Apple Silicon, with foreground human approval for signing. ![GitHub Repo stars](https://img.shields.io/github/stars/nuanu-ai/agent-payment-node?style=social)
 - [Solana Pulse](https://github.com/Timothymycompc/solana-pulse-ai-agent-gateway) - MIT-licensed MCP and HTTP server of pre-signing checks for agents on Solana: dry-runs a transaction against live mainnet state and reports each wallet's balance changes, approvals and authority changes, checks that a transfer or swap matches the request, and returns token verdicts with their reasons; missing data is reported as unknown. ![GitHub Repo stars](https://img.shields.io/github/stars/Timothymycompc/solana-pulse-ai-agent-gateway?style=social)
