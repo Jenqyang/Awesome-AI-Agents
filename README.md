@@ -169,6 +169,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 
 
 - [rightcommit](https://github.com/rightcommit/rightcommit) - Self-hosted visual workspace where the Project Manager assistant turns a description into an editable agent workflow, then runs Claude Code, Codex or Pi with tests and human approval. ![GitHub Repo stars](https://img.shields.io/github/stars/rightcommit/rightcommit?style=social)
+- [zeroshot](https://github.com/the-open-engine/zeroshot) - Multi-agent orchestration engine that keeps coding agents from grading their own work, running each task through a team-defined graph of writer, reviewer and test agents. ![GitHub Repo stars](https://img.shields.io/github/stars/the-open-engine/zeroshot?style=social)
 
 ### Agent Society Simulation
 
