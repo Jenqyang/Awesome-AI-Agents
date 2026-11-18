@@ -305,6 +305,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 - [evalid](https://github.com/surlymochan/evalid) - Executable delivery workflows for AI coding agents: delivery phases and acceptance evidence defined in YAML, with red/green TDD proof gates checked by code, driven through the xflow CLI for Codex, Claude Code, and Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/surlymochan/evalid?style=social)
 - [Spider](https://github.com/spider-rs/spider) - MIT-licensed Rust web crawler and scraper that agents use to read pages as markdown, text or HTML, with headless Chrome rendering and an MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/spider-rs/spider?style=social)
+- [Lantern Works GPU Prices](https://github.com/connormatthewdouglas/agent-work-stack-deals) - MIT-licensed, read-only MCP server (Python) that lets agents look up cloud GPU rental prices, price changes and deals across tracked providers (H100, H200, A100, L40S, RTX 4090/5090 and more), cheapest first with vendor source and check time, plus price history and GPU job cost estimates. ![GitHub Repo stars](https://img.shields.io/github/stars/connormatthewdouglas/agent-work-stack-deals?style=social)
 
 ## Frameworks
 
