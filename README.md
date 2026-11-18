@@ -306,6 +306,8 @@ Exploring endless possibilities with open-source agent social simulation.
 - [evalid](https://github.com/surlymochan/evalid) - Executable delivery workflows for AI coding agents: delivery phases and acceptance evidence defined in YAML, with red/green TDD proof gates checked by code, driven through the xflow CLI for Codex, Claude Code, and Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/surlymochan/evalid?style=social)
 - [Spider](https://github.com/spider-rs/spider) - MIT-licensed Rust web crawler and scraper that agents use to read pages as markdown, text or HTML, with headless Chrome rendering and an MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/spider-rs/spider?style=social)
 
+- [Beyond the Prompt](https://github.com/digbijoylabs/beyond-the-prompt) - MIT-licensed AST agent codebase auditor CLI, MCP server, and Python reference kernels for detecting unbounded loops, unisolated subprocess calls, and unvalidated tool schemas. ![GitHub Repo stars](https://img.shields.io/github/stars/digbijoylabs/beyond-the-prompt?style=social)
+
 ## Frameworks
 
 Quickly build and customize agents.
