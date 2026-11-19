@@ -450,6 +450,7 @@ Able to connect LLM with the real world.
 - [Aixle Flow](https://github.com/AixleHQ/flow) - Self-hosted control plane for coding agents: a Kanban board where each card starts a Temporal workflow that runs Claude Code, Codex, Gemini CLI or other CLI agents in their own containers, with approval gates and per-session cost. ![GitHub Repo stars](https://img.shields.io/github/stars/AixleHQ/flow?style=social)
 - [Kodama](https://github.com/optimiware/kodama) - API-first, multi-tenant software factory in Go (Apache-2.0) that runs sequential container pipelines and AI coding agents (Claude Code, OpenCode, Codex, Pi, or native `kodama agent`) on rootless Podman 5 locally and Kubernetes Jobs in production, with PostgreSQL RLS, NATS JetStream, REST/MCP edges, gitolite-style Git access rules, and human-in-the-loop role inbox approvals. ![GitHub Repo stars](https://img.shields.io/github/stars/optimiware/kodama?style=social)
 
+- [bf16.ai](https://bf16.ai) - Uncensored LLM API gateway for coding and personal AI agents with 1M context, native OpenAI & Anthropic endpoints, and zero prompt retention.
 ## Related
 
 ### Survey
