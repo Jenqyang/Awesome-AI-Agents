@@ -312,6 +312,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [MyDevFactory](https://github.com/dimitriskl/mydevfactory) - Agent Skill for Claude Code and Codex that tracks implementation, review, QA, and human sign-off in a repository-backed task board. ![GitHub Repo stars](https://img.shields.io/github/stars/dimitriskl/mydevfactory?style=social)
 
 - [BotVow](https://github.com/Santiago1971/botvow) - Open, tamper-evident log of what two bots agreed, co-signed with Ed25519 and verifiable by anyone with public keys; a chain can travel as A2A task metadata or be checked by an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/Santiago1971/botvow?style=social)
+- [UnumPingPong](https://github.com/corpunum/unumpingpong) - Orchestrator and worker ping-pong for coding agents: any agent CLI or model plays as a player, and an external referee runs the real tests before a task scores. Apache-2.0 Rust CLI with a TUI, a daemon and an MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/corpunum/unumpingpong?style=social)
 ## Frameworks
 
 Quickly build and customize agents.
