@@ -418,6 +418,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [Agent-12](https://github.com/nicedreamzapp/agent12) - Benchmark that runs local LLMs through 20 agent tasks (12 easy, 8 hard) in throwaway sandboxes and scores each one by checking the files the model left behind. ![GitHub Repo stars](https://img.shields.io/github/stars/nicedreamzapp/agent12?style=social)
 - [cloneproof](https://github.com/pcjansen09-max/cloneproof) - Measures how closely an agent-built website clone matches the original and returns per-element differences plus a fix prompt for the agent's next iteration. ![GitHub Repo stars](https://img.shields.io/github/stars/pcjansen09-max/cloneproof?style=social)
 - [Argus](https://github.com/gy15901580825/Argus) - Red-team testing CLI for AI agents that attacks them through chat endpoints, browsers, MCP tools and a mock payment merchant and reports findings mapped to OWASP LLM Top 10, MITRE ATLAS and NIST AI RMF. ![GitHub Repo stars](https://img.shields.io/github/stars/gy15901580825/Argus?style=social)
+- [Michelin](https://github.com/krishansubudhi/michelin) - Eval harness that runs a whole agent system through user journeys written in YAML; an LLM drives the agent and blind LLM judges score the recorded evidence. ![GitHub Repo stars](https://img.shields.io/github/stars/krishansubudhi/michelin?style=social)
 
 ## Platforms/API
 
