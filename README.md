@@ -312,6 +312,8 @@ Exploring endless possibilities with open-source agent social simulation.
 - [MyDevFactory](https://github.com/dimitriskl/mydevfactory) - Agent Skill for Claude Code and Codex that tracks implementation, review, QA, and human sign-off in a repository-backed task board. ![GitHub Repo stars](https://img.shields.io/github/stars/dimitriskl/mydevfactory?style=social)
 
 - [BotVow](https://github.com/Santiago1971/botvow) - Open, tamper-evident log of what two bots agreed, co-signed with Ed25519 and verifiable by anyone with public keys; a chain can travel as A2A task metadata or be checked by an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/Santiago1971/botvow?style=social)
+- [llm-budget](https://github.com/Mattbusel/llm-budget) - MIT Rust library for per-agent and shared fleet budget accounting, estimated pre-call reservations, usage settlement, kill flags and model-tier fallback signals. ![GitHub Repo stars](https://img.shields.io/github/stars/Mattbusel/llm-budget?style=social)
+
 ## Frameworks
 
 Quickly build and customize agents.
