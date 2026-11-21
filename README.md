@@ -312,6 +312,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [MyDevFactory](https://github.com/dimitriskl/mydevfactory) - Agent Skill for Claude Code and Codex that tracks implementation, review, QA, and human sign-off in a repository-backed task board. ![GitHub Repo stars](https://img.shields.io/github/stars/dimitriskl/mydevfactory?style=social)
 
 - [BotVow](https://github.com/Santiago1971/botvow) - Open, tamper-evident log of what two bots agreed, co-signed with Ed25519 and verifiable by anyone with public keys; a chain can travel as A2A task metadata or be checked by an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/Santiago1971/botvow?style=social)
+- [PromptGuard API](https://github.com/sinescribe/promptguard-api) - MIT FastAPI service and Python stdlib prompt-injection/delimiter regex filter with optional Python AST dangerous-call denylist (`pip install promptguard-api`). ![GitHub Repo stars](https://img.shields.io/github/stars/sinescribe/promptguard-api?style=social)
 ## Frameworks
 
 Quickly build and customize agents.
