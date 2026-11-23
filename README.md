@@ -458,6 +458,8 @@ Able to connect LLM with the real world.
 - [Aixle Flow](https://github.com/AixleHQ/flow) - Self-hosted control plane for coding agents: a Kanban board where each card starts a Temporal workflow that runs Claude Code, Codex, Gemini CLI or other CLI agents in their own containers, with approval gates and per-session cost. ![GitHub Repo stars](https://img.shields.io/github/stars/AixleHQ/flow?style=social)
 - [Kodama](https://github.com/optimiware/kodama) - API-first, multi-tenant software factory in Go (Apache-2.0) that runs sequential container pipelines and AI coding agents (Claude Code, OpenCode, Codex, Pi, or native `kodama agent`) on rootless Podman 5 locally and Kubernetes Jobs in production, with PostgreSQL RLS, NATS JetStream, REST/MCP edges, gitolite-style Git access rules, and human-in-the-loop role inbox approvals. ![GitHub Repo stars](https://img.shields.io/github/stars/optimiware/kodama?style=social)
 
+- [vibeshield-mod](https://github.com/zColdWater/vibeshield-claude-mod) - MIT-licensed, zero-dependency, zero-network Claude Code function-hooks mod that blocks `NEXT_PUBLIC_*`/`VITE_*` secret exposure in frontend bundles, hardcoded live API keys, and accidental `git add .env` during coding-agent sessions. ![GitHub Repo stars](https://img.shields.io/github/stars/zColdWater/vibeshield-claude-mod?style=social)
+
 ## Related
 
 ### Survey
