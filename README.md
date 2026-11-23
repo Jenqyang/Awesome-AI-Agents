@@ -312,6 +312,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [MyDevFactory](https://github.com/dimitriskl/mydevfactory) - Agent Skill for Claude Code and Codex that tracks implementation, review, QA, and human sign-off in a repository-backed task board. ![GitHub Repo stars](https://img.shields.io/github/stars/dimitriskl/mydevfactory?style=social)
 
 - [BotVow](https://github.com/Santiago1971/botvow) - Open, tamper-evident log of what two bots agreed, co-signed with Ed25519 and verifiable by anyone with public keys; a chain can travel as A2A task metadata or be checked by an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/Santiago1971/botvow?style=social)
+- [ai-tool-guard](https://github.com/dortort/ai-tool-guard) - Composable TypeScript policy enforcement middleware for Vercel AI SDK tool calls with rule/OPA/Cedar policies, approvals, rate limiting, output redaction, MCP drift detection, and OpenTelemetry tracing. ![GitHub Repo stars](https://img.shields.io/github/stars/dortort/ai-tool-guard?style=social)
 ## Frameworks
 
 Quickly build and customize agents.
