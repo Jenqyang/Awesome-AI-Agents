@@ -320,6 +320,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 - [BotVow](https://github.com/Santiago1971/botvow) - Open, tamper-evident log of what two bots agreed, co-signed with Ed25519 and verifiable by anyone with public keys; a chain can travel as A2A task metadata or be checked by an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/Santiago1971/botvow?style=social)
 - [llm-budget](https://github.com/Mattbusel/llm-budget) - MIT Rust library for per-agent and shared fleet budget accounting, estimated pre-call reservations, usage settlement, kill flags and model-tier fallback signals. ![GitHub Repo stars](https://img.shields.io/github/stars/Mattbusel/llm-budget?style=social)
+- [AlphaSift](https://github.com/ZhuLinsen/alphasift) - Apache-2.0 cross-market equity screening CLI, read-only local web workbench, and zero-dependency STDIO MCP server (13 tools, 3 resources) with deterministic YAML factor filters, code-level risk caps for optional LLM re-ranking, and a public T+N paper track-record audit. ![GitHub Repo stars](https://img.shields.io/github/stars/ZhuLinsen/alphasift?style=social)
 
 ## Frameworks
 
