@@ -430,6 +430,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [cloneproof](https://github.com/pcjansen09-max/cloneproof) - Measures how closely an agent-built website clone matches the original and returns per-element differences plus a fix prompt for the agent's next iteration. ![GitHub Repo stars](https://img.shields.io/github/stars/pcjansen09-max/cloneproof?style=social)
 - [Argus](https://github.com/gy15901580825/Argus) - Red-team testing CLI for AI agents that attacks them through chat endpoints, browsers, MCP tools and a mock payment merchant and reports findings mapped to OWASP LLM Top 10, MITRE ATLAS and NIST AI RMF. ![GitHub Repo stars](https://img.shields.io/github/stars/gy15901580825/Argus?style=social)
 - [Michelin](https://github.com/krishansubudhi/michelin) - Eval harness that runs a whole agent system through user journeys written in YAML; an LLM drives the agent and blind LLM judges score the recorded evidence. ![GitHub Repo stars](https://img.shields.io/github/stars/krishansubudhi/michelin?style=social)
+- [Agentry](https://github.com/dortort/agentry) - Playwright-style end-to-end testing framework for AI agent CLIs (Claude Code, Codex, Gemini, Antigravity), MCP servers, and skills with structural tool-call assertions and deterministic CI transcript replay. ![GitHub Repo stars](https://img.shields.io/github/stars/dortort/agentry?style=social)
 
 ## Platforms/API
 
