@@ -398,6 +398,7 @@ Quickly build and customize agents.
 - [AGBoss](https://github.com/agbossjs/agboss) - Apache-2.0 TypeScript framework for building multi-agent workflows on top of LangGraph with constructor dependency injection, declarative typed routing, compile-time graph verification (`agboss check`), and deterministic isolated testing. ![GitHub Repo stars](https://img.shields.io/github/stars/agbossjs/agboss?style=social)
 - [theloop](https://github.com/paveler/theloop) - Agent loop as a stateless HTTP service: one request per run carries model, history and tools (URL + JSON schema); SSE streaming, callbacks, per-attempt usage. TypeScript, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/paveler/theloop?style=social)
 - [CriogenAI](https://github.com/VARMAMASTER/criogenai) - Agent and workflow runtime with a Rust engine and Python, TypeScript and Rust SDKs: durable threads that resume from checkpoints and reuse persisted tool results, human approval before chosen tools, memory, MCP tools, evals and a hash-chained audit trail. MIT or Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/VARMAMASTER/criogenai?style=social)
+- [jargo](https://github.com/gojargo/jargo) - Go framework for real-time voice AI agents: streaming STT, LLM and TTS pipelines or speech-to-speech models over WebRTC, WebSocket, LiveKit and telephony, with turn-taking and barge-in. BSD-2-Clause. ![GitHub Repo stars](https://img.shields.io/github/stars/gojargo/jargo?style=social)
 
 ## Benchmark/Evaluator
 
