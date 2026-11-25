@@ -320,6 +320,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 - [BotVow](https://github.com/Santiago1971/botvow) - Open, tamper-evident log of what two bots agreed, co-signed with Ed25519 and verifiable by anyone with public keys; a chain can travel as A2A task metadata or be checked by an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/Santiago1971/botvow?style=social)
 - [llm-budget](https://github.com/Mattbusel/llm-budget) - MIT Rust library for per-agent and shared fleet budget accounting, estimated pre-call reservations, usage settlement, kill flags and model-tier fallback signals. ![GitHub Repo stars](https://img.shields.io/github/stars/Mattbusel/llm-budget?style=social)
+- [Owner Statement Agent](https://github.com/Sokage-AI/owner-statement-agent) - MIT-licensed Agent Skill for Claude and ChatGPT that drafts a plain-language owner update from a property management month-end export and stops when the stated totals do not tie out. ![GitHub Repo stars](https://img.shields.io/github/stars/Sokage-AI/owner-statement-agent?style=social)
 
 ## Frameworks
 
