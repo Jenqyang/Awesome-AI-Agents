@@ -109,10 +109,12 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Revo](https://github.com/shyringo/revo) - MIT terminal agent harness that opens its own work cycle without a prompt, keeps one append-only life log, and resumes unfinished work after sleep or restart. ![GitHub Repo stars](https://img.shields.io/github/stars/shyringo/revo?style=social)
 - [Nightshift](https://github.com/orwa-mahmoud/nightshift) - MIT-licensed plugin for Claude Code, Codex and Cursor that runs long coding-agent work against a persistent punch list, holds clock-out while items are open, parks decisions instead of blocking, recovers failed sessions, and leaves a receipt per item. ![GitHub Repo stars](https://img.shields.io/github/stars/orwa-mahmoud/nightshift?style=social)
 - [Kraft](https://github.com/itsOmidKarami/kraft) - Local orchestrator that takes each task from spec to pull request with a coding agent, in its own git worktree: steps run in order from a YAML chain file, and a person approves the spec, the plan and the final review (Claude Code by default; Codex, Cursor, Gemini CLI, OpenCode, Amp and Antigravity can run steps). ![GitHub Repo stars](https://img.shields.io/github/stars/itsOmidKarami/kraft?style=social)
+- [UNCUT](https://github.com/Balanov/uncut) - MIT-licensed headless coding-agent harness with complete conversation history, untruncated tool results, resumable JSONL sessions, and a reproducible lossless proof suite. ![GitHub Repo stars](https://img.shields.io/github/stars/Balanov/uncut?style=social)
 - [OpenPhoneUse](https://github.com/joungminsung/OpenPhoneUse) - MIT-licensed Android app where an AI agent operates the phone through the accessibility service and screenshots, with no PC, root or ADB; confirms payments and security changes, and works with any OpenAI-compatible server including local Ollama. ![GitHub Repo stars](https://img.shields.io/github/stars/joungminsung/OpenPhoneUse?style=social)
 - [Turnloom](https://github.com/bhaskargurram-ai/turnloom) - Small Python coding agent for the terminal with a local web UI. Folds old tool output out of the prompt but keeps it in an archive the model and the operator can read back; edits are approval-gated diffs with undo, and an optional policy file allows, asks or denies by rule. Works with any OpenAI-compatible model, speaks MCP and ACP. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/bhaskargurram-ai/turnloom?style=social)
 - [AgentForge](https://github.com/MohitGoyal09/AgentForge) - Python terminal coding agent with MCP client, skills, subagents, checkpoints and approval gates. ![GitHub Repo stars](https://img.shields.io/github/stars/MohitGoyal09/AgentForge?style=social)
 - [nosis-harness](https://github.com/nosistech/nosis-harness) - A terminal agent written in Rust that runs open-weight models across several providers and records the reported usage of each task. ![GitHub Repo stars](https://img.shields.io/github/stars/nosistech/nosis-harness?style=social)
+- [Holon](https://github.com/holon-run/holon) - Local-first Rust workbench for always-on AI agents featuring explicit work items, event-driven wait/wake scheduling, local model/Ollama support, and git worktree isolation. ![GitHub Repo stars](https://img.shields.io/github/stars/holon-run/holon?style=social)
 
 ### Multi-Agent Task Solver Projects
 
@@ -177,6 +179,7 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 - [zeroshot](https://github.com/the-open-engine/zeroshot) - Multi-agent orchestration engine that keeps coding agents from grading their own work, running each task through a team-defined graph of writer, reviewer and test agents. ![GitHub Repo stars](https://img.shields.io/github/stars/the-open-engine/zeroshot?style=social)
 - [DOMINION](https://github.com/hushmind3/dominion-rust) - Local-first multi-agent workspace with a native Rust execution engine and a Tauri desktop app, using your own cloud keys or local models (Ollama, llama.cpp, MLX), with MCP tools and approval-gated file and shell edits. ![GitHub Repo stars](https://img.shields.io/github/stars/hushmind3/dominion-rust?style=social)
 - [Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Apache-2.0 desktop app (macOS, Windows, Linux) where an orchestrator agent splits work across Claude Code, Codex, Cursor, OpenCode and 35+ other coding agents, each in its own git worktree and branch, and routes CI failures, review comments and merge conflicts back to the agent that owns the PR. ![GitHub Repo stars](https://img.shields.io/github/stars/OrchestratorInc/agent-orchestrator?style=social)
+- [Archon OS](https://github.com/michaelbeatman/ARCHON-OS) - Self-hosted, MIT-licensed multi-agent workspace built on Hermes Agent with specialist profiles, Kanban and decision workflows, local LLM routing (Ollama/LM Studio), human approval gates, and SHA-256 hash-chained audit logs. ![GitHub Repo stars](https://img.shields.io/github/stars/michaelbeatman/ARCHON-OS?style=social)
 - [OmegaStar](https://github.com/itsfutsy/OmegaStar) - Desktop app that runs Claude Code agents as a team, each with a role, an objective, schedules and its own skill files with edit history. Teaching is a conversation workflow in which an agent creates or edits its skill files. ![GitHub Repo stars](https://img.shields.io/github/stars/itsfutsy/OmegaStar?style=social)
 
 ### Agent Society Simulation
@@ -321,6 +324,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 - [BotVow](https://github.com/Santiago1971/botvow) - Open, tamper-evident log of what two bots agreed, co-signed with Ed25519 and verifiable by anyone with public keys; a chain can travel as A2A task metadata or be checked by an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/Santiago1971/botvow?style=social)
 - [llm-budget](https://github.com/Mattbusel/llm-budget) - MIT Rust library for per-agent and shared fleet budget accounting, estimated pre-call reservations, usage settlement, kill flags and model-tier fallback signals. ![GitHub Repo stars](https://img.shields.io/github/stars/Mattbusel/llm-budget?style=social)
+- [SearchPlus](https://github.com/Explor3Universe/SearchPlus) - Agent Skill that guides deep web research through refutation searches and primary-source checks, and labels what it could not verify; installs in Claude Code, Codex, Gemini CLI and other agents. ![GitHub Repo stars](https://img.shields.io/github/stars/Explor3Universe/SearchPlus?style=social)
 
 ## Frameworks
 
@@ -496,6 +500,7 @@ Able to connect LLM with the real world.
 
 ### Blog
 
+- [Little Cups of Claude](https://littlecupsofclaude.com) - Short, focused tips for Claude Code, the Claude API, the Agent SDK and MCP, one per weekday.
 - [ossbeat](https://ossbeat.com) - Weekly write-ups tracking release notes and trends across open-source AI coding agent tooling (MCP, coding agent harnesses, agent-to-agent protocols).
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) - Amazing blog by Lilian Weng (OpenAI), Jun 23, 2023.
 - [从第一性原理看大模型Agent技术](https://mp.weixin.qq.com/s/PL-QjlvVugUfmRD4g0P-qQ)
@@ -504,7 +509,7 @@ Able to connect LLM with the real world.
 - [8bitconcepts Research](https://8bitconcepts.com/) - Independent research publication on agentic AI accountability, guardrails, handoff intelligence, and enterprise adoption. Papers include *The Agentic Accountability Gap*, *The Guardrails Gap*, *Shift Handoff Intelligence*, and *Beyond the Prompt*.
 - [When not to build an agent](https://loopandretry.github.io/posts/when-not-to-build-an-agent/) - A practitioner's decision framework for when a deterministic pipeline beats an autonomous agent, matching each task to the least-powerful reliable tool.
 - [Why is Codex browsing slow?](https://codexbrowse.site/codex-browser-slow) - BrowseSprint's diagnostic guide to session controls, three baseline and three changed runs, and retaining failed outcomes.
-
+- [Run agents on a Prized box with OpenRouter models](https://takibibase.com/learn/prized-openrouter-agents) - How-to guide for running a two-stage drafter-and-reviewer task worker with the pi harness over Tailscale Funnel, host-scoped secret brokering, and a six-model comparison on a real research card.
 - [Personal Agent Bench](https://personalagentbench.com/benchmarks/) - What nine public agent benchmarks (GAIA, BrowseComp, WebArena, OSWorld, tau-bench and others) measure, and what they leave out for personal agents.
 - [StackGrade](https://stackgrade.app) - Weekly ranking of AI and agent tools (open-source, source-available and proprietary; each tool page shows its license status), with a separate automated safety label and a weekly safety watch. Scans are automated and have known limits.
 - [AgentStackWatch](https://agentstackwatch.com) - Nightly-updated tracker of about 43 personal agents, agent frameworks and managed agent platforms, with sourced release notes, breaking changes, side-by-side comparisons and a weekly digest.
