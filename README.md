@@ -114,6 +114,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Turnloom](https://github.com/bhaskargurram-ai/turnloom) - Small Python coding agent for the terminal with a local web UI. Folds old tool output out of the prompt but keeps it in an archive the model and the operator can read back; edits are approval-gated diffs with undo, and an optional policy file allows, asks or denies by rule. Works with any OpenAI-compatible model, speaks MCP and ACP. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/bhaskargurram-ai/turnloom?style=social)
 - [AgentForge](https://github.com/MohitGoyal09/AgentForge) - Python terminal coding agent with MCP client, skills, subagents, checkpoints and approval gates. ![GitHub Repo stars](https://img.shields.io/github/stars/MohitGoyal09/AgentForge?style=social)
 - [nosis-harness](https://github.com/nosistech/nosis-harness) - A terminal agent written in Rust that runs open-weight models across several providers and records the reported usage of each task. ![GitHub Repo stars](https://img.shields.io/github/stars/nosistech/nosis-harness?style=social)
+- [Holon](https://github.com/holon-run/holon) - Local-first Rust workbench for always-on AI agents featuring explicit work items, event-driven wait/wake scheduling, local model/Ollama support, and git worktree isolation. ![GitHub Repo stars](https://img.shields.io/github/stars/holon-run/holon?style=social)
 
 ### Multi-Agent Task Solver Projects
 
