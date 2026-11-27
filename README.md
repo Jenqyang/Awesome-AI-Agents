@@ -116,6 +116,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [AgentForge](https://github.com/MohitGoyal09/AgentForge) - Python terminal coding agent with MCP client, skills, subagents, checkpoints and approval gates. ![GitHub Repo stars](https://img.shields.io/github/stars/MohitGoyal09/AgentForge?style=social)
 - [nosis-harness](https://github.com/nosistech/nosis-harness) - A terminal agent written in Rust that runs open-weight models across several providers and records the reported usage of each task. ![GitHub Repo stars](https://img.shields.io/github/stars/nosistech/nosis-harness?style=social)
 - [Holon](https://github.com/holon-run/holon) - Local-first Rust workbench for always-on AI agents featuring explicit work items, event-driven wait/wake scheduling, local model/Ollama support, and git worktree isolation. ![GitHub Repo stars](https://img.shields.io/github/stars/holon-run/holon?style=social)
+- [Praxi-Bot](https://github.com/emreocell/Praxi-Bot) - Apache-2.0 local-first desktop agent platform (Rust and Tauri) with per-action permission approvals, desktop and browser automation, scheduled tasks and Telegram control, running against local (Ollama, LM Studio) or cloud LLMs. ![GitHub Repo stars](https://img.shields.io/github/stars/emreocell/Praxi-Bot?style=social)
 
 ### Multi-Agent Task Solver Projects
 
