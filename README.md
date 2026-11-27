@@ -116,6 +116,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [AgentForge](https://github.com/MohitGoyal09/AgentForge) - Python terminal coding agent with MCP client, skills, subagents, checkpoints and approval gates. ![GitHub Repo stars](https://img.shields.io/github/stars/MohitGoyal09/AgentForge?style=social)
 - [nosis-harness](https://github.com/nosistech/nosis-harness) - A terminal agent written in Rust that runs open-weight models across several providers and records the reported usage of each task. ![GitHub Repo stars](https://img.shields.io/github/stars/nosistech/nosis-harness?style=social)
 - [Holon](https://github.com/holon-run/holon) - Local-first Rust workbench for always-on AI agents featuring explicit work items, event-driven wait/wake scheduling, local model/Ollama support, and git worktree isolation. ![GitHub Repo stars](https://img.shields.io/github/stars/holon-run/holon?style=social)
+- [EchoOS](https://github.com/justDance-everybody/EchoOS) - Minimal (<1,000 LOC Python, MIT) voice-native action runtime connecting Qwen-Omni-Realtime and OpenAI Realtime models to remote Streamable HTTP MCP servers via `tools.yaml` allowlists, with pending parameter snapshots and turn gates for configured `confirm:true` tools (triggered by a model-issued `confirm_action` on a later user turn) and voice barge-in. ![GitHub Repo stars](https://img.shields.io/github/stars/justDance-everybody/EchoOS?style=social)
 
 ### Multi-Agent Task Solver Projects
 
