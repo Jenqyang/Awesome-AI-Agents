@@ -328,6 +328,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [BotVow](https://github.com/Santiago1971/botvow) - Open, tamper-evident log of what two bots agreed, co-signed with Ed25519 and verifiable by anyone with public keys; a chain can travel as A2A task metadata or be checked by an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/Santiago1971/botvow?style=social)
 - [llm-budget](https://github.com/Mattbusel/llm-budget) - MIT Rust library for per-agent and shared fleet budget accounting, estimated pre-call reservations, usage settlement, kill flags and model-tier fallback signals. ![GitHub Repo stars](https://img.shields.io/github/stars/Mattbusel/llm-budget?style=social)
 - [SearchPlus](https://github.com/Explor3Universe/SearchPlus) - Agent Skill that guides deep web research through refutation searches and primary-source checks, and labels what it could not verify; installs in Claude Code, Codex, Gemini CLI and other agents. ![GitHub Repo stars](https://img.shields.io/github/stars/Explor3Universe/SearchPlus?style=social)
+- [busyyaks](https://github.com/robertziel/busyyaks) - Apache-2.0 self-hosted kanban board that starts Claude Code and Hermes sessions in tmux as a lead and its workers; agents move cards over the board's MCP server along the workflow's named transitions, and configurable gate columns hold cards for the operator's approval, optionally until CI is green. ![GitHub Repo stars](https://img.shields.io/github/stars/robertziel/busyyaks?style=social)
 
 ## Frameworks
 
