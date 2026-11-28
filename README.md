@@ -116,6 +116,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [AgentForge](https://github.com/MohitGoyal09/AgentForge) - Python terminal coding agent with MCP client, skills, subagents, checkpoints and approval gates. ![GitHub Repo stars](https://img.shields.io/github/stars/MohitGoyal09/AgentForge?style=social)
 - [nosis-harness](https://github.com/nosistech/nosis-harness) - A terminal agent written in Rust that runs open-weight models across several providers and records the reported usage of each task. ![GitHub Repo stars](https://img.shields.io/github/stars/nosistech/nosis-harness?style=social)
 - [Holon](https://github.com/holon-run/holon) - Local-first Rust workbench for always-on AI agents featuring explicit work items, event-driven wait/wake scheduling, local model/Ollama support, and git worktree isolation. ![GitHub Repo stars](https://img.shields.io/github/stars/holon-run/holon?style=social)
+- [Open Max](https://github.com/Max17190/open-max) - A high-performance, self-extensible terminal coding agent harness in Rust, optimized for prompt caching. The agent can write new tools and skills as files and call them on its next step. Works with any OpenAI-compatible, Anthropic, or local model. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/Max17190/open-max?style=social)
 
 ### Multi-Agent Task Solver Projects
 
