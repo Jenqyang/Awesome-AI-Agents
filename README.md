@@ -328,6 +328,8 @@ Exploring endless possibilities with open-source agent social simulation.
 - [BotVow](https://github.com/Santiago1971/botvow) - Open, tamper-evident log of what two bots agreed, co-signed with Ed25519 and verifiable by anyone with public keys; a chain can travel as A2A task metadata or be checked by an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/Santiago1971/botvow?style=social)
 - [llm-budget](https://github.com/Mattbusel/llm-budget) - MIT Rust library for per-agent and shared fleet budget accounting, estimated pre-call reservations, usage settlement, kill flags and model-tier fallback signals. ![GitHub Repo stars](https://img.shields.io/github/stars/Mattbusel/llm-budget?style=social)
 - [SearchPlus](https://github.com/Explor3Universe/SearchPlus) - Agent Skill that guides deep web research through refutation searches and primary-source checks, and labels what it could not verify; installs in Claude Code, Codex, Gemini CLI and other agents. ![GitHub Repo stars](https://img.shields.io/github/stars/Explor3Universe/SearchPlus?style=social)
+- [The SEO Agent](https://www.theseoagent.ai/) - AI SEO agent that runs site audits, builds 30-day keyword calendars, and publishes articles directly to WordPress, Shopify, Webflow, and custom CMS webhooks.
+- [AI Order Entry](https://aiorderentry.com/) - Browser-based AI order entry workflow that extracts SKUs, quantities, and line items from messy customer email and PDF purchase orders into clean CSV/ERP outputs.
 
 ## Frameworks
 
