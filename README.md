@@ -443,6 +443,7 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [Argus](https://github.com/gy15901580825/Argus) - Red-team testing CLI for AI agents that attacks them through chat endpoints, browsers, MCP tools and a mock payment merchant and reports findings mapped to OWASP LLM Top 10, MITRE ATLAS and NIST AI RMF. ![GitHub Repo stars](https://img.shields.io/github/stars/gy15901580825/Argus?style=social)
 - [Michelin](https://github.com/krishansubudhi/michelin) - Eval harness that runs a whole agent system through user journeys written in YAML; an LLM drives the agent and blind LLM judges score the recorded evidence. ![GitHub Repo stars](https://img.shields.io/github/stars/krishansubudhi/michelin?style=social)
 - [Agentry](https://github.com/dortort/agentry) - Playwright-style end-to-end testing framework for AI agent CLIs (Claude Code, Codex, Gemini, Antigravity), MCP servers, and skills with structural tool-call assertions and deterministic CI transcript replay. ![GitHub Repo stars](https://img.shields.io/github/stars/dortort/agentry?style=social)
+- [LongMemOS](https://longmemos.com) - Offline-first Rust memory OS for AI agents (zero write-time LLMs, ~75 MB RAM, UAMP v0.1) with a [public 5-benchmark audit kit](https://github.com/LongmemOS/longmemos-benchmarks).
 
 ## Platforms/API
 
