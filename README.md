@@ -217,6 +217,7 @@ Exploring endless possibilities with open-source agent social simulation.
 
 ### Tools
 
+- [Motion Skills](https://github.com/iart-ai/motion-skills) - MIT-licensed library of 19 agent skill packs that teach coding agents (Claude Code, Codex, Cursor) to make motion graphics and video locally: kinetic typography, data animation, explainers, WebGL and Manim scenes. ![GitHub Repo stars](https://img.shields.io/github/stars/iart-ai/motion-skills?style=social)
 - [Dooza Browser](https://github.com/Dooza-ai/dooza-browser) - MIT-licensed MCP and HTTP server that lets multiple AI agents share one logged-in Chromium profile with per-agent tab isolation, short Playwright script batches (`tab_playwright`), and per-site memory (`site_note`). ![GitHub Repo stars](https://img.shields.io/github/stars/Dooza-ai/dooza-browser?style=social)
 - [Concord](https://github.com/Get-Concord-AI/concord-mcp) - Open-source MCP server that lets coding agents (Claude Code, Codex, Cursor, Gemini CLI, Grok Build, Goose) message each other and coordinate in one repo with presence, file claims, handoffs and review packets; hosted workspace at getconcord.ai. ![GitHub Repo stars](https://img.shields.io/github/stars/Get-Concord-AI/concord-mcp?style=social)
 - [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local CLI and stdio MCP payment runtime for AI agents on macOS Apple Silicon, with foreground human approval for signing. ![GitHub Repo stars](https://img.shields.io/github/stars/nuanu-ai/agent-payment-node?style=social)
